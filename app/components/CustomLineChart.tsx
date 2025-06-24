@@ -15,11 +15,11 @@ import {
 
 interface MonthlyData {
   calendarDate: string;
-  numberOfHOBs: string;
-  numberOfBloodCultureSamples: string;
-  numberOfPatientDays: string;
-  bcRate: string;
-  hobRate: string;
+  numberOfHOBs: number;
+  numberOfBloodCultureSamples: number; // divided by 10 for reference to total hobs
+  numberOfPatientDays: number; // divided by 1000
+  bcRate: number;
+  hobRate: number;
 }
 
 interface RawData {
@@ -55,10 +55,10 @@ const CustomLineChart = ({
   useEffect(() => {
     const loadData = async () => {
       try {
-        let queryParams =
-          "?periodType=MONTHLY&hobType=ALL&wardGroupType=HOSPITAL";
+        let queryParams = "?periodType=MONTHLY&hobType=ALL";
         queryParams += `&calendarDateStart=${startDate}`;
         queryParams += `&calendarDateEnd=${endDate}`;
+        queryParams += `&wardGroupType=${wardGroupType}`;
         const res = await fetch(
           "http://localhost:3000/api/hob-rates" + queryParams
         );
@@ -68,11 +68,12 @@ const CustomLineChart = ({
         setChartData(
           rows.map((raw) => ({
             calendarDate: raw.calendarDateStart.slice(3),
-            numberOfHOBs: raw.numberOfHOBs,
-            numberOfBloodCultureSamples: raw.numberOfBloodCultureSamples,
-            numberOfPatientDays: raw.numberOfPatientDays,
-            bcRate: raw.bcRate,
-            hobRate: raw.hobRate,
+            numberOfHOBs: parseInt(raw.numberOfHOBs),
+            numberOfBloodCultureSamples:
+              parseInt(raw.numberOfBloodCultureSamples) / 10,
+            numberOfPatientDays: parseInt(raw.numberOfPatientDays) / 1000,
+            bcRate: parseFloat(raw.bcRate),
+            hobRate: parseInt(raw.hobRate),
           }))
         );
       } catch (err) {
@@ -84,7 +85,9 @@ const CustomLineChart = ({
 
   return (
     <>
-      <div>CustomLineChart, {startDate}</div>
+      <div className="ml-10">
+        CustomLineChart {wardGroupType} {startDate} {endDate}
+      </div>
       <ResponsiveContainer width="100%" height={300}>
         <LineChart data={chartData}>
           <CartesianGrid strokeDasharray="3 3" />
@@ -93,7 +96,20 @@ const CustomLineChart = ({
           <Tooltip />
           <Legend />
           {<Line type="monotone" dataKey="numberOfHOBs" stroke="#8884d8" />}
-          {/* {showB && <Line type="monotone" dataKey="valueB" stroke="#82ca9d" />} */}
+          {
+            <Line
+              type="monotone"
+              dataKey="numberOfPatientDays"
+              stroke="#82ca9d"
+            />
+          }
+          {
+            <Line
+              type="monotone"
+              dataKey="numberOfBloodCultureSamples"
+              stroke="#000000"
+            />
+          }
         </LineChart>
       </ResponsiveContainer>
     </>
