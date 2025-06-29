@@ -1,16 +1,28 @@
-'use client';
-
-import { useState } from 'react';
 import { AdapterDateFns } from '@mui/x-date-pickers/AdapterDateFns';
 import { LocalizationProvider } from '@mui/x-date-pickers/LocalizationProvider';
 import { DatePicker } from '@mui/x-date-pickers/DatePicker';
 import { Box, TextField, Typography } from '@mui/material';
 
 interface Props {
-  startMonth: String;
-  endMonth: String;
-  setStartMonth: (date: String) => void;
-  setEndMonth: (date: String) => void;
+  startMonth: string;
+  endMonth: string;
+  setStartMonth: (date: string) => void;
+  setEndMonth: (date: string) => void;
+}
+
+function stringToDate(input: string): Date | null {
+  if (!/^\d{6}$/.test(input)) return null;
+  const month = parseInt(input.slice(0, 2), 10) - 1;
+  const year = parseInt(input.slice(2), 10);
+  return new Date(year, month);
+}
+
+function dateToString(input: Date): string {
+  let newDate = '' + (input.getMonth() + 1) + input.getFullYear();
+  if (newDate.length == 5) {
+    newDate = '0' + newDate;
+  }
+  return newDate;
 }
 
 export default function MonthRangePicker({
@@ -19,8 +31,8 @@ export default function MonthRangePicker({
   setStartMonth,
   setEndMonth,
 }: Props) {
-  // const [startMonth, setStartMonth] = useState<Date | null>(null);
-  // const [endMonth, setEndMonth] = useState<Date | null>(null);
+  let startYear = startMonth.slice(2);
+  let endYear = endMonth.slice(2);
 
   return (
     <LocalizationProvider dateAdapter={AdapterDateFns}>
@@ -28,22 +40,15 @@ export default function MonthRangePicker({
         <DatePicker
           views={['year', 'month']}
           label="Von"
-          value={
-            new Date(
-              parseInt(startMonth.slice(2)),
-              parseInt(startMonth.slice(0, 2)) - 1
-            )
-          }
+          value={stringToDate(startMonth)}
           onChange={(newValue) => {
-            setStartMonth('01012000');
-            console.log(newValue);
+            if (newValue) {
+              let newDate = dateToString(newValue);
+              setStartMonth(newDate);
+            }
           }}
-          maxDate={
-            new Date(
-              parseInt(endMonth.slice(2)),
-              parseInt(endMonth.slice(0, 2)) - 1
-            ) ?? undefined
-          }
+          minDate={new Date(2022, 9)}
+          maxDate={new Date(2024, 11)}
           slotProps={{ textField: { size: 'small' } }}
         />
 
@@ -57,15 +62,13 @@ export default function MonthRangePicker({
             )
           }
           onChange={(newValue) => {
-            setEndMonth('' + newValue?.getMonth() + newValue?.getFullYear());
-            console.log(endMonth);
+            if (newValue) {
+              let newDate = dateToString(newValue);
+              setEndMonth(newDate);
+            }
           }}
-          minDate={
-            new Date(
-              parseInt(startMonth.slice(2)),
-              parseInt(startMonth.slice(0, 2)) - 1
-            ) ?? undefined
-          }
+          minDate={new Date(2022, 9)}
+          maxDate={new Date(2024, 11)}
           slotProps={{ textField: { size: 'small' } }}
         />
       </Box>

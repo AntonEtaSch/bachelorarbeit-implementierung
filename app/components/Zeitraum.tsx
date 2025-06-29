@@ -2,10 +2,10 @@ import React from 'react';
 import MonthPicker from './MonthPicker';
 
 interface Props {
-  startMonth: String;
-  endMonth: String;
-  setStartMonth: (date: String) => void;
-  setEndMonth: (date: String) => void;
+  startMonth: string;
+  endMonth: string;
+  setStartMonth: (date: string) => void;
+  setEndMonth: (date: string) => void;
 }
 
 const Zeitraum = ({

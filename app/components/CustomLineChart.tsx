@@ -1,7 +1,7 @@
-"use client";
+'use client';
 
-import React, { useEffect } from "react";
-import { useState } from "react";
+import React, { useEffect } from 'react';
+import { useState } from 'react';
 import {
   LineChart,
   Line,
@@ -11,7 +11,7 @@ import {
   Tooltip,
   Legend,
   ResponsiveContainer,
-} from "recharts";
+} from 'recharts';
 
 interface MonthlyData {
   calendarDate: string;
@@ -52,15 +52,19 @@ const CustomLineChart = ({
   wardGroupValue,
 }: Props) => {
   const [chartData, setChartData] = useState<MonthlyData[]>([]);
+  // const [loading, setLoading] = useState(false);
+  let noData = false;
+
   useEffect(() => {
     const loadData = async () => {
       try {
-        let queryParams = "?periodType=MONTHLY&hobType=ALL";
+        let queryParams = '?hobType=ALL';
         queryParams += `&calendarDateStart=${startDate}`;
         queryParams += `&calendarDateEnd=${endDate}`;
         queryParams += `&wardGroupType=${wardGroupType}`;
+        queryParams += `&wardGroupValue=${wardGroupValue}`;
         const res = await fetch(
-          "http://localhost:3000/api/hob-rates" + queryParams
+          'http://localhost:3000/api/hob-rates' + queryParams
         );
         if (!res.ok) throw new Error(`HTTP Fehler! Status ${res.status}`);
         const rows: RawData[] = await res.json();
@@ -77,17 +81,15 @@ const CustomLineChart = ({
           }))
         );
       } catch (err) {
-        console.log("Fehler beim Lesen der Daten:", err);
+        noData = true;
+        console.log('Fehler beim Lesen der Daten:', err);
       }
     };
     loadData();
-  }, []);
+  }, [startDate, endDate, wardGroupType, wardGroupValue]);
 
   return (
     <>
-      <div className="ml-10">
-        CustomLineChart {wardGroupType} {startDate} {endDate}
-      </div>
       <ResponsiveContainer width="100%" height={300}>
         <LineChart data={chartData}>
           <CartesianGrid strokeDasharray="3 3" />
@@ -95,9 +97,17 @@ const CustomLineChart = ({
           <YAxis />
           <Tooltip />
           <Legend />
-          {<Line type="monotone" dataKey="numberOfHOBs" stroke="#8884d8" />}
           {
             <Line
+              isAnimationActive={false}
+              type="monotone"
+              dataKey="numberOfHOBs"
+              stroke="#8884d8"
+            />
+          }
+          {
+            <Line
+              isAnimationActive={false}
               type="monotone"
               dataKey="numberOfPatientDays"
               stroke="#82ca9d"
@@ -105,6 +115,7 @@ const CustomLineChart = ({
           }
           {
             <Line
+              isAnimationActive={false}
               type="monotone"
               dataKey="numberOfBloodCultureSamples"
               stroke="#000000"
