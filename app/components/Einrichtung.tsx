@@ -1,5 +1,6 @@
 import React from 'react';
 import { FormControl, InputLabel, Select, MenuItem } from '@mui/material';
+import DropdownSubheader from './DropdownSubheader';
 
 interface Props {
   hospital: string;
@@ -89,7 +90,7 @@ const Einrichtung = ({
     'RHB',
     'OTH',
   ];
-  const localWards1 = ['LocalGroup2', 'LocalGroup1'];
+  const localWards1 = ['LocalGroup1', 'LocalGroup2'];
 
   return (
     <div>
@@ -121,6 +122,7 @@ const Einrichtung = ({
           label="Ward Group Type"
           onChange={(event) => {
             setWardGroupType(event.target.value);
+            setWardGroup('Alle');
           }}
         >
           <MenuItem value={'Alle'}>Alle</MenuItem>
@@ -138,13 +140,29 @@ const Einrichtung = ({
           label="Ward Group"
           onChange={(event) => {
             setWardGroup(event.target.value);
+            if (wards1.includes(event.target.value)) setWardGroupType('WARD');
+            else if (ecdcWards1.includes(event.target.value))
+              setWardGroupType('ECDCWARD');
+            else if (localWards1.includes(event.target.value))
+              setWardGroupType('LOCALWARD');
           }}
         >
-          <MenuItem value={''}>Alle</MenuItem>
+          <MenuItem value={'Alle'}>Alle</MenuItem>
+          {wardGroupType == 'Alle' && (
+            <DropdownSubheader>Wards</DropdownSubheader>
+          )}
           {(wardGroupType == 'Alle' || wardGroupType == 'WARD') &&
             wards1.map((w) => <MenuItem value={w}>{w}</MenuItem>)}
+
+          {wardGroupType == 'Alle' && (
+            <DropdownSubheader>ECDC Wards</DropdownSubheader>
+          )}
           {(wardGroupType == 'Alle' || wardGroupType == 'ECDCWARD') &&
             ecdcWards1.map((w) => <MenuItem value={w}>{w}</MenuItem>)}
+
+          {wardGroupType == 'Alle' && (
+            <DropdownSubheader>Local Wards</DropdownSubheader>
+          )}
           {(wardGroupType == 'Alle' || wardGroupType == 'LOCALWARD') &&
             localWards1.map((w) => <MenuItem value={w}>{w}</MenuItem>)}
         </Select>

@@ -58,13 +58,18 @@ const CustomLineChart = ({
   useEffect(() => {
     const loadData = async () => {
       try {
-        let queryParams = '?hobType=ALL';
+        let queryParams = `?hobType=${hobType}`;
         queryParams += `&calendarDateStart=${startDate}`;
         queryParams += `&calendarDateEnd=${endDate}`;
-        queryParams += `&wardGroupType=${wardGroupType}`;
-        queryParams += `&wardGroupValue=${wardGroupValue}`;
+        if (wardGroupType == 'Alle') queryParams += `&wardGroupType=HOSPITAL`;
+        else queryParams += `&wardGroupType=${wardGroupType}`;
+        if (wardGroupValue == 'Alle') {
+          if (wardGroupType == 'Alle')
+            queryParams += `&wardGroupValue=HOSPITAL`;
+          else queryParams += `&wardGroupValue=${wardGroupType}`;
+        } else queryParams += `&wardGroupValue=${wardGroupValue}`;
         const res = await fetch(
-          'http://localhost:3000/api/hob-rates' + queryParams
+          'http://localhost:3000/api/hob-rates-1' + queryParams
         );
         if (!res.ok) throw new Error(`HTTP Fehler! Status ${res.status}`);
         const rows: RawData[] = await res.json();
@@ -86,7 +91,7 @@ const CustomLineChart = ({
       }
     };
     loadData();
-  }, [startDate, endDate, wardGroupType, wardGroupValue]);
+  }, [startDate, endDate, wardGroupType, wardGroupValue, hobType]);
 
   return (
     <>

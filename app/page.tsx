@@ -14,6 +14,8 @@ export default function Home() {
   const [wardGroupType, setWardGroupType] = useState<string>('Alle');
   const [wardGroup, setWardGroup] = useState<string>('Alle');
 
+  const [hobType, setHobType] = useState<string>('ALL');
+
   return (
     <div className="mr-10">
       <div className="ml-10">
@@ -28,12 +30,14 @@ export default function Home() {
           endMonth={endMonth}
           setStartMonth={setStartMonth}
           setEndMonth={setEndMonth}
+          hobType={hobType}
+          setHobType={setHobType}
         ></Auswahl>
       </div>
       <CustomLineChart
         startDate={startMonth}
         endDate={endMonth}
-        hobType=""
+        hobType={hobType}
         wardGroupType={wardGroupType}
         wardGroupValue={wardGroup}
       ></CustomLineChart>

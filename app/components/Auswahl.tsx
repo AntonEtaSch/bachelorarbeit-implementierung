@@ -1,6 +1,7 @@
 import React from 'react';
 import Zeitraum from './Zeitraum';
 import Einrichtung from './Einrichtung';
+import HobTypeSelect from './HobTypeSelect';
 
 interface Props {
   startMonth: string;
@@ -13,6 +14,8 @@ interface Props {
   setHospital: (s: string) => void;
   setWardGroupType: (s: string) => void;
   setWardGroup: (s: string) => void;
+  hobType: string;
+  setHobType: (s: string) => void;
 }
 
 const Auswahl = ({
@@ -26,6 +29,8 @@ const Auswahl = ({
   setHospital,
   setWardGroupType,
   setWardGroup,
+  hobType,
+  setHobType,
 }: Props) => {
   return (
     <div>
@@ -43,6 +48,7 @@ const Auswahl = ({
         setStartMonth={setStartMonth}
         setEndMonth={setEndMonth}
       ></Zeitraum>
+      <HobTypeSelect hobType={hobType} setHobType={setHobType}></HobTypeSelect>
     </div>
   );
 };
