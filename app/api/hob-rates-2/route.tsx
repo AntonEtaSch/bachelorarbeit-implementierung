@@ -1,8 +1,9 @@
+import { hospitaldata2 } from './data';
+
 import { NextRequest, NextResponse } from 'next/server';
-import { hospitaldata1 } from './data';
 
 export function GET(request: NextRequest) {
-  let hobs = hospitaldata1;
+  let hobs = hospitaldata2;
 
   // ?hobType=ALL&calenderDateStart=""&calenderDateEnd=""&wardGroupType=""&wardGroupValue=""&onlyPatientDays=true
 

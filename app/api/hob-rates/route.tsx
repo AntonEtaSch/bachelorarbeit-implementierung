@@ -1,11 +1,21 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { hospitaldata1 } from './data';
+import { hospitaldata1 } from './data-1';
+import { hospitaldata2 } from './data-2';
+import { hospitaldata3 } from './data-3';
 
 export function GET(request: NextRequest) {
+  const hospital = request.nextUrl.searchParams.get('hospital');
   let hobs = hospitaldata1;
-
-  // ?hobType=ALL&calenderDateStart=""&calenderDateEnd=""&wardGroupType=""&wardGroupValue=""&onlyPatientDays=true
-
+  switch (hospital) {
+    case '2':
+      hobs = hospitaldata2;
+      break;
+    case '3':
+      hobs = hospitaldata3;
+      break;
+    default:
+      break;
+  }
   const hobType = request.nextUrl.searchParams.get('hobType');
   const calendarDateStart =
     request.nextUrl.searchParams.get('calendarDateStart');
