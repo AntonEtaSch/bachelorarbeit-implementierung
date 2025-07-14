@@ -80,8 +80,6 @@ const Auswahl = ({
       ></Zeitraum>
       <div className="my-3">
         Ansicht Auswählen
-        {rateSwitch && <> On</>}
-        {!rateSwitch && <> Off</>}
         <Stack direction="row" spacing={1} sx={{ alignItems: 'center' }}>
           <div className="mr-5">
             <HobTypeSelect

@@ -26366,8 +26366,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '4',
       numberOfBloodCultureSamples: '14',
       numberOfPatientDays: '2920',
-      bcRate: '4,794520547945206',
-      hobRate: '1,36986301369863',
+      bcRate: '4.794520547945206',
+      hobRate: '1.36986301369863',
     },
     {
       hobType: 'ALL',
@@ -26438,8 +26438,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '115',
-      bcRate: '17,391304347826086',
-      hobRate: '8,695652173913043',
+      bcRate: '17.391304347826086',
+      hobRate: '8.695652173913043',
     },
     {
       hobType: 'ALL',
@@ -26474,7 +26474,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '46',
-      bcRate: '21,73913043478261',
+      bcRate: '21.73913043478261',
       hobRate: '0',
     },
     {
@@ -26522,7 +26522,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '34',
-      bcRate: '29,41176470588235',
+      bcRate: '29.41176470588235',
       hobRate: '0',
     },
     {
@@ -26547,7 +26547,7 @@ export const hospitaldata1 = [
       numberOfBloodCultureSamples: '0',
       numberOfPatientDays: '60',
       bcRate: '0',
-      hobRate: '16,666666666666668',
+      hobRate: '16.666666666666668',
     },
     {
       hobType: 'ALL',
@@ -26822,8 +26822,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '28',
-      bcRate: '35,714285714285715',
-      hobRate: '35,714285714285715',
+      bcRate: '35.714285714285715',
+      hobRate: '35.714285714285715',
     },
     {
       hobType: 'ALL',
@@ -26870,7 +26870,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '122',
-      bcRate: '8,196721311475411',
+      bcRate: '8.196721311475411',
       hobRate: '0',
     },
     {
@@ -27086,8 +27086,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '8',
       numberOfPatientDays: '345',
-      bcRate: '23,18840579710145',
-      hobRate: '5,797101449275362',
+      bcRate: '23.18840579710145',
+      hobRate: '5.797101449275362',
     },
     {
       hobType: 'ALL',
@@ -27122,8 +27122,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '404',
-      bcRate: '12,376237623762377',
-      hobRate: '4,9504950495049505',
+      bcRate: '12.376237623762377',
+      hobRate: '4.9504950495049505',
     },
     {
       hobType: 'ALL',
@@ -27134,7 +27134,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '280',
-      bcRate: '3,571428571428571',
+      bcRate: '3.571428571428571',
       hobRate: '0',
     },
     {
@@ -27206,8 +27206,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '9',
       numberOfPatientDays: '1109',
-      bcRate: '8,115419296663662',
-      hobRate: '0,9017132551848511',
+      bcRate: '8.115419296663662',
+      hobRate: '0.9017132551848511',
     },
     {
       hobType: 'ALL',
@@ -27218,8 +27218,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '3',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '1811',
-      bcRate: '2,7609055770292654',
-      hobRate: '1,6565433462175594',
+      bcRate: '2.7609055770292654',
+      hobRate: '1.6565433462175594',
     },
     {
       hobType: 'ALL',
@@ -27242,8 +27242,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '4',
       numberOfBloodCultureSamples: '14',
       numberOfPatientDays: '2920',
-      bcRate: '4,794520547945206',
-      hobRate: '1,36986301369863',
+      bcRate: '4.794520547945206',
+      hobRate: '1.36986301369863',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -27314,8 +27314,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '115',
-      bcRate: '17,391304347826086',
-      hobRate: '8,695652173913043',
+      bcRate: '17.391304347826086',
+      hobRate: '8.695652173913043',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -27350,7 +27350,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '46',
-      bcRate: '21,73913043478261',
+      bcRate: '21.73913043478261',
       hobRate: '0',
     },
     {
@@ -27398,7 +27398,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '34',
-      bcRate: '29,41176470588235',
+      bcRate: '29.41176470588235',
       hobRate: '0',
     },
     {
@@ -27423,7 +27423,7 @@ export const hospitaldata1 = [
       numberOfBloodCultureSamples: '0',
       numberOfPatientDays: '60',
       bcRate: '0',
-      hobRate: '16,666666666666668',
+      hobRate: '16.666666666666668',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -27698,8 +27698,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '28',
-      bcRate: '35,714285714285715',
-      hobRate: '35,714285714285715',
+      bcRate: '35.714285714285715',
+      hobRate: '35.714285714285715',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -27746,7 +27746,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '122',
-      bcRate: '8,196721311475411',
+      bcRate: '8.196721311475411',
       hobRate: '0',
     },
     {
@@ -27962,8 +27962,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '8',
       numberOfPatientDays: '345',
-      bcRate: '23,18840579710145',
-      hobRate: '5,797101449275362',
+      bcRate: '23.18840579710145',
+      hobRate: '5.797101449275362',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -27998,8 +27998,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '404',
-      bcRate: '12,376237623762377',
-      hobRate: '4,9504950495049505',
+      bcRate: '12.376237623762377',
+      hobRate: '4.9504950495049505',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -28010,7 +28010,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '280',
-      bcRate: '3,571428571428571',
+      bcRate: '3.571428571428571',
       hobRate: '0',
     },
     {
@@ -28082,8 +28082,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '9',
       numberOfPatientDays: '1109',
-      bcRate: '8,115419296663662',
-      hobRate: '0,9017132551848511',
+      bcRate: '8.115419296663662',
+      hobRate: '0.9017132551848511',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -28094,8 +28094,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '3',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '1811',
-      bcRate: '2,7609055770292654',
-      hobRate: '1,6565433462175594',
+      bcRate: '2.7609055770292654',
+      hobRate: '1.6565433462175594',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -28118,7 +28118,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '14',
       numberOfPatientDays: '2920',
-      bcRate: '4,794520547945206',
+      bcRate: '4.794520547945206',
       hobRate: '0',
     },
     {
@@ -28190,7 +28190,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '115',
-      bcRate: '17,391304347826086',
+      bcRate: '17.391304347826086',
       hobRate: '0',
     },
     {
@@ -28226,7 +28226,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '46',
-      bcRate: '21,73913043478261',
+      bcRate: '21.73913043478261',
       hobRate: '0',
     },
     {
@@ -28274,7 +28274,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '34',
-      bcRate: '29,41176470588235',
+      bcRate: '29.41176470588235',
       hobRate: '0',
     },
     {
@@ -28574,7 +28574,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '28',
-      bcRate: '35,714285714285715',
+      bcRate: '35.714285714285715',
       hobRate: '0',
     },
     {
@@ -28622,7 +28622,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '122',
-      bcRate: '8,196721311475411',
+      bcRate: '8.196721311475411',
       hobRate: '0',
     },
     {
@@ -28838,7 +28838,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '8',
       numberOfPatientDays: '345',
-      bcRate: '23,18840579710145',
+      bcRate: '23.18840579710145',
       hobRate: '0',
     },
     {
@@ -28874,7 +28874,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '404',
-      bcRate: '12,376237623762377',
+      bcRate: '12.376237623762377',
       hobRate: '0',
     },
     {
@@ -28886,7 +28886,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '280',
-      bcRate: '3,571428571428571',
+      bcRate: '3.571428571428571',
       hobRate: '0',
     },
     {
@@ -28958,7 +28958,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '9',
       numberOfPatientDays: '1109',
-      bcRate: '8,115419296663662',
+      bcRate: '8.115419296663662',
       hobRate: '0',
     },
     {
@@ -28970,7 +28970,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '1811',
-      bcRate: '2,7609055770292654',
+      bcRate: '2.7609055770292654',
       hobRate: '0',
     },
     {
@@ -28994,8 +28994,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '11',
       numberOfBloodCultureSamples: '51',
       numberOfPatientDays: '6080',
-      bcRate: '8,388157894736842',
-      hobRate: '1,8092105263157894',
+      bcRate: '8.388157894736842',
+      hobRate: '1.8092105263157894',
     },
     {
       hobType: 'ALL',
@@ -29066,7 +29066,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '193',
-      bcRate: '5,181347150259067',
+      bcRate: '5.181347150259067',
       hobRate: '0',
     },
     {
@@ -29090,8 +29090,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '134',
-      bcRate: '52,23880597014925',
-      hobRate: '14,925373134328359',
+      bcRate: '52.23880597014925',
+      hobRate: '14.925373134328359',
     },
     {
       hobType: 'ALL',
@@ -29102,7 +29102,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '57',
-      bcRate: '35,08771929824561',
+      bcRate: '35.08771929824561',
       hobRate: '0',
     },
     {
@@ -29114,7 +29114,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '90',
-      bcRate: '44,44444444444444',
+      bcRate: '44.44444444444444',
       hobRate: '0',
     },
     {
@@ -29150,8 +29150,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '134',
-      bcRate: '14,925373134328359',
-      hobRate: '7,462686567164179',
+      bcRate: '14.925373134328359',
+      hobRate: '7.462686567164179',
     },
     {
       hobType: 'ALL',
@@ -29162,7 +29162,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '46',
-      bcRate: '43,47826086956522',
+      bcRate: '43.47826086956522',
       hobRate: '0',
     },
     {
@@ -29174,8 +29174,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '3',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '57',
-      bcRate: '17,543859649122805',
-      hobRate: '52,63157894736842',
+      bcRate: '17.543859649122805',
+      hobRate: '52.63157894736842',
     },
     {
       hobType: 'ALL',
@@ -29186,8 +29186,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '136',
-      bcRate: '22,058823529411764',
-      hobRate: '7,352941176470588',
+      bcRate: '22.058823529411764',
+      hobRate: '7.352941176470588',
     },
     {
       hobType: 'ALL',
@@ -29198,8 +29198,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '8',
       numberOfPatientDays: '136',
-      bcRate: '58,8235294117647',
-      hobRate: '14,705882352941176',
+      bcRate: '58.8235294117647',
+      hobRate: '14.705882352941176',
     },
     {
       hobType: 'ALL',
@@ -29223,7 +29223,7 @@ export const hospitaldata1 = [
       numberOfBloodCultureSamples: '0',
       numberOfPatientDays: '201',
       bcRate: '0',
-      hobRate: '4,975124378109452',
+      hobRate: '4.975124378109452',
     },
     {
       hobType: 'ALL',
@@ -29246,7 +29246,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '47',
-      bcRate: '21,27659574468085',
+      bcRate: '21.27659574468085',
       hobRate: '0',
     },
     {
@@ -29258,7 +29258,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '212',
-      bcRate: '9,433962264150942',
+      bcRate: '9.433962264150942',
       hobRate: '0',
     },
     {
@@ -29414,8 +29414,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '111',
-      bcRate: '18,01801801801802',
-      hobRate: '9,00900900900901',
+      bcRate: '18.01801801801802',
+      hobRate: '9.00900900900901',
     },
     {
       hobType: 'ALL',
@@ -29438,7 +29438,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '33',
-      bcRate: '30,303030303030305',
+      bcRate: '30.303030303030305',
       hobRate: '0',
     },
     {
@@ -29691,7 +29691,7 @@ export const hospitaldata1 = [
       numberOfBloodCultureSamples: '0',
       numberOfPatientDays: '572',
       bcRate: '0',
-      hobRate: '1,7482517482517483',
+      hobRate: '1.7482517482517483',
     },
     {
       hobType: 'ALL',
@@ -29702,7 +29702,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '687',
-      bcRate: '5,822416302765648',
+      bcRate: '5.822416302765648',
       hobRate: '0',
     },
     {
@@ -29714,8 +29714,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '730',
-      bcRate: '9,589041095890412',
-      hobRate: '1,36986301369863',
+      bcRate: '9.589041095890412',
+      hobRate: '1.36986301369863',
     },
     {
       hobType: 'ALL',
@@ -29726,7 +29726,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '574',
-      bcRate: '5,226480836236934',
+      bcRate: '5.226480836236934',
       hobRate: '0',
     },
     {
@@ -29738,7 +29738,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '305',
-      bcRate: '16,393442622950822',
+      bcRate: '16.393442622950822',
       hobRate: '0',
     },
     {
@@ -29750,8 +29750,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '4',
       numberOfBloodCultureSamples: '10',
       numberOfPatientDays: '817',
-      bcRate: '12,239902080783354',
-      hobRate: '4,8959608323133414',
+      bcRate: '12.239902080783354',
+      hobRate: '4.8959608323133414',
     },
     {
       hobType: 'ALL',
@@ -29762,8 +29762,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '276',
-      bcRate: '25,36231884057971',
-      hobRate: '7,246376811594203',
+      bcRate: '25.36231884057971',
+      hobRate: '7.246376811594203',
     },
     {
       hobType: 'ALL',
@@ -29774,7 +29774,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '450',
-      bcRate: '4,444444444444445',
+      bcRate: '4.444444444444445',
       hobRate: '0',
     },
     {
@@ -29786,8 +29786,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '485',
-      bcRate: '6,185567010309278',
-      hobRate: '2,061855670103093',
+      bcRate: '6.185567010309278',
+      hobRate: '2.061855670103093',
     },
     {
       hobType: 'ALL',
@@ -29798,8 +29798,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '8',
       numberOfPatientDays: '857',
-      bcRate: '9,334889148191364',
-      hobRate: '2,333722287047841',
+      bcRate: '9.334889148191364',
+      hobRate: '2.333722287047841',
     },
     {
       hobType: 'ALL',
@@ -29810,7 +29810,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '327',
-      bcRate: '6,116207951070336',
+      bcRate: '6.116207951070336',
       hobRate: '0',
     },
     {
@@ -29834,8 +29834,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '4',
       numberOfBloodCultureSamples: '30',
       numberOfPatientDays: '2815',
-      bcRate: '10,657193605683837',
-      hobRate: '1,4209591474245116',
+      bcRate: '10.657193605683837',
+      hobRate: '1.4209591474245116',
     },
     {
       hobType: 'ALL',
@@ -29846,8 +29846,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '7',
       numberOfBloodCultureSamples: '21',
       numberOfPatientDays: '3265',
-      bcRate: '6,431852986217457',
-      hobRate: '2,1439509954058193',
+      bcRate: '6.431852986217457',
+      hobRate: '2.1439509954058193',
     },
     {
       hobType: 'ALL',
@@ -29870,8 +29870,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '10',
       numberOfBloodCultureSamples: '51',
       numberOfPatientDays: '6080',
-      bcRate: '8,388157894736842',
-      hobRate: '1,644736842105263',
+      bcRate: '8.388157894736842',
+      hobRate: '1.644736842105263',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -29942,7 +29942,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '193',
-      bcRate: '5,181347150259067',
+      bcRate: '5.181347150259067',
       hobRate: '0',
     },
     {
@@ -29966,8 +29966,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '134',
-      bcRate: '52,23880597014925',
-      hobRate: '14,925373134328359',
+      bcRate: '52.23880597014925',
+      hobRate: '14.925373134328359',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -29978,7 +29978,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '57',
-      bcRate: '35,08771929824561',
+      bcRate: '35.08771929824561',
       hobRate: '0',
     },
     {
@@ -29990,7 +29990,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '90',
-      bcRate: '44,44444444444444',
+      bcRate: '44.44444444444444',
       hobRate: '0',
     },
     {
@@ -30026,8 +30026,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '134',
-      bcRate: '14,925373134328359',
-      hobRate: '7,462686567164179',
+      bcRate: '14.925373134328359',
+      hobRate: '7.462686567164179',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -30038,7 +30038,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '46',
-      bcRate: '43,47826086956522',
+      bcRate: '43.47826086956522',
       hobRate: '0',
     },
     {
@@ -30050,8 +30050,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '57',
-      bcRate: '17,543859649122805',
-      hobRate: '35,08771929824561',
+      bcRate: '17.543859649122805',
+      hobRate: '35.08771929824561',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -30062,8 +30062,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '136',
-      bcRate: '22,058823529411764',
-      hobRate: '7,352941176470588',
+      bcRate: '22.058823529411764',
+      hobRate: '7.352941176470588',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -30074,8 +30074,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '8',
       numberOfPatientDays: '136',
-      bcRate: '58,8235294117647',
-      hobRate: '14,705882352941176',
+      bcRate: '58.8235294117647',
+      hobRate: '14.705882352941176',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -30099,7 +30099,7 @@ export const hospitaldata1 = [
       numberOfBloodCultureSamples: '0',
       numberOfPatientDays: '201',
       bcRate: '0',
-      hobRate: '4,975124378109452',
+      hobRate: '4.975124378109452',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -30122,7 +30122,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '47',
-      bcRate: '21,27659574468085',
+      bcRate: '21.27659574468085',
       hobRate: '0',
     },
     {
@@ -30134,7 +30134,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '212',
-      bcRate: '9,433962264150942',
+      bcRate: '9.433962264150942',
       hobRate: '0',
     },
     {
@@ -30290,8 +30290,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '111',
-      bcRate: '18,01801801801802',
-      hobRate: '9,00900900900901',
+      bcRate: '18.01801801801802',
+      hobRate: '9.00900900900901',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -30314,7 +30314,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '33',
-      bcRate: '30,303030303030305',
+      bcRate: '30.303030303030305',
       hobRate: '0',
     },
     {
@@ -30567,7 +30567,7 @@ export const hospitaldata1 = [
       numberOfBloodCultureSamples: '0',
       numberOfPatientDays: '572',
       bcRate: '0',
-      hobRate: '1,7482517482517483',
+      hobRate: '1.7482517482517483',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -30578,7 +30578,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '687',
-      bcRate: '5,822416302765648',
+      bcRate: '5.822416302765648',
       hobRate: '0',
     },
     {
@@ -30590,8 +30590,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '730',
-      bcRate: '9,589041095890412',
-      hobRate: '1,36986301369863',
+      bcRate: '9.589041095890412',
+      hobRate: '1.36986301369863',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -30602,7 +30602,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '574',
-      bcRate: '5,226480836236934',
+      bcRate: '5.226480836236934',
       hobRate: '0',
     },
     {
@@ -30614,7 +30614,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '305',
-      bcRate: '16,393442622950822',
+      bcRate: '16.393442622950822',
       hobRate: '0',
     },
     {
@@ -30626,8 +30626,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '3',
       numberOfBloodCultureSamples: '10',
       numberOfPatientDays: '817',
-      bcRate: '12,239902080783354',
-      hobRate: '3,6719706242350063',
+      bcRate: '12.239902080783354',
+      hobRate: '3.6719706242350063',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -30638,8 +30638,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '276',
-      bcRate: '25,36231884057971',
-      hobRate: '7,246376811594203',
+      bcRate: '25.36231884057971',
+      hobRate: '7.246376811594203',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -30650,7 +30650,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '450',
-      bcRate: '4,444444444444445',
+      bcRate: '4.444444444444445',
       hobRate: '0',
     },
     {
@@ -30662,8 +30662,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '485',
-      bcRate: '6,185567010309278',
-      hobRate: '2,061855670103093',
+      bcRate: '6.185567010309278',
+      hobRate: '2.061855670103093',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -30674,8 +30674,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '8',
       numberOfPatientDays: '857',
-      bcRate: '9,334889148191364',
-      hobRate: '2,333722287047841',
+      bcRate: '9.334889148191364',
+      hobRate: '2.333722287047841',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -30686,7 +30686,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '327',
-      bcRate: '6,116207951070336',
+      bcRate: '6.116207951070336',
       hobRate: '0',
     },
     {
@@ -30710,8 +30710,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '4',
       numberOfBloodCultureSamples: '30',
       numberOfPatientDays: '2815',
-      bcRate: '10,657193605683837',
-      hobRate: '1,4209591474245116',
+      bcRate: '10.657193605683837',
+      hobRate: '1.4209591474245116',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -30722,8 +30722,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '6',
       numberOfBloodCultureSamples: '21',
       numberOfPatientDays: '3265',
-      bcRate: '6,431852986217457',
-      hobRate: '1,8376722817764164',
+      bcRate: '6.431852986217457',
+      hobRate: '1.8376722817764164',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -30746,8 +30746,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '51',
       numberOfPatientDays: '6080',
-      bcRate: '8,388157894736842',
-      hobRate: '0,1644736842105263',
+      bcRate: '8.388157894736842',
+      hobRate: '0.1644736842105263',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -30818,7 +30818,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '193',
-      bcRate: '5,181347150259067',
+      bcRate: '5.181347150259067',
       hobRate: '0',
     },
     {
@@ -30842,7 +30842,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '134',
-      bcRate: '52,23880597014925',
+      bcRate: '52.23880597014925',
       hobRate: '0',
     },
     {
@@ -30854,7 +30854,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '57',
-      bcRate: '35,08771929824561',
+      bcRate: '35.08771929824561',
       hobRate: '0',
     },
     {
@@ -30866,7 +30866,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '90',
-      bcRate: '44,44444444444444',
+      bcRate: '44.44444444444444',
       hobRate: '0',
     },
     {
@@ -30902,7 +30902,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '134',
-      bcRate: '14,925373134328359',
+      bcRate: '14.925373134328359',
       hobRate: '0',
     },
     {
@@ -30914,7 +30914,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '46',
-      bcRate: '43,47826086956522',
+      bcRate: '43.47826086956522',
       hobRate: '0',
     },
     {
@@ -30926,8 +30926,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '57',
-      bcRate: '17,543859649122805',
-      hobRate: '17,543859649122805',
+      bcRate: '17.543859649122805',
+      hobRate: '17.543859649122805',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -30938,7 +30938,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '136',
-      bcRate: '22,058823529411764',
+      bcRate: '22.058823529411764',
       hobRate: '0',
     },
     {
@@ -30950,7 +30950,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '8',
       numberOfPatientDays: '136',
-      bcRate: '58,8235294117647',
+      bcRate: '58.8235294117647',
       hobRate: '0',
     },
     {
@@ -30998,7 +30998,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '47',
-      bcRate: '21,27659574468085',
+      bcRate: '21.27659574468085',
       hobRate: '0',
     },
     {
@@ -31010,7 +31010,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '212',
-      bcRate: '9,433962264150942',
+      bcRate: '9.433962264150942',
       hobRate: '0',
     },
     {
@@ -31166,7 +31166,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '111',
-      bcRate: '18,01801801801802',
+      bcRate: '18.01801801801802',
       hobRate: '0',
     },
     {
@@ -31190,7 +31190,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '33',
-      bcRate: '30,303030303030305',
+      bcRate: '30.303030303030305',
       hobRate: '0',
     },
     {
@@ -31454,7 +31454,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '687',
-      bcRate: '5,822416302765648',
+      bcRate: '5.822416302765648',
       hobRate: '0',
     },
     {
@@ -31466,7 +31466,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '730',
-      bcRate: '9,589041095890412',
+      bcRate: '9.589041095890412',
       hobRate: '0',
     },
     {
@@ -31478,7 +31478,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '574',
-      bcRate: '5,226480836236934',
+      bcRate: '5.226480836236934',
       hobRate: '0',
     },
     {
@@ -31490,7 +31490,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '305',
-      bcRate: '16,393442622950822',
+      bcRate: '16.393442622950822',
       hobRate: '0',
     },
     {
@@ -31502,8 +31502,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '10',
       numberOfPatientDays: '817',
-      bcRate: '12,239902080783354',
-      hobRate: '1,2239902080783354',
+      bcRate: '12.239902080783354',
+      hobRate: '1.2239902080783354',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -31514,7 +31514,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '276',
-      bcRate: '25,36231884057971',
+      bcRate: '25.36231884057971',
       hobRate: '0',
     },
     {
@@ -31526,7 +31526,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '450',
-      bcRate: '4,444444444444445',
+      bcRate: '4.444444444444445',
       hobRate: '0',
     },
     {
@@ -31538,7 +31538,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '485',
-      bcRate: '6,185567010309278',
+      bcRate: '6.185567010309278',
       hobRate: '0',
     },
     {
@@ -31550,7 +31550,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '8',
       numberOfPatientDays: '857',
-      bcRate: '9,334889148191364',
+      bcRate: '9.334889148191364',
       hobRate: '0',
     },
     {
@@ -31562,7 +31562,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '327',
-      bcRate: '6,116207951070336',
+      bcRate: '6.116207951070336',
       hobRate: '0',
     },
     {
@@ -31586,7 +31586,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '30',
       numberOfPatientDays: '2815',
-      bcRate: '10,657193605683837',
+      bcRate: '10.657193605683837',
       hobRate: '0',
     },
     {
@@ -31598,8 +31598,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '21',
       numberOfPatientDays: '3265',
-      bcRate: '6,431852986217457',
-      hobRate: '0,30627871362940273',
+      bcRate: '6.431852986217457',
+      hobRate: '0.30627871362940273',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -31622,8 +31622,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '6',
       numberOfBloodCultureSamples: '42',
       numberOfPatientDays: '7533',
-      bcRate: '5,575467941059339',
-      hobRate: '0,7964954201513341',
+      bcRate: '5.575467941059339',
+      hobRate: '0.7964954201513341',
     },
     {
       hobType: 'ALL',
@@ -31634,7 +31634,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '138',
-      bcRate: '7,246376811594203',
+      bcRate: '7.246376811594203',
       hobRate: '0',
     },
     {
@@ -31682,7 +31682,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '82',
-      bcRate: '24,390243902439025',
+      bcRate: '24.390243902439025',
       hobRate: '0',
     },
     {
@@ -31694,7 +31694,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '235',
-      bcRate: '17,02127659574468',
+      bcRate: '17.02127659574468',
       hobRate: '0',
     },
     {
@@ -31718,8 +31718,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '163',
-      bcRate: '42,944785276073624',
-      hobRate: '12,269938650306749',
+      bcRate: '42.944785276073624',
+      hobRate: '12.269938650306749',
     },
     {
       hobType: 'ALL',
@@ -31850,7 +31850,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '220',
-      bcRate: '9,09090909090909',
+      bcRate: '9.09090909090909',
       hobRate: '0',
     },
     {
@@ -31886,8 +31886,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '168',
-      bcRate: '23,809523809523807',
-      hobRate: '11,904761904761903',
+      bcRate: '23.809523809523807',
+      hobRate: '11.904761904761903',
     },
     {
       hobType: 'ALL',
@@ -31922,7 +31922,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '158',
-      bcRate: '6,329113924050633',
+      bcRate: '6.329113924050633',
       hobRate: '0',
     },
     {
@@ -31994,8 +31994,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '205',
-      bcRate: '9,75609756097561',
-      hobRate: '4,878048780487805',
+      bcRate: '9.75609756097561',
+      hobRate: '4.878048780487805',
     },
     {
       hobType: 'ALL',
@@ -32126,7 +32126,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '161',
-      bcRate: '12,422360248447204',
+      bcRate: '12.422360248447204',
       hobRate: '0',
     },
     {
@@ -32151,7 +32151,7 @@ export const hospitaldata1 = [
       numberOfBloodCultureSamples: '0',
       numberOfPatientDays: '168',
       bcRate: '0',
-      hobRate: '5,952380952380952',
+      hobRate: '5.952380952380952',
     },
     {
       hobType: 'ALL',
@@ -32318,7 +32318,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '743',
-      bcRate: '4,037685060565276',
+      bcRate: '4.037685060565276',
       hobRate: '0',
     },
     {
@@ -32342,7 +32342,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '14',
       numberOfPatientDays: '955',
-      bcRate: '14,659685863874346',
+      bcRate: '14.659685863874346',
       hobRate: '0',
     },
     {
@@ -32354,8 +32354,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '746',
-      bcRate: '2,680965147453083',
-      hobRate: '1,3404825737265416',
+      bcRate: '2.680965147453083',
+      hobRate: '1.3404825737265416',
     },
     {
       hobType: 'ALL',
@@ -32366,7 +32366,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '271',
-      bcRate: '7,380073800738007',
+      bcRate: '7.380073800738007',
       hobRate: '0',
     },
     {
@@ -32378,7 +32378,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '1015',
-      bcRate: '6,896551724137931',
+      bcRate: '6.896551724137931',
       hobRate: '0',
     },
     {
@@ -32390,8 +32390,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '9',
       numberOfPatientDays: '324',
-      bcRate: '27,777777777777775',
-      hobRate: '6,172839506172839',
+      bcRate: '27.777777777777775',
+      hobRate: '6.172839506172839',
     },
     {
       hobType: 'ALL',
@@ -32426,8 +32426,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '944',
-      bcRate: '1,0593220338983051',
-      hobRate: '1,0593220338983051',
+      bcRate: '1.0593220338983051',
+      hobRate: '1.0593220338983051',
     },
     {
       hobType: 'ALL',
@@ -32438,8 +32438,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '285',
-      bcRate: '14,035087719298247',
-      hobRate: '7,017543859649123',
+      bcRate: '14.035087719298247',
+      hobRate: '7.017543859649123',
     },
     {
       hobType: 'ALL',
@@ -32462,8 +32462,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '3',
       numberOfBloodCultureSamples: '27',
       numberOfPatientDays: '3476',
-      bcRate: '7,767548906789414',
-      hobRate: '0,863060989643268',
+      bcRate: '7.767548906789414',
+      hobRate: '0.863060989643268',
     },
     {
       hobType: 'ALL',
@@ -32474,8 +32474,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '3',
       numberOfBloodCultureSamples: '15',
       numberOfPatientDays: '4057',
-      bcRate: '3,697313285679073',
-      hobRate: '0,7394626571358146',
+      bcRate: '3.697313285679073',
+      hobRate: '0.7394626571358146',
     },
     {
       hobType: 'ALL',
@@ -32498,8 +32498,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '6',
       numberOfBloodCultureSamples: '42',
       numberOfPatientDays: '7533',
-      bcRate: '5,575467941059339',
-      hobRate: '0,7964954201513341',
+      bcRate: '5.575467941059339',
+      hobRate: '0.7964954201513341',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -32510,7 +32510,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '138',
-      bcRate: '7,246376811594203',
+      bcRate: '7.246376811594203',
       hobRate: '0',
     },
     {
@@ -32558,7 +32558,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '82',
-      bcRate: '24,390243902439025',
+      bcRate: '24.390243902439025',
       hobRate: '0',
     },
     {
@@ -32570,7 +32570,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '235',
-      bcRate: '17,02127659574468',
+      bcRate: '17.02127659574468',
       hobRate: '0',
     },
     {
@@ -32594,8 +32594,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '163',
-      bcRate: '42,944785276073624',
-      hobRate: '12,269938650306749',
+      bcRate: '42.944785276073624',
+      hobRate: '12.269938650306749',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -32726,7 +32726,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '220',
-      bcRate: '9,09090909090909',
+      bcRate: '9.09090909090909',
       hobRate: '0',
     },
     {
@@ -32762,8 +32762,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '168',
-      bcRate: '23,809523809523807',
-      hobRate: '11,904761904761903',
+      bcRate: '23.809523809523807',
+      hobRate: '11.904761904761903',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -32798,7 +32798,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '158',
-      bcRate: '6,329113924050633',
+      bcRate: '6.329113924050633',
       hobRate: '0',
     },
     {
@@ -32870,8 +32870,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '205',
-      bcRate: '9,75609756097561',
-      hobRate: '4,878048780487805',
+      bcRate: '9.75609756097561',
+      hobRate: '4.878048780487805',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -33002,7 +33002,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '161',
-      bcRate: '12,422360248447204',
+      bcRate: '12.422360248447204',
       hobRate: '0',
     },
     {
@@ -33027,7 +33027,7 @@ export const hospitaldata1 = [
       numberOfBloodCultureSamples: '0',
       numberOfPatientDays: '168',
       bcRate: '0',
-      hobRate: '5,952380952380952',
+      hobRate: '5.952380952380952',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -33194,7 +33194,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '743',
-      bcRate: '4,037685060565276',
+      bcRate: '4.037685060565276',
       hobRate: '0',
     },
     {
@@ -33218,7 +33218,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '14',
       numberOfPatientDays: '955',
-      bcRate: '14,659685863874346',
+      bcRate: '14.659685863874346',
       hobRate: '0',
     },
     {
@@ -33230,8 +33230,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '746',
-      bcRate: '2,680965147453083',
-      hobRate: '1,3404825737265416',
+      bcRate: '2.680965147453083',
+      hobRate: '1.3404825737265416',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -33242,7 +33242,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '271',
-      bcRate: '7,380073800738007',
+      bcRate: '7.380073800738007',
       hobRate: '0',
     },
     {
@@ -33254,7 +33254,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '1015',
-      bcRate: '6,896551724137931',
+      bcRate: '6.896551724137931',
       hobRate: '0',
     },
     {
@@ -33266,8 +33266,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '9',
       numberOfPatientDays: '324',
-      bcRate: '27,777777777777775',
-      hobRate: '6,172839506172839',
+      bcRate: '27.777777777777775',
+      hobRate: '6.172839506172839',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -33302,8 +33302,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '944',
-      bcRate: '1,0593220338983051',
-      hobRate: '1,0593220338983051',
+      bcRate: '1.0593220338983051',
+      hobRate: '1.0593220338983051',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -33314,8 +33314,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '285',
-      bcRate: '14,035087719298247',
-      hobRate: '7,017543859649123',
+      bcRate: '14.035087719298247',
+      hobRate: '7.017543859649123',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -33338,8 +33338,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '3',
       numberOfBloodCultureSamples: '27',
       numberOfPatientDays: '3476',
-      bcRate: '7,767548906789414',
-      hobRate: '0,863060989643268',
+      bcRate: '7.767548906789414',
+      hobRate: '0.863060989643268',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -33350,8 +33350,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '3',
       numberOfBloodCultureSamples: '15',
       numberOfPatientDays: '4057',
-      bcRate: '3,697313285679073',
-      hobRate: '0,7394626571358146',
+      bcRate: '3.697313285679073',
+      hobRate: '0.7394626571358146',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -33374,7 +33374,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '42',
       numberOfPatientDays: '7533',
-      bcRate: '5,575467941059339',
+      bcRate: '5.575467941059339',
       hobRate: '0',
     },
     {
@@ -33386,7 +33386,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '138',
-      bcRate: '7,246376811594203',
+      bcRate: '7.246376811594203',
       hobRate: '0',
     },
     {
@@ -33434,7 +33434,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '82',
-      bcRate: '24,390243902439025',
+      bcRate: '24.390243902439025',
       hobRate: '0',
     },
     {
@@ -33446,7 +33446,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '235',
-      bcRate: '17,02127659574468',
+      bcRate: '17.02127659574468',
       hobRate: '0',
     },
     {
@@ -33470,7 +33470,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '163',
-      bcRate: '42,944785276073624',
+      bcRate: '42.944785276073624',
       hobRate: '0',
     },
     {
@@ -33602,7 +33602,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '220',
-      bcRate: '9,09090909090909',
+      bcRate: '9.09090909090909',
       hobRate: '0',
     },
     {
@@ -33638,7 +33638,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '168',
-      bcRate: '23,809523809523807',
+      bcRate: '23.809523809523807',
       hobRate: '0',
     },
     {
@@ -33674,7 +33674,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '158',
-      bcRate: '6,329113924050633',
+      bcRate: '6.329113924050633',
       hobRate: '0',
     },
     {
@@ -33746,7 +33746,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '205',
-      bcRate: '9,75609756097561',
+      bcRate: '9.75609756097561',
       hobRate: '0',
     },
     {
@@ -33878,7 +33878,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '161',
-      bcRate: '12,422360248447204',
+      bcRate: '12.422360248447204',
       hobRate: '0',
     },
     {
@@ -34070,7 +34070,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '743',
-      bcRate: '4,037685060565276',
+      bcRate: '4.037685060565276',
       hobRate: '0',
     },
     {
@@ -34094,7 +34094,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '14',
       numberOfPatientDays: '955',
-      bcRate: '14,659685863874346',
+      bcRate: '14.659685863874346',
       hobRate: '0',
     },
     {
@@ -34106,7 +34106,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '746',
-      bcRate: '2,680965147453083',
+      bcRate: '2.680965147453083',
       hobRate: '0',
     },
     {
@@ -34118,7 +34118,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '271',
-      bcRate: '7,380073800738007',
+      bcRate: '7.380073800738007',
       hobRate: '0',
     },
     {
@@ -34130,7 +34130,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '1015',
-      bcRate: '6,896551724137931',
+      bcRate: '6.896551724137931',
       hobRate: '0',
     },
     {
@@ -34142,7 +34142,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '9',
       numberOfPatientDays: '324',
-      bcRate: '27,777777777777775',
+      bcRate: '27.777777777777775',
       hobRate: '0',
     },
     {
@@ -34178,7 +34178,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '944',
-      bcRate: '1,0593220338983051',
+      bcRate: '1.0593220338983051',
       hobRate: '0',
     },
     {
@@ -34190,7 +34190,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '285',
-      bcRate: '14,035087719298247',
+      bcRate: '14.035087719298247',
       hobRate: '0',
     },
     {
@@ -34214,7 +34214,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '27',
       numberOfPatientDays: '3476',
-      bcRate: '7,767548906789414',
+      bcRate: '7.767548906789414',
       hobRate: '0',
     },
     {
@@ -34226,7 +34226,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '15',
       numberOfPatientDays: '4057',
-      bcRate: '3,697313285679073',
+      bcRate: '3.697313285679073',
       hobRate: '0',
     },
     {
@@ -34250,8 +34250,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '10',
       numberOfBloodCultureSamples: '42',
       numberOfPatientDays: '7433',
-      bcRate: '5,650477599892372',
-      hobRate: '1,3453518094981838',
+      bcRate: '5.650477599892372',
+      hobRate: '1.3453518094981838',
     },
     {
       hobType: 'ALL',
@@ -34262,8 +34262,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '194',
-      bcRate: '10,309278350515465',
-      hobRate: '5,154639175257732',
+      bcRate: '10.309278350515465',
+      hobRate: '5.154639175257732',
     },
     {
       hobType: 'ALL',
@@ -34346,8 +34346,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '6',
       numberOfPatientDays: '199',
-      bcRate: '30,15075376884422',
-      hobRate: '10,050251256281408',
+      bcRate: '30.15075376884422',
+      hobRate: '10.050251256281408',
     },
     {
       hobType: 'ALL',
@@ -34358,8 +34358,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '117',
-      bcRate: '17,094017094017097',
-      hobRate: '8,547008547008549',
+      bcRate: '17.094017094017097',
+      hobRate: '8.547008547008549',
     },
     {
       hobType: 'ALL',
@@ -34418,8 +34418,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '10',
       numberOfPatientDays: '123',
-      bcRate: '81,30081300813008',
-      hobRate: '8,130081300813009',
+      bcRate: '81.30081300813008',
+      hobRate: '8.130081300813009',
     },
     {
       hobType: 'ALL',
@@ -34430,8 +34430,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '106',
-      bcRate: '37,73584905660377',
-      hobRate: '9,433962264150942',
+      bcRate: '37.73584905660377',
+      hobRate: '9.433962264150942',
     },
     {
       hobType: 'ALL',
@@ -34442,8 +34442,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '242',
-      bcRate: '8,264462809917356',
-      hobRate: '4,132231404958678',
+      bcRate: '8.264462809917356',
+      hobRate: '4.132231404958678',
     },
     {
       hobType: 'ALL',
@@ -34466,8 +34466,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '64',
-      bcRate: '15,625',
-      hobRate: '15,625',
+      bcRate: '15.625',
+      hobRate: '15.625',
     },
     {
       hobType: 'ALL',
@@ -34502,7 +34502,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '114',
-      bcRate: '17,543859649122805',
+      bcRate: '17.543859649122805',
       hobRate: '0',
     },
     {
@@ -34526,7 +34526,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '121',
-      bcRate: '16,528925619834713',
+      bcRate: '16.528925619834713',
       hobRate: '0',
     },
     {
@@ -34634,8 +34634,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '86',
-      bcRate: '34,883720930232556',
-      hobRate: '11,627906976744185',
+      bcRate: '34.883720930232556',
+      hobRate: '11.627906976744185',
     },
     {
       hobType: 'ALL',
@@ -34874,7 +34874,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '153',
-      bcRate: '6,5359477124183005',
+      bcRate: '6.5359477124183005',
       hobRate: '0',
     },
     {
@@ -34946,8 +34946,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '672',
-      bcRate: '2,976190476190476',
-      hobRate: '1,488095238095238',
+      bcRate: '2.976190476190476',
+      hobRate: '1.488095238095238',
     },
     {
       hobType: 'ALL',
@@ -34958,7 +34958,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '982',
-      bcRate: '1,0183299389002036',
+      bcRate: '1.0183299389002036',
       hobRate: '0',
     },
     {
@@ -34970,7 +34970,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '1112',
-      bcRate: '3,5971223021582737',
+      bcRate: '3.5971223021582737',
       hobRate: '0',
     },
     {
@@ -34982,8 +34982,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '748',
-      bcRate: '5,347593582887701',
-      hobRate: '1,3368983957219251',
+      bcRate: '5.347593582887701',
+      hobRate: '1.3368983957219251',
     },
     {
       hobType: 'ALL',
@@ -35006,8 +35006,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '8',
       numberOfPatientDays: '1082',
-      bcRate: '7,393715341959335',
-      hobRate: '1,8484288354898337',
+      bcRate: '7.393715341959335',
+      hobRate: '1.8484288354898337',
     },
     {
       hobType: 'ALL',
@@ -35018,8 +35018,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '6',
       numberOfPatientDays: '382',
-      bcRate: '15,706806282722512',
-      hobRate: '5,235602094240838',
+      bcRate: '15.706806282722512',
+      hobRate: '5.235602094240838',
     },
     {
       hobType: 'ALL',
@@ -35030,8 +35030,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '10',
       numberOfPatientDays: '516',
-      bcRate: '19,37984496124031',
-      hobRate: '1,937984496124031',
+      bcRate: '19.37984496124031',
+      hobRate: '1.937984496124031',
     },
     {
       hobType: 'ALL',
@@ -35042,8 +35042,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '670',
-      bcRate: '5,970149253731344',
-      hobRate: '1,492537313432836',
+      bcRate: '5.970149253731344',
+      hobRate: '1.492537313432836',
     },
     {
       hobType: 'ALL',
@@ -35054,8 +35054,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '767',
-      bcRate: '2,607561929595828',
-      hobRate: '1,303780964797914',
+      bcRate: '2.607561929595828',
+      hobRate: '1.303780964797914',
     },
     {
       hobType: 'ALL',
@@ -35066,8 +35066,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '227',
-      bcRate: '4,405286343612335',
-      hobRate: '4,405286343612335',
+      bcRate: '4.405286343612335',
+      hobRate: '4.405286343612335',
     },
     {
       hobType: 'ALL',
@@ -35090,8 +35090,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '5',
       numberOfBloodCultureSamples: '21',
       numberOfPatientDays: '3411',
-      bcRate: '6,156552330694811',
-      hobRate: '1,465845793022574',
+      bcRate: '6.156552330694811',
+      hobRate: '1.465845793022574',
     },
     {
       hobType: 'ALL',
@@ -35102,8 +35102,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '5',
       numberOfBloodCultureSamples: '21',
       numberOfPatientDays: '4022',
-      bcRate: '5,22128294380905',
-      hobRate: '1,2431626056688214',
+      bcRate: '5.22128294380905',
+      hobRate: '1.2431626056688214',
     },
     {
       hobType: 'ALL',
@@ -35126,8 +35126,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '6',
       numberOfBloodCultureSamples: '42',
       numberOfPatientDays: '7433',
-      bcRate: '5,650477599892372',
-      hobRate: '0,8072110856989103',
+      bcRate: '5.650477599892372',
+      hobRate: '0.8072110856989103',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -35138,7 +35138,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '194',
-      bcRate: '10,309278350515465',
+      bcRate: '10.309278350515465',
       hobRate: '0',
     },
     {
@@ -35222,8 +35222,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '6',
       numberOfPatientDays: '199',
-      bcRate: '30,15075376884422',
-      hobRate: '5,025125628140704',
+      bcRate: '30.15075376884422',
+      hobRate: '5.025125628140704',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -35234,7 +35234,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '117',
-      bcRate: '17,094017094017097',
+      bcRate: '17.094017094017097',
       hobRate: '0',
     },
     {
@@ -35294,8 +35294,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '10',
       numberOfPatientDays: '123',
-      bcRate: '81,30081300813008',
-      hobRate: '8,130081300813009',
+      bcRate: '81.30081300813008',
+      hobRate: '8.130081300813009',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -35306,8 +35306,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '106',
-      bcRate: '37,73584905660377',
-      hobRate: '9,433962264150942',
+      bcRate: '37.73584905660377',
+      hobRate: '9.433962264150942',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -35318,7 +35318,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '242',
-      bcRate: '8,264462809917356',
+      bcRate: '8.264462809917356',
       hobRate: '0',
     },
     {
@@ -35342,8 +35342,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '64',
-      bcRate: '15,625',
-      hobRate: '15,625',
+      bcRate: '15.625',
+      hobRate: '15.625',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -35378,7 +35378,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '114',
-      bcRate: '17,543859649122805',
+      bcRate: '17.543859649122805',
       hobRate: '0',
     },
     {
@@ -35402,7 +35402,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '121',
-      bcRate: '16,528925619834713',
+      bcRate: '16.528925619834713',
       hobRate: '0',
     },
     {
@@ -35510,8 +35510,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '86',
-      bcRate: '34,883720930232556',
-      hobRate: '11,627906976744185',
+      bcRate: '34.883720930232556',
+      hobRate: '11.627906976744185',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -35750,7 +35750,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '153',
-      bcRate: '6,5359477124183005',
+      bcRate: '6.5359477124183005',
       hobRate: '0',
     },
     {
@@ -35822,7 +35822,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '672',
-      bcRate: '2,976190476190476',
+      bcRate: '2.976190476190476',
       hobRate: '0',
     },
     {
@@ -35834,7 +35834,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '982',
-      bcRate: '1,0183299389002036',
+      bcRate: '1.0183299389002036',
       hobRate: '0',
     },
     {
@@ -35846,7 +35846,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '1112',
-      bcRate: '3,5971223021582737',
+      bcRate: '3.5971223021582737',
       hobRate: '0',
     },
     {
@@ -35858,8 +35858,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '748',
-      bcRate: '5,347593582887701',
-      hobRate: '1,3368983957219251',
+      bcRate: '5.347593582887701',
+      hobRate: '1.3368983957219251',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -35882,8 +35882,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '8',
       numberOfPatientDays: '1082',
-      bcRate: '7,393715341959335',
-      hobRate: '0,9242144177449169',
+      bcRate: '7.393715341959335',
+      hobRate: '0.9242144177449169',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -35894,8 +35894,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '6',
       numberOfPatientDays: '382',
-      bcRate: '15,706806282722512',
-      hobRate: '2,617801047120419',
+      bcRate: '15.706806282722512',
+      hobRate: '2.617801047120419',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -35906,8 +35906,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '10',
       numberOfPatientDays: '516',
-      bcRate: '19,37984496124031',
-      hobRate: '1,937984496124031',
+      bcRate: '19.37984496124031',
+      hobRate: '1.937984496124031',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -35918,7 +35918,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '670',
-      bcRate: '5,970149253731344',
+      bcRate: '5.970149253731344',
       hobRate: '0',
     },
     {
@@ -35930,8 +35930,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '767',
-      bcRate: '2,607561929595828',
-      hobRate: '1,303780964797914',
+      bcRate: '2.607561929595828',
+      hobRate: '1.303780964797914',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -35942,8 +35942,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '227',
-      bcRate: '4,405286343612335',
-      hobRate: '4,405286343612335',
+      bcRate: '4.405286343612335',
+      hobRate: '4.405286343612335',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -35966,8 +35966,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '3',
       numberOfBloodCultureSamples: '21',
       numberOfPatientDays: '3411',
-      bcRate: '6,156552330694811',
-      hobRate: '0,8795074758135445',
+      bcRate: '6.156552330694811',
+      hobRate: '0.8795074758135445',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -35978,8 +35978,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '3',
       numberOfBloodCultureSamples: '21',
       numberOfPatientDays: '4022',
-      bcRate: '5,22128294380905',
-      hobRate: '0,7458975634012929',
+      bcRate: '5.22128294380905',
+      hobRate: '0.7458975634012929',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -36002,8 +36002,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '4',
       numberOfBloodCultureSamples: '42',
       numberOfPatientDays: '7433',
-      bcRate: '5,650477599892372',
-      hobRate: '0,5381407237992736',
+      bcRate: '5.650477599892372',
+      hobRate: '0.5381407237992736',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -36014,8 +36014,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '194',
-      bcRate: '10,309278350515465',
-      hobRate: '5,154639175257732',
+      bcRate: '10.309278350515465',
+      hobRate: '5.154639175257732',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -36098,8 +36098,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '6',
       numberOfPatientDays: '199',
-      bcRate: '30,15075376884422',
-      hobRate: '5,025125628140704',
+      bcRate: '30.15075376884422',
+      hobRate: '5.025125628140704',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -36110,8 +36110,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '117',
-      bcRate: '17,094017094017097',
-      hobRate: '8,547008547008549',
+      bcRate: '17.094017094017097',
+      hobRate: '8.547008547008549',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -36170,7 +36170,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '10',
       numberOfPatientDays: '123',
-      bcRate: '81,30081300813008',
+      bcRate: '81.30081300813008',
       hobRate: '0',
     },
     {
@@ -36182,7 +36182,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '106',
-      bcRate: '37,73584905660377',
+      bcRate: '37.73584905660377',
       hobRate: '0',
     },
     {
@@ -36194,8 +36194,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '242',
-      bcRate: '8,264462809917356',
-      hobRate: '4,132231404958678',
+      bcRate: '8.264462809917356',
+      hobRate: '4.132231404958678',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -36218,7 +36218,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '64',
-      bcRate: '15,625',
+      bcRate: '15.625',
       hobRate: '0',
     },
     {
@@ -36254,7 +36254,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '114',
-      bcRate: '17,543859649122805',
+      bcRate: '17.543859649122805',
       hobRate: '0',
     },
     {
@@ -36278,7 +36278,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '121',
-      bcRate: '16,528925619834713',
+      bcRate: '16.528925619834713',
       hobRate: '0',
     },
     {
@@ -36386,7 +36386,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '86',
-      bcRate: '34,883720930232556',
+      bcRate: '34.883720930232556',
       hobRate: '0',
     },
     {
@@ -36626,7 +36626,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '153',
-      bcRate: '6,5359477124183005',
+      bcRate: '6.5359477124183005',
       hobRate: '0',
     },
     {
@@ -36698,8 +36698,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '672',
-      bcRate: '2,976190476190476',
-      hobRate: '1,488095238095238',
+      bcRate: '2.976190476190476',
+      hobRate: '1.488095238095238',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -36710,7 +36710,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '982',
-      bcRate: '1,0183299389002036',
+      bcRate: '1.0183299389002036',
       hobRate: '0',
     },
     {
@@ -36722,7 +36722,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '1112',
-      bcRate: '3,5971223021582737',
+      bcRate: '3.5971223021582737',
       hobRate: '0',
     },
     {
@@ -36734,7 +36734,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '748',
-      bcRate: '5,347593582887701',
+      bcRate: '5.347593582887701',
       hobRate: '0',
     },
     {
@@ -36758,8 +36758,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '8',
       numberOfPatientDays: '1082',
-      bcRate: '7,393715341959335',
-      hobRate: '0,9242144177449169',
+      bcRate: '7.393715341959335',
+      hobRate: '0.9242144177449169',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -36770,8 +36770,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '6',
       numberOfPatientDays: '382',
-      bcRate: '15,706806282722512',
-      hobRate: '2,617801047120419',
+      bcRate: '15.706806282722512',
+      hobRate: '2.617801047120419',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -36782,7 +36782,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '10',
       numberOfPatientDays: '516',
-      bcRate: '19,37984496124031',
+      bcRate: '19.37984496124031',
       hobRate: '0',
     },
     {
@@ -36794,8 +36794,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '670',
-      bcRate: '5,970149253731344',
-      hobRate: '1,492537313432836',
+      bcRate: '5.970149253731344',
+      hobRate: '1.492537313432836',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -36806,7 +36806,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '767',
-      bcRate: '2,607561929595828',
+      bcRate: '2.607561929595828',
       hobRate: '0',
     },
     {
@@ -36818,7 +36818,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '227',
-      bcRate: '4,405286343612335',
+      bcRate: '4.405286343612335',
       hobRate: '0',
     },
     {
@@ -36842,8 +36842,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '21',
       numberOfPatientDays: '3411',
-      bcRate: '6,156552330694811',
-      hobRate: '0,5863383172090296',
+      bcRate: '6.156552330694811',
+      hobRate: '0.5863383172090296',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -36854,8 +36854,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '21',
       numberOfPatientDays: '4022',
-      bcRate: '5,22128294380905',
-      hobRate: '0,49726504226752855',
+      bcRate: '5.22128294380905',
+      hobRate: '0.49726504226752855',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -36878,8 +36878,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '9',
       numberOfBloodCultureSamples: '43',
       numberOfPatientDays: '7647',
-      bcRate: '5,623120177847522',
-      hobRate: '1,1769321302471558',
+      bcRate: '5.623120177847522',
+      hobRate: '1.1769321302471558',
     },
     {
       hobType: 'ALL',
@@ -36926,8 +36926,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '78',
-      bcRate: '38,46153846153847',
-      hobRate: '12,82051282051282',
+      bcRate: '38.46153846153847',
+      hobRate: '12.82051282051282',
     },
     {
       hobType: 'ALL',
@@ -36950,7 +36950,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '208',
-      bcRate: '9,615384615384617',
+      bcRate: '9.615384615384617',
       hobRate: '0',
     },
     {
@@ -36974,8 +36974,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '168',
-      bcRate: '29,76190476190476',
-      hobRate: '5,952380952380952',
+      bcRate: '29.76190476190476',
+      hobRate: '5.952380952380952',
     },
     {
       hobType: 'ALL',
@@ -37046,8 +37046,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '3',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '123',
-      bcRate: '56,91056910569105',
-      hobRate: '24,390243902439025',
+      bcRate: '56.91056910569105',
+      hobRate: '24.390243902439025',
     },
     {
       hobType: 'ALL',
@@ -37058,8 +37058,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '197',
-      bcRate: '5,076142131979695',
-      hobRate: '5,076142131979695',
+      bcRate: '5.076142131979695',
+      hobRate: '5.076142131979695',
     },
     {
       hobType: 'ALL',
@@ -37070,7 +37070,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '159',
-      bcRate: '6,289308176100629',
+      bcRate: '6.289308176100629',
       hobRate: '0',
     },
     {
@@ -37082,7 +37082,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '88',
-      bcRate: '22,727272727272727',
+      bcRate: '22.727272727272727',
       hobRate: '0',
     },
     {
@@ -37106,8 +37106,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '192',
-      bcRate: '15,625',
-      hobRate: '5,208333333333333',
+      bcRate: '15.625',
+      hobRate: '5.208333333333333',
     },
     {
       hobType: 'ALL',
@@ -37130,8 +37130,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '111',
-      bcRate: '18,01801801801802',
-      hobRate: '18,01801801801802',
+      bcRate: '18.01801801801802',
+      hobRate: '18.01801801801802',
     },
     {
       hobType: 'ALL',
@@ -37190,7 +37190,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '219',
-      bcRate: '4,5662100456621',
+      bcRate: '4.5662100456621',
       hobRate: '0',
     },
     {
@@ -37574,8 +37574,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '594',
-      bcRate: '5,050505050505051',
-      hobRate: '1,6835016835016834',
+      bcRate: '5.050505050505051',
+      hobRate: '1.6835016835016834',
     },
     {
       hobType: 'ALL',
@@ -37598,7 +37598,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '12',
       numberOfPatientDays: '1067',
-      bcRate: '11,246485473289598',
+      bcRate: '11.246485473289598',
       hobRate: '0',
     },
     {
@@ -37610,8 +37610,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '823',
-      bcRate: '4,860267314702308',
-      hobRate: '1,215066828675577',
+      bcRate: '4.860267314702308',
+      hobRate: '1.215066828675577',
     },
     {
       hobType: 'ALL',
@@ -37634,8 +37634,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '3',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '1325',
-      bcRate: '5,283018867924529',
-      hobRate: '2,2641509433962264',
+      bcRate: '5.283018867924529',
+      hobRate: '2.2641509433962264',
     },
     {
       hobType: 'ALL',
@@ -37646,8 +37646,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '392',
-      bcRate: '12,755102040816327',
-      hobRate: '2,5510204081632653',
+      bcRate: '12.755102040816327',
+      hobRate: '2.5510204081632653',
     },
     {
       hobType: 'ALL',
@@ -37658,8 +37658,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '3',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '504',
-      bcRate: '13,888888888888888',
-      hobRate: '5,952380952380952',
+      bcRate: '13.888888888888888',
+      hobRate: '5.952380952380952',
     },
     {
       hobType: 'ALL',
@@ -37670,7 +37670,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '607',
-      bcRate: '1,6474464579901154',
+      bcRate: '1.6474464579901154',
       hobRate: '0',
     },
     {
@@ -37682,7 +37682,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '794',
-      bcRate: '5,037783375314861',
+      bcRate: '5.037783375314861',
       hobRate: '0',
     },
     {
@@ -37718,8 +37718,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '4',
       numberOfBloodCultureSamples: '29',
       numberOfPatientDays: '3412',
-      bcRate: '8,499413833528722',
-      hobRate: '1,1723329425556857',
+      bcRate: '8.499413833528722',
+      hobRate: '1.1723329425556857',
     },
     {
       hobType: 'ALL',
@@ -37730,8 +37730,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '5',
       numberOfBloodCultureSamples: '14',
       numberOfPatientDays: '4235',
-      bcRate: '3,3057851239669422',
-      hobRate: '1,1806375442739079',
+      bcRate: '3.3057851239669422',
+      hobRate: '1.1806375442739079',
     },
     {
       hobType: 'ALL',
@@ -37754,8 +37754,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '8',
       numberOfBloodCultureSamples: '43',
       numberOfPatientDays: '7647',
-      bcRate: '5,623120177847522',
-      hobRate: '1,0461618935530272',
+      bcRate: '5.623120177847522',
+      hobRate: '1.0461618935530272',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -37802,8 +37802,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '78',
-      bcRate: '38,46153846153847',
-      hobRate: '12,82051282051282',
+      bcRate: '38.46153846153847',
+      hobRate: '12.82051282051282',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -37826,7 +37826,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '208',
-      bcRate: '9,615384615384617',
+      bcRate: '9.615384615384617',
       hobRate: '0',
     },
     {
@@ -37850,8 +37850,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '168',
-      bcRate: '29,76190476190476',
-      hobRate: '5,952380952380952',
+      bcRate: '29.76190476190476',
+      hobRate: '5.952380952380952',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -37922,8 +37922,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '3',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '123',
-      bcRate: '56,91056910569105',
-      hobRate: '24,390243902439025',
+      bcRate: '56.91056910569105',
+      hobRate: '24.390243902439025',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -37934,8 +37934,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '197',
-      bcRate: '5,076142131979695',
-      hobRate: '5,076142131979695',
+      bcRate: '5.076142131979695',
+      hobRate: '5.076142131979695',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -37946,7 +37946,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '159',
-      bcRate: '6,289308176100629',
+      bcRate: '6.289308176100629',
       hobRate: '0',
     },
     {
@@ -37958,7 +37958,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '88',
-      bcRate: '22,727272727272727',
+      bcRate: '22.727272727272727',
       hobRate: '0',
     },
     {
@@ -37982,7 +37982,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '192',
-      bcRate: '15,625',
+      bcRate: '15.625',
       hobRate: '0',
     },
     {
@@ -38006,8 +38006,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '111',
-      bcRate: '18,01801801801802',
-      hobRate: '18,01801801801802',
+      bcRate: '18.01801801801802',
+      hobRate: '18.01801801801802',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -38066,7 +38066,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '219',
-      bcRate: '4,5662100456621',
+      bcRate: '4.5662100456621',
       hobRate: '0',
     },
     {
@@ -38450,7 +38450,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '594',
-      bcRate: '5,050505050505051',
+      bcRate: '5.050505050505051',
       hobRate: '0',
     },
     {
@@ -38474,7 +38474,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '12',
       numberOfPatientDays: '1067',
-      bcRate: '11,246485473289598',
+      bcRate: '11.246485473289598',
       hobRate: '0',
     },
     {
@@ -38486,8 +38486,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '823',
-      bcRate: '4,860267314702308',
-      hobRate: '1,215066828675577',
+      bcRate: '4.860267314702308',
+      hobRate: '1.215066828675577',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -38510,8 +38510,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '3',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '1325',
-      bcRate: '5,283018867924529',
-      hobRate: '2,2641509433962264',
+      bcRate: '5.283018867924529',
+      hobRate: '2.2641509433962264',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -38522,8 +38522,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '392',
-      bcRate: '12,755102040816327',
-      hobRate: '2,5510204081632653',
+      bcRate: '12.755102040816327',
+      hobRate: '2.5510204081632653',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -38534,8 +38534,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '3',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '504',
-      bcRate: '13,888888888888888',
-      hobRate: '5,952380952380952',
+      bcRate: '13.888888888888888',
+      hobRate: '5.952380952380952',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -38546,7 +38546,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '607',
-      bcRate: '1,6474464579901154',
+      bcRate: '1.6474464579901154',
       hobRate: '0',
     },
     {
@@ -38558,7 +38558,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '794',
-      bcRate: '5,037783375314861',
+      bcRate: '5.037783375314861',
       hobRate: '0',
     },
     {
@@ -38594,8 +38594,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '4',
       numberOfBloodCultureSamples: '29',
       numberOfPatientDays: '3412',
-      bcRate: '8,499413833528722',
-      hobRate: '1,1723329425556857',
+      bcRate: '8.499413833528722',
+      hobRate: '1.1723329425556857',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -38606,8 +38606,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '4',
       numberOfBloodCultureSamples: '14',
       numberOfPatientDays: '4235',
-      bcRate: '3,3057851239669422',
-      hobRate: '0,9445100354191264',
+      bcRate: '3.3057851239669422',
+      hobRate: '0.9445100354191264',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -38630,8 +38630,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '43',
       numberOfPatientDays: '7647',
-      bcRate: '5,623120177847522',
-      hobRate: '0,1307702366941284',
+      bcRate: '5.623120177847522',
+      hobRate: '0.1307702366941284',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -38678,7 +38678,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '78',
-      bcRate: '38,46153846153847',
+      bcRate: '38.46153846153847',
       hobRate: '0',
     },
     {
@@ -38702,7 +38702,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '208',
-      bcRate: '9,615384615384617',
+      bcRate: '9.615384615384617',
       hobRate: '0',
     },
     {
@@ -38726,7 +38726,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '168',
-      bcRate: '29,76190476190476',
+      bcRate: '29.76190476190476',
       hobRate: '0',
     },
     {
@@ -38798,7 +38798,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '123',
-      bcRate: '56,91056910569105',
+      bcRate: '56.91056910569105',
       hobRate: '0',
     },
     {
@@ -38810,7 +38810,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '197',
-      bcRate: '5,076142131979695',
+      bcRate: '5.076142131979695',
       hobRate: '0',
     },
     {
@@ -38822,7 +38822,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '159',
-      bcRate: '6,289308176100629',
+      bcRate: '6.289308176100629',
       hobRate: '0',
     },
     {
@@ -38834,7 +38834,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '88',
-      bcRate: '22,727272727272727',
+      bcRate: '22.727272727272727',
       hobRate: '0',
     },
     {
@@ -38858,8 +38858,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '192',
-      bcRate: '15,625',
-      hobRate: '5,208333333333333',
+      bcRate: '15.625',
+      hobRate: '5.208333333333333',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -38882,7 +38882,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '111',
-      bcRate: '18,01801801801802',
+      bcRate: '18.01801801801802',
       hobRate: '0',
     },
     {
@@ -38942,7 +38942,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '219',
-      bcRate: '4,5662100456621',
+      bcRate: '4.5662100456621',
       hobRate: '0',
     },
     {
@@ -39326,8 +39326,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '594',
-      bcRate: '5,050505050505051',
-      hobRate: '1,6835016835016834',
+      bcRate: '5.050505050505051',
+      hobRate: '1.6835016835016834',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -39350,7 +39350,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '12',
       numberOfPatientDays: '1067',
-      bcRate: '11,246485473289598',
+      bcRate: '11.246485473289598',
       hobRate: '0',
     },
     {
@@ -39362,7 +39362,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '823',
-      bcRate: '4,860267314702308',
+      bcRate: '4.860267314702308',
       hobRate: '0',
     },
     {
@@ -39386,7 +39386,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '1325',
-      bcRate: '5,283018867924529',
+      bcRate: '5.283018867924529',
       hobRate: '0',
     },
     {
@@ -39398,7 +39398,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '392',
-      bcRate: '12,755102040816327',
+      bcRate: '12.755102040816327',
       hobRate: '0',
     },
     {
@@ -39410,7 +39410,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '504',
-      bcRate: '13,888888888888888',
+      bcRate: '13.888888888888888',
       hobRate: '0',
     },
     {
@@ -39422,7 +39422,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '607',
-      bcRate: '1,6474464579901154',
+      bcRate: '1.6474464579901154',
       hobRate: '0',
     },
     {
@@ -39434,7 +39434,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '794',
-      bcRate: '5,037783375314861',
+      bcRate: '5.037783375314861',
       hobRate: '0',
     },
     {
@@ -39470,7 +39470,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '29',
       numberOfPatientDays: '3412',
-      bcRate: '8,499413833528722',
+      bcRate: '8.499413833528722',
       hobRate: '0',
     },
     {
@@ -39482,8 +39482,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '14',
       numberOfPatientDays: '4235',
-      bcRate: '3,3057851239669422',
-      hobRate: '0,2361275088547816',
+      bcRate: '3.3057851239669422',
+      hobRate: '0.2361275088547816',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -39506,8 +39506,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '12',
       numberOfBloodCultureSamples: '53',
       numberOfPatientDays: '7984',
-      bcRate: '6,638276553106212',
-      hobRate: '1,503006012024048',
+      bcRate: '6.638276553106212',
+      hobRate: '1.503006012024048',
     },
     {
       hobType: 'ALL',
@@ -39578,7 +39578,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '169',
-      bcRate: '5,9171597633136095',
+      bcRate: '5.9171597633136095',
       hobRate: '0',
     },
     {
@@ -39602,8 +39602,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '8',
       numberOfPatientDays: '435',
-      bcRate: '18,39080459770115',
-      hobRate: '4,597701149425287',
+      bcRate: '18.39080459770115',
+      hobRate: '4.597701149425287',
     },
     {
       hobType: 'ALL',
@@ -39614,7 +39614,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '103',
-      bcRate: '19,41747572815534',
+      bcRate: '19.41747572815534',
       hobRate: '0',
     },
     {
@@ -39626,7 +39626,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '124',
-      bcRate: '32,25806451612903',
+      bcRate: '32.25806451612903',
       hobRate: '0',
     },
     {
@@ -39674,7 +39674,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '107',
-      bcRate: '18,69158878504673',
+      bcRate: '18.69158878504673',
       hobRate: '0',
     },
     {
@@ -39686,8 +39686,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '6',
       numberOfPatientDays: '255',
-      bcRate: '23,52941176470588',
-      hobRate: '3,9215686274509802',
+      bcRate: '23.52941176470588',
+      hobRate: '3.9215686274509802',
     },
     {
       hobType: 'ALL',
@@ -39710,7 +39710,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '153',
-      bcRate: '13,071895424836601',
+      bcRate: '13.071895424836601',
       hobRate: '0',
     },
     {
@@ -39734,8 +39734,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '229',
-      bcRate: '8,73362445414847',
-      hobRate: '4,366812227074235',
+      bcRate: '8.73362445414847',
+      hobRate: '4.366812227074235',
     },
     {
       hobType: 'ALL',
@@ -39758,8 +39758,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '123',
-      bcRate: '8,130081300813009',
-      hobRate: '16,260162601626018',
+      bcRate: '8.130081300813009',
+      hobRate: '16.260162601626018',
     },
     {
       hobType: 'ALL',
@@ -39770,8 +39770,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '128',
-      bcRate: '15,625',
-      hobRate: '7,8125',
+      bcRate: '15.625',
+      hobRate: '7.8125',
     },
     {
       hobType: 'ALL',
@@ -39782,8 +39782,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '193',
-      bcRate: '20,72538860103627',
-      hobRate: '10,362694300518134',
+      bcRate: '20.72538860103627',
+      hobRate: '10.362694300518134',
     },
     {
       hobType: 'ALL',
@@ -39854,7 +39854,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '69',
-      bcRate: '28,985507246376812',
+      bcRate: '28.985507246376812',
       hobRate: '0',
     },
     {
@@ -39938,7 +39938,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '138',
-      bcRate: '7,246376811594203',
+      bcRate: '7.246376811594203',
       hobRate: '0',
     },
     {
@@ -39986,8 +39986,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '176',
-      bcRate: '11,363636363636363',
-      hobRate: '11,363636363636363',
+      bcRate: '11.363636363636363',
+      hobRate: '11.363636363636363',
     },
     {
       hobType: 'ALL',
@@ -40022,7 +40022,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '39',
-      bcRate: '25,64102564102564',
+      bcRate: '25.64102564102564',
       hobRate: '0',
     },
     {
@@ -40059,7 +40059,7 @@ export const hospitaldata1 = [
       numberOfBloodCultureSamples: '0',
       numberOfPatientDays: '152',
       bcRate: '0',
-      hobRate: '6,578947368421052',
+      hobRate: '6.578947368421052',
     },
     {
       hobType: 'ALL',
@@ -40094,7 +40094,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '173',
-      bcRate: '5,780346820809248',
+      bcRate: '5.780346820809248',
       hobRate: '0',
     },
     {
@@ -40106,7 +40106,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '190',
-      bcRate: '5,263157894736842',
+      bcRate: '5.263157894736842',
       hobRate: '0',
     },
     {
@@ -40202,8 +40202,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '672',
-      bcRate: '10,416666666666666',
-      hobRate: '1,488095238095238',
+      bcRate: '10.416666666666666',
+      hobRate: '1.488095238095238',
     },
     {
       hobType: 'ALL',
@@ -40214,7 +40214,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '867',
-      bcRate: '4,61361014994233',
+      bcRate: '4.61361014994233',
       hobRate: '0',
     },
     {
@@ -40226,7 +40226,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '961',
-      bcRate: '7,284079084287201',
+      bcRate: '7.284079084287201',
       hobRate: '0',
     },
     {
@@ -40251,7 +40251,7 @@ export const hospitaldata1 = [
       numberOfBloodCultureSamples: '0',
       numberOfPatientDays: '391',
       bcRate: '0',
-      hobRate: '2,557544757033248',
+      hobRate: '2.557544757033248',
     },
     {
       hobType: 'ALL',
@@ -40262,8 +40262,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '3',
       numberOfBloodCultureSamples: '11',
       numberOfPatientDays: '1304',
-      bcRate: '8,43558282208589',
-      hobRate: '2,3006134969325154',
+      bcRate: '8.43558282208589',
+      hobRate: '2.3006134969325154',
     },
     {
       hobType: 'ALL',
@@ -40274,8 +40274,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '9',
       numberOfPatientDays: '694',
-      bcRate: '12,968299711815563',
-      hobRate: '2,881844380403458',
+      bcRate: '12.968299711815563',
+      hobRate: '2.881844380403458',
     },
     {
       hobType: 'ALL',
@@ -40286,7 +40286,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '532',
-      bcRate: '7,518796992481203',
+      bcRate: '7.518796992481203',
       hobRate: '0',
     },
     {
@@ -40298,8 +40298,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '4',
       numberOfBloodCultureSamples: '6',
       numberOfPatientDays: '646',
-      bcRate: '9,287925696594426',
-      hobRate: '6,191950464396285',
+      bcRate: '9.287925696594426',
+      hobRate: '6.191950464396285',
     },
     {
       hobType: 'ALL',
@@ -40310,7 +40310,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '792',
-      bcRate: '2,5252525252525255',
+      bcRate: '2.5252525252525255',
       hobRate: '0',
     },
     {
@@ -40322,8 +40322,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '266',
-      bcRate: '11,278195488721805',
-      hobRate: '3,7593984962406015',
+      bcRate: '11.278195488721805',
+      hobRate: '3.7593984962406015',
     },
     {
       hobType: 'ALL',
@@ -40346,8 +40346,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '20',
       numberOfPatientDays: '3363',
-      bcRate: '5,947071067499257',
-      hobRate: '0,29735355337496283',
+      bcRate: '5.947071067499257',
+      hobRate: '0.29735355337496283',
     },
     {
       hobType: 'ALL',
@@ -40358,8 +40358,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '11',
       numberOfBloodCultureSamples: '33',
       numberOfPatientDays: '4621',
-      bcRate: '7,14131140445791',
-      hobRate: '2,3804371348193034',
+      bcRate: '7.14131140445791',
+      hobRate: '2.3804371348193034',
     },
     {
       hobType: 'ALL',
@@ -40382,8 +40382,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '10',
       numberOfBloodCultureSamples: '53',
       numberOfPatientDays: '7984',
-      bcRate: '6,638276553106212',
-      hobRate: '1,25250501002004',
+      bcRate: '6.638276553106212',
+      hobRate: '1.25250501002004',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -40454,7 +40454,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '169',
-      bcRate: '5,9171597633136095',
+      bcRate: '5.9171597633136095',
       hobRate: '0',
     },
     {
@@ -40478,8 +40478,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '8',
       numberOfPatientDays: '435',
-      bcRate: '18,39080459770115',
-      hobRate: '4,597701149425287',
+      bcRate: '18.39080459770115',
+      hobRate: '4.597701149425287',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -40490,7 +40490,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '103',
-      bcRate: '19,41747572815534',
+      bcRate: '19.41747572815534',
       hobRate: '0',
     },
     {
@@ -40502,7 +40502,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '124',
-      bcRate: '32,25806451612903',
+      bcRate: '32.25806451612903',
       hobRate: '0',
     },
     {
@@ -40550,7 +40550,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '107',
-      bcRate: '18,69158878504673',
+      bcRate: '18.69158878504673',
       hobRate: '0',
     },
     {
@@ -40562,7 +40562,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '6',
       numberOfPatientDays: '255',
-      bcRate: '23,52941176470588',
+      bcRate: '23.52941176470588',
       hobRate: '0',
     },
     {
@@ -40586,7 +40586,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '153',
-      bcRate: '13,071895424836601',
+      bcRate: '13.071895424836601',
       hobRate: '0',
     },
     {
@@ -40610,8 +40610,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '229',
-      bcRate: '8,73362445414847',
-      hobRate: '4,366812227074235',
+      bcRate: '8.73362445414847',
+      hobRate: '4.366812227074235',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -40634,8 +40634,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '123',
-      bcRate: '8,130081300813009',
-      hobRate: '16,260162601626018',
+      bcRate: '8.130081300813009',
+      hobRate: '16.260162601626018',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -40646,8 +40646,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '128',
-      bcRate: '15,625',
-      hobRate: '7,8125',
+      bcRate: '15.625',
+      hobRate: '7.8125',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -40658,8 +40658,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '193',
-      bcRate: '20,72538860103627',
-      hobRate: '10,362694300518134',
+      bcRate: '20.72538860103627',
+      hobRate: '10.362694300518134',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -40730,7 +40730,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '69',
-      bcRate: '28,985507246376812',
+      bcRate: '28.985507246376812',
       hobRate: '0',
     },
     {
@@ -40814,7 +40814,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '138',
-      bcRate: '7,246376811594203',
+      bcRate: '7.246376811594203',
       hobRate: '0',
     },
     {
@@ -40862,8 +40862,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '176',
-      bcRate: '11,363636363636363',
-      hobRate: '11,363636363636363',
+      bcRate: '11.363636363636363',
+      hobRate: '11.363636363636363',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -40898,7 +40898,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '39',
-      bcRate: '25,64102564102564',
+      bcRate: '25.64102564102564',
       hobRate: '0',
     },
     {
@@ -40970,7 +40970,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '173',
-      bcRate: '5,780346820809248',
+      bcRate: '5.780346820809248',
       hobRate: '0',
     },
     {
@@ -40982,7 +40982,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '190',
-      bcRate: '5,263157894736842',
+      bcRate: '5.263157894736842',
       hobRate: '0',
     },
     {
@@ -41078,8 +41078,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '672',
-      bcRate: '10,416666666666666',
-      hobRate: '1,488095238095238',
+      bcRate: '10.416666666666666',
+      hobRate: '1.488095238095238',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -41090,7 +41090,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '867',
-      bcRate: '4,61361014994233',
+      bcRate: '4.61361014994233',
       hobRate: '0',
     },
     {
@@ -41102,7 +41102,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '961',
-      bcRate: '7,284079084287201',
+      bcRate: '7.284079084287201',
       hobRate: '0',
     },
     {
@@ -41138,8 +41138,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '11',
       numberOfPatientDays: '1304',
-      bcRate: '8,43558282208589',
-      hobRate: '1,5337423312883436',
+      bcRate: '8.43558282208589',
+      hobRate: '1.5337423312883436',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -41150,8 +41150,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '9',
       numberOfPatientDays: '694',
-      bcRate: '12,968299711815563',
-      hobRate: '2,881844380403458',
+      bcRate: '12.968299711815563',
+      hobRate: '2.881844380403458',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -41162,7 +41162,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '532',
-      bcRate: '7,518796992481203',
+      bcRate: '7.518796992481203',
       hobRate: '0',
     },
     {
@@ -41174,8 +41174,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '4',
       numberOfBloodCultureSamples: '6',
       numberOfPatientDays: '646',
-      bcRate: '9,287925696594426',
-      hobRate: '6,191950464396285',
+      bcRate: '9.287925696594426',
+      hobRate: '6.191950464396285',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -41186,7 +41186,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '792',
-      bcRate: '2,5252525252525255',
+      bcRate: '2.5252525252525255',
       hobRate: '0',
     },
     {
@@ -41198,8 +41198,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '266',
-      bcRate: '11,278195488721805',
-      hobRate: '3,7593984962406015',
+      bcRate: '11.278195488721805',
+      hobRate: '3.7593984962406015',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -41222,8 +41222,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '20',
       numberOfPatientDays: '3363',
-      bcRate: '5,947071067499257',
-      hobRate: '0,29735355337496283',
+      bcRate: '5.947071067499257',
+      hobRate: '0.29735355337496283',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -41234,8 +41234,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '9',
       numberOfBloodCultureSamples: '33',
       numberOfPatientDays: '4621',
-      bcRate: '7,14131140445791',
-      hobRate: '1,9476303830339754',
+      bcRate: '7.14131140445791',
+      hobRate: '1.9476303830339754',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -41258,8 +41258,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '53',
       numberOfPatientDays: '7984',
-      bcRate: '6,638276553106212',
-      hobRate: '0,250501002004008',
+      bcRate: '6.638276553106212',
+      hobRate: '0.250501002004008',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -41330,7 +41330,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '169',
-      bcRate: '5,9171597633136095',
+      bcRate: '5.9171597633136095',
       hobRate: '0',
     },
     {
@@ -41354,7 +41354,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '8',
       numberOfPatientDays: '435',
-      bcRate: '18,39080459770115',
+      bcRate: '18.39080459770115',
       hobRate: '0',
     },
     {
@@ -41366,7 +41366,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '103',
-      bcRate: '19,41747572815534',
+      bcRate: '19.41747572815534',
       hobRate: '0',
     },
     {
@@ -41378,7 +41378,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '124',
-      bcRate: '32,25806451612903',
+      bcRate: '32.25806451612903',
       hobRate: '0',
     },
     {
@@ -41426,7 +41426,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '107',
-      bcRate: '18,69158878504673',
+      bcRate: '18.69158878504673',
       hobRate: '0',
     },
     {
@@ -41438,8 +41438,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '6',
       numberOfPatientDays: '255',
-      bcRate: '23,52941176470588',
-      hobRate: '3,9215686274509802',
+      bcRate: '23.52941176470588',
+      hobRate: '3.9215686274509802',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -41462,7 +41462,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '153',
-      bcRate: '13,071895424836601',
+      bcRate: '13.071895424836601',
       hobRate: '0',
     },
     {
@@ -41486,7 +41486,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '229',
-      bcRate: '8,73362445414847',
+      bcRate: '8.73362445414847',
       hobRate: '0',
     },
     {
@@ -41510,7 +41510,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '123',
-      bcRate: '8,130081300813009',
+      bcRate: '8.130081300813009',
       hobRate: '0',
     },
     {
@@ -41522,7 +41522,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '128',
-      bcRate: '15,625',
+      bcRate: '15.625',
       hobRate: '0',
     },
     {
@@ -41534,7 +41534,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '193',
-      bcRate: '20,72538860103627',
+      bcRate: '20.72538860103627',
       hobRate: '0',
     },
     {
@@ -41606,7 +41606,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '69',
-      bcRate: '28,985507246376812',
+      bcRate: '28.985507246376812',
       hobRate: '0',
     },
     {
@@ -41690,7 +41690,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '138',
-      bcRate: '7,246376811594203',
+      bcRate: '7.246376811594203',
       hobRate: '0',
     },
     {
@@ -41738,7 +41738,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '176',
-      bcRate: '11,363636363636363',
+      bcRate: '11.363636363636363',
       hobRate: '0',
     },
     {
@@ -41774,7 +41774,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '39',
-      bcRate: '25,64102564102564',
+      bcRate: '25.64102564102564',
       hobRate: '0',
     },
     {
@@ -41811,7 +41811,7 @@ export const hospitaldata1 = [
       numberOfBloodCultureSamples: '0',
       numberOfPatientDays: '152',
       bcRate: '0',
-      hobRate: '6,578947368421052',
+      hobRate: '6.578947368421052',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -41846,7 +41846,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '173',
-      bcRate: '5,780346820809248',
+      bcRate: '5.780346820809248',
       hobRate: '0',
     },
     {
@@ -41858,7 +41858,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '190',
-      bcRate: '5,263157894736842',
+      bcRate: '5.263157894736842',
       hobRate: '0',
     },
     {
@@ -41954,7 +41954,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '672',
-      bcRate: '10,416666666666666',
+      bcRate: '10.416666666666666',
       hobRate: '0',
     },
     {
@@ -41966,7 +41966,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '867',
-      bcRate: '4,61361014994233',
+      bcRate: '4.61361014994233',
       hobRate: '0',
     },
     {
@@ -41978,7 +41978,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '961',
-      bcRate: '7,284079084287201',
+      bcRate: '7.284079084287201',
       hobRate: '0',
     },
     {
@@ -42003,7 +42003,7 @@ export const hospitaldata1 = [
       numberOfBloodCultureSamples: '0',
       numberOfPatientDays: '391',
       bcRate: '0',
-      hobRate: '2,557544757033248',
+      hobRate: '2.557544757033248',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -42014,8 +42014,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '11',
       numberOfPatientDays: '1304',
-      bcRate: '8,43558282208589',
-      hobRate: '0,7668711656441718',
+      bcRate: '8.43558282208589',
+      hobRate: '0.7668711656441718',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -42026,7 +42026,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '9',
       numberOfPatientDays: '694',
-      bcRate: '12,968299711815563',
+      bcRate: '12.968299711815563',
       hobRate: '0',
     },
     {
@@ -42038,7 +42038,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '532',
-      bcRate: '7,518796992481203',
+      bcRate: '7.518796992481203',
       hobRate: '0',
     },
     {
@@ -42050,7 +42050,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '6',
       numberOfPatientDays: '646',
-      bcRate: '9,287925696594426',
+      bcRate: '9.287925696594426',
       hobRate: '0',
     },
     {
@@ -42062,7 +42062,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '792',
-      bcRate: '2,5252525252525255',
+      bcRate: '2.5252525252525255',
       hobRate: '0',
     },
     {
@@ -42074,7 +42074,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '266',
-      bcRate: '11,278195488721805',
+      bcRate: '11.278195488721805',
       hobRate: '0',
     },
     {
@@ -42098,7 +42098,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '20',
       numberOfPatientDays: '3363',
-      bcRate: '5,947071067499257',
+      bcRate: '5.947071067499257',
       hobRate: '0',
     },
     {
@@ -42110,8 +42110,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '33',
       numberOfPatientDays: '4621',
-      bcRate: '7,14131140445791',
-      hobRate: '0,43280675178532785',
+      bcRate: '7.14131140445791',
+      hobRate: '0.43280675178532785',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -42134,8 +42134,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '24',
       numberOfPatientDays: '7285',
-      bcRate: '3,2944406314344543',
-      hobRate: '0,27453671928620454',
+      bcRate: '3.2944406314344543',
+      hobRate: '0.27453671928620454',
     },
     {
       hobType: 'ALL',
@@ -42206,8 +42206,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '192',
-      bcRate: '26,041666666666668',
-      hobRate: '5,208333333333333',
+      bcRate: '26.041666666666668',
+      hobRate: '5.208333333333333',
     },
     {
       hobType: 'ALL',
@@ -42230,7 +42230,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '405',
-      bcRate: '7,407407407407407',
+      bcRate: '7.407407407407407',
       hobRate: '0',
     },
     {
@@ -42290,7 +42290,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '166',
-      bcRate: '6,024096385542169',
+      bcRate: '6.024096385542169',
       hobRate: '0',
     },
     {
@@ -42350,8 +42350,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '88',
-      bcRate: '56,81818181818181',
-      hobRate: '11,363636363636363',
+      bcRate: '56.81818181818181',
+      hobRate: '11.363636363636363',
     },
     {
       hobType: 'ALL',
@@ -42614,7 +42614,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '169',
-      bcRate: '5,9171597633136095',
+      bcRate: '5.9171597633136095',
       hobRate: '0',
     },
     {
@@ -42746,7 +42746,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '135',
-      bcRate: '7,407407407407407',
+      bcRate: '7.407407407407407',
       hobRate: '0',
     },
     {
@@ -42854,7 +42854,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '841',
-      bcRate: '5,945303210463734',
+      bcRate: '5.945303210463734',
       hobRate: '0',
     },
     {
@@ -42890,8 +42890,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '8',
       numberOfPatientDays: '1215',
-      bcRate: '6,584362139917696',
-      hobRate: '0,823045267489712',
+      bcRate: '6.584362139917696',
+      hobRate: '0.823045267489712',
     },
     {
       hobType: 'ALL',
@@ -42902,7 +42902,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '582',
-      bcRate: '5,154639175257732',
+      bcRate: '5.154639175257732',
       hobRate: '0',
     },
     {
@@ -42926,7 +42926,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '575',
-      bcRate: '3,4782608695652177',
+      bcRate: '3.4782608695652177',
       hobRate: '0',
     },
     {
@@ -42938,8 +42938,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '6',
       numberOfPatientDays: '768',
-      bcRate: '7,8125',
-      hobRate: '1,3020833333333333',
+      bcRate: '7.8125',
+      hobRate: '1.3020833333333333',
     },
     {
       hobType: 'ALL',
@@ -42974,8 +42974,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '14',
       numberOfPatientDays: '3345',
-      bcRate: '4,185351270553065',
-      hobRate: '0,29895366218236175',
+      bcRate: '4.185351270553065',
+      hobRate: '0.29895366218236175',
     },
     {
       hobType: 'ALL',
@@ -42986,8 +42986,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '10',
       numberOfPatientDays: '3940',
-      bcRate: '2,5380710659898473',
-      hobRate: '0,2538071065989848',
+      bcRate: '2.5380710659898473',
+      hobRate: '0.2538071065989848',
     },
     {
       hobType: 'ALL',
@@ -43010,8 +43010,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '24',
       numberOfPatientDays: '7285',
-      bcRate: '3,2944406314344543',
-      hobRate: '0,13726835964310227',
+      bcRate: '3.2944406314344543',
+      hobRate: '0.13726835964310227',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -43082,7 +43082,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '192',
-      bcRate: '26,041666666666668',
+      bcRate: '26.041666666666668',
       hobRate: '0',
     },
     {
@@ -43106,7 +43106,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '405',
-      bcRate: '7,407407407407407',
+      bcRate: '7.407407407407407',
       hobRate: '0',
     },
     {
@@ -43166,7 +43166,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '166',
-      bcRate: '6,024096385542169',
+      bcRate: '6.024096385542169',
       hobRate: '0',
     },
     {
@@ -43226,8 +43226,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '88',
-      bcRate: '56,81818181818181',
-      hobRate: '11,363636363636363',
+      bcRate: '56.81818181818181',
+      hobRate: '11.363636363636363',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -43490,7 +43490,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '169',
-      bcRate: '5,9171597633136095',
+      bcRate: '5.9171597633136095',
       hobRate: '0',
     },
     {
@@ -43622,7 +43622,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '135',
-      bcRate: '7,407407407407407',
+      bcRate: '7.407407407407407',
       hobRate: '0',
     },
     {
@@ -43730,7 +43730,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '841',
-      bcRate: '5,945303210463734',
+      bcRate: '5.945303210463734',
       hobRate: '0',
     },
     {
@@ -43766,7 +43766,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '8',
       numberOfPatientDays: '1215',
-      bcRate: '6,584362139917696',
+      bcRate: '6.584362139917696',
       hobRate: '0',
     },
     {
@@ -43778,7 +43778,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '582',
-      bcRate: '5,154639175257732',
+      bcRate: '5.154639175257732',
       hobRate: '0',
     },
     {
@@ -43802,7 +43802,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '575',
-      bcRate: '3,4782608695652177',
+      bcRate: '3.4782608695652177',
       hobRate: '0',
     },
     {
@@ -43814,8 +43814,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '6',
       numberOfPatientDays: '768',
-      bcRate: '7,8125',
-      hobRate: '1,3020833333333333',
+      bcRate: '7.8125',
+      hobRate: '1.3020833333333333',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -43850,8 +43850,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '14',
       numberOfPatientDays: '3345',
-      bcRate: '4,185351270553065',
-      hobRate: '0,29895366218236175',
+      bcRate: '4.185351270553065',
+      hobRate: '0.29895366218236175',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -43862,7 +43862,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '10',
       numberOfPatientDays: '3940',
-      bcRate: '2,5380710659898473',
+      bcRate: '2.5380710659898473',
       hobRate: '0',
     },
     {
@@ -43886,8 +43886,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '24',
       numberOfPatientDays: '7285',
-      bcRate: '3,2944406314344543',
-      hobRate: '0,27453671928620454',
+      bcRate: '3.2944406314344543',
+      hobRate: '0.27453671928620454',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -43958,8 +43958,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '192',
-      bcRate: '26,041666666666668',
-      hobRate: '5,208333333333333',
+      bcRate: '26.041666666666668',
+      hobRate: '5.208333333333333',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -43982,7 +43982,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '405',
-      bcRate: '7,407407407407407',
+      bcRate: '7.407407407407407',
       hobRate: '0',
     },
     {
@@ -44042,7 +44042,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '166',
-      bcRate: '6,024096385542169',
+      bcRate: '6.024096385542169',
       hobRate: '0',
     },
     {
@@ -44102,8 +44102,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '88',
-      bcRate: '56,81818181818181',
-      hobRate: '11,363636363636363',
+      bcRate: '56.81818181818181',
+      hobRate: '11.363636363636363',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -44366,7 +44366,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '169',
-      bcRate: '5,9171597633136095',
+      bcRate: '5.9171597633136095',
       hobRate: '0',
     },
     {
@@ -44498,7 +44498,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '135',
-      bcRate: '7,407407407407407',
+      bcRate: '7.407407407407407',
       hobRate: '0',
     },
     {
@@ -44606,7 +44606,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '841',
-      bcRate: '5,945303210463734',
+      bcRate: '5.945303210463734',
       hobRate: '0',
     },
     {
@@ -44642,8 +44642,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '8',
       numberOfPatientDays: '1215',
-      bcRate: '6,584362139917696',
-      hobRate: '0,823045267489712',
+      bcRate: '6.584362139917696',
+      hobRate: '0.823045267489712',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -44654,7 +44654,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '582',
-      bcRate: '5,154639175257732',
+      bcRate: '5.154639175257732',
       hobRate: '0',
     },
     {
@@ -44678,7 +44678,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '575',
-      bcRate: '3,4782608695652177',
+      bcRate: '3.4782608695652177',
       hobRate: '0',
     },
     {
@@ -44690,8 +44690,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '6',
       numberOfPatientDays: '768',
-      bcRate: '7,8125',
-      hobRate: '1,3020833333333333',
+      bcRate: '7.8125',
+      hobRate: '1.3020833333333333',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -44726,8 +44726,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '14',
       numberOfPatientDays: '3345',
-      bcRate: '4,185351270553065',
-      hobRate: '0,29895366218236175',
+      bcRate: '4.185351270553065',
+      hobRate: '0.29895366218236175',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -44738,8 +44738,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '10',
       numberOfPatientDays: '3940',
-      bcRate: '2,5380710659898473',
-      hobRate: '0,2538071065989848',
+      bcRate: '2.5380710659898473',
+      hobRate: '0.2538071065989848',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -44762,8 +44762,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '7',
       numberOfBloodCultureSamples: '64',
       numberOfPatientDays: '8211',
-      bcRate: '7,794422116672756',
-      hobRate: '0,8525149190110827',
+      bcRate: '7.794422116672756',
+      hobRate: '0.8525149190110827',
     },
     {
       hobType: 'ALL',
@@ -44787,7 +44787,7 @@ export const hospitaldata1 = [
       numberOfBloodCultureSamples: '0',
       numberOfPatientDays: '206',
       bcRate: '0',
-      hobRate: '4,854368932038835',
+      hobRate: '4.854368932038835',
     },
     {
       hobType: 'ALL',
@@ -44822,8 +44822,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '173',
-      bcRate: '5,780346820809248',
-      hobRate: '5,780346820809248',
+      bcRate: '5.780346820809248',
+      hobRate: '5.780346820809248',
     },
     {
       hobType: 'ALL',
@@ -44834,8 +44834,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '154',
-      bcRate: '6,493506493506494',
-      hobRate: '6,493506493506494',
+      bcRate: '6.493506493506494',
+      hobRate: '6.493506493506494',
     },
     {
       hobType: 'ALL',
@@ -44858,8 +44858,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '10',
       numberOfPatientDays: '446',
-      bcRate: '22,42152466367713',
-      hobRate: '2,242152466367713',
+      bcRate: '22.42152466367713',
+      hobRate: '2.242152466367713',
     },
     {
       hobType: 'ALL',
@@ -44870,7 +44870,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '147',
-      bcRate: '6,802721088435374',
+      bcRate: '6.802721088435374',
       hobRate: '0',
     },
     {
@@ -44882,7 +44882,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '82',
-      bcRate: '24,390243902439025',
+      bcRate: '24.390243902439025',
       hobRate: '0',
     },
     {
@@ -44894,8 +44894,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '214',
-      bcRate: '4,672897196261682',
-      hobRate: '4,672897196261682',
+      bcRate: '4.672897196261682',
+      hobRate: '4.672897196261682',
     },
     {
       hobType: 'ALL',
@@ -44918,7 +44918,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '197',
-      bcRate: '5,076142131979695',
+      bcRate: '5.076142131979695',
       hobRate: '0',
     },
     {
@@ -44931,7 +44931,7 @@ export const hospitaldata1 = [
       numberOfBloodCultureSamples: '0',
       numberOfPatientDays: '142',
       bcRate: '0',
-      hobRate: '7,042253521126761',
+      hobRate: '7.042253521126761',
     },
     {
       hobType: 'ALL',
@@ -44942,7 +44942,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '141',
-      bcRate: '14,184397163120567',
+      bcRate: '14.184397163120567',
       hobRate: '0',
     },
     {
@@ -44966,7 +44966,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '133',
-      bcRate: '37,59398496240601',
+      bcRate: '37.59398496240601',
       hobRate: '0',
     },
     {
@@ -44978,7 +44978,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '98',
-      bcRate: '10,204081632653061',
+      bcRate: '10.204081632653061',
       hobRate: '0',
     },
     {
@@ -45002,7 +45002,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '56',
-      bcRate: '35,714285714285715',
+      bcRate: '35.714285714285715',
       hobRate: '0',
     },
     {
@@ -45014,7 +45014,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '79',
-      bcRate: '25,31645569620253',
+      bcRate: '25.31645569620253',
       hobRate: '0',
     },
     {
@@ -45038,7 +45038,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '245',
-      bcRate: '16,3265306122449',
+      bcRate: '16.3265306122449',
       hobRate: '0',
     },
     {
@@ -45062,7 +45062,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '79',
-      bcRate: '25,31645569620253',
+      bcRate: '25.31645569620253',
       hobRate: '0',
     },
     {
@@ -45146,7 +45146,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '116',
-      bcRate: '8,620689655172413',
+      bcRate: '8.620689655172413',
       hobRate: '0',
     },
     {
@@ -45158,7 +45158,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '97',
-      bcRate: '20,61855670103093',
+      bcRate: '20.61855670103093',
       hobRate: '0',
     },
     {
@@ -45170,7 +45170,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '187',
-      bcRate: '5,347593582887701',
+      bcRate: '5.347593582887701',
       hobRate: '0',
     },
     {
@@ -45194,8 +45194,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '72',
-      bcRate: '27,777777777777775',
-      hobRate: '13,888888888888888',
+      bcRate: '27.777777777777775',
+      hobRate: '13.888888888888888',
     },
     {
       hobType: 'ALL',
@@ -45242,7 +45242,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '185',
-      bcRate: '5,405405405405405',
+      bcRate: '5.405405405405405',
       hobRate: '0',
     },
     {
@@ -45458,7 +45458,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '691',
-      bcRate: '4,341534008683069',
+      bcRate: '4.341534008683069',
       hobRate: '0',
     },
     {
@@ -45470,8 +45470,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '1175',
-      bcRate: '2,553191489361702',
-      hobRate: '0,851063829787234',
+      bcRate: '2.553191489361702',
+      hobRate: '0.851063829787234',
     },
     {
       hobType: 'ALL',
@@ -45482,7 +45482,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '16',
       numberOfPatientDays: '829',
-      bcRate: '19,300361881785282',
+      bcRate: '19.300361881785282',
       hobRate: '0',
     },
     {
@@ -45494,7 +45494,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '891',
-      bcRate: '3,3670033670033668',
+      bcRate: '3.3670033670033668',
       hobRate: '0',
     },
     {
@@ -45506,8 +45506,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '405',
-      bcRate: '2,4691358024691357',
-      hobRate: '2,4691358024691357',
+      bcRate: '2.4691358024691357',
+      hobRate: '2.4691358024691357',
     },
     {
       hobType: 'ALL',
@@ -45518,8 +45518,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '10',
       numberOfPatientDays: '1208',
-      bcRate: '8,27814569536424',
-      hobRate: '0,8278145695364238',
+      bcRate: '8.27814569536424',
+      hobRate: '0.8278145695364238',
     },
     {
       hobType: 'ALL',
@@ -45530,8 +45530,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '10',
       numberOfPatientDays: '704',
-      bcRate: '14,204545454545453',
-      hobRate: '1,4204545454545454',
+      bcRate: '14.204545454545453',
+      hobRate: '1.4204545454545454',
     },
     {
       hobType: 'ALL',
@@ -45542,8 +45542,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '639',
-      bcRate: '1,5649452269170578',
-      hobRate: '3,1298904538341157',
+      bcRate: '1.5649452269170578',
+      hobRate: '3.1298904538341157',
     },
     {
       hobType: 'ALL',
@@ -45554,7 +45554,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '739',
-      bcRate: '6,7658998646820026',
+      bcRate: '6.7658998646820026',
       hobRate: '0',
     },
     {
@@ -45566,7 +45566,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '10',
       numberOfPatientDays: '756',
-      bcRate: '13,227513227513226',
+      bcRate: '13.227513227513226',
       hobRate: '0',
     },
     {
@@ -45578,8 +45578,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '174',
-      bcRate: '11,494252873563218',
-      hobRate: '5,747126436781609',
+      bcRate: '11.494252873563218',
+      hobRate: '5.747126436781609',
     },
     {
       hobType: 'ALL',
@@ -45602,8 +45602,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '3',
       numberOfBloodCultureSamples: '35',
       numberOfPatientDays: '3744',
-      bcRate: '9,348290598290598',
-      hobRate: '0,8012820512820512',
+      bcRate: '9.348290598290598',
+      hobRate: '0.8012820512820512',
     },
     {
       hobType: 'ALL',
@@ -45614,8 +45614,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '4',
       numberOfBloodCultureSamples: '29',
       numberOfPatientDays: '4467',
-      bcRate: '6,492052831878218',
-      hobRate: '0,8954555630176853',
+      bcRate: '6.492052831878218',
+      hobRate: '0.8954555630176853',
     },
     {
       hobType: 'ALL',
@@ -45638,8 +45638,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '7',
       numberOfBloodCultureSamples: '64',
       numberOfPatientDays: '8211',
-      bcRate: '7,794422116672756',
-      hobRate: '0,8525149190110827',
+      bcRate: '7.794422116672756',
+      hobRate: '0.8525149190110827',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -45663,7 +45663,7 @@ export const hospitaldata1 = [
       numberOfBloodCultureSamples: '0',
       numberOfPatientDays: '206',
       bcRate: '0',
-      hobRate: '4,854368932038835',
+      hobRate: '4.854368932038835',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -45698,8 +45698,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '173',
-      bcRate: '5,780346820809248',
-      hobRate: '5,780346820809248',
+      bcRate: '5.780346820809248',
+      hobRate: '5.780346820809248',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -45710,8 +45710,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '154',
-      bcRate: '6,493506493506494',
-      hobRate: '6,493506493506494',
+      bcRate: '6.493506493506494',
+      hobRate: '6.493506493506494',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -45734,8 +45734,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '10',
       numberOfPatientDays: '446',
-      bcRate: '22,42152466367713',
-      hobRate: '2,242152466367713',
+      bcRate: '22.42152466367713',
+      hobRate: '2.242152466367713',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -45746,7 +45746,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '147',
-      bcRate: '6,802721088435374',
+      bcRate: '6.802721088435374',
       hobRate: '0',
     },
     {
@@ -45758,7 +45758,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '82',
-      bcRate: '24,390243902439025',
+      bcRate: '24.390243902439025',
       hobRate: '0',
     },
     {
@@ -45770,8 +45770,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '214',
-      bcRate: '4,672897196261682',
-      hobRate: '4,672897196261682',
+      bcRate: '4.672897196261682',
+      hobRate: '4.672897196261682',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -45794,7 +45794,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '197',
-      bcRate: '5,076142131979695',
+      bcRate: '5.076142131979695',
       hobRate: '0',
     },
     {
@@ -45807,7 +45807,7 @@ export const hospitaldata1 = [
       numberOfBloodCultureSamples: '0',
       numberOfPatientDays: '142',
       bcRate: '0',
-      hobRate: '7,042253521126761',
+      hobRate: '7.042253521126761',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -45818,7 +45818,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '141',
-      bcRate: '14,184397163120567',
+      bcRate: '14.184397163120567',
       hobRate: '0',
     },
     {
@@ -45842,7 +45842,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '133',
-      bcRate: '37,59398496240601',
+      bcRate: '37.59398496240601',
       hobRate: '0',
     },
     {
@@ -45854,7 +45854,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '98',
-      bcRate: '10,204081632653061',
+      bcRate: '10.204081632653061',
       hobRate: '0',
     },
     {
@@ -45878,7 +45878,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '56',
-      bcRate: '35,714285714285715',
+      bcRate: '35.714285714285715',
       hobRate: '0',
     },
     {
@@ -45890,7 +45890,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '79',
-      bcRate: '25,31645569620253',
+      bcRate: '25.31645569620253',
       hobRate: '0',
     },
     {
@@ -45914,7 +45914,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '245',
-      bcRate: '16,3265306122449',
+      bcRate: '16.3265306122449',
       hobRate: '0',
     },
     {
@@ -45938,7 +45938,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '79',
-      bcRate: '25,31645569620253',
+      bcRate: '25.31645569620253',
       hobRate: '0',
     },
     {
@@ -46022,7 +46022,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '116',
-      bcRate: '8,620689655172413',
+      bcRate: '8.620689655172413',
       hobRate: '0',
     },
     {
@@ -46034,7 +46034,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '97',
-      bcRate: '20,61855670103093',
+      bcRate: '20.61855670103093',
       hobRate: '0',
     },
     {
@@ -46046,7 +46046,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '187',
-      bcRate: '5,347593582887701',
+      bcRate: '5.347593582887701',
       hobRate: '0',
     },
     {
@@ -46070,8 +46070,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '72',
-      bcRate: '27,777777777777775',
-      hobRate: '13,888888888888888',
+      bcRate: '27.777777777777775',
+      hobRate: '13.888888888888888',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -46118,7 +46118,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '185',
-      bcRate: '5,405405405405405',
+      bcRate: '5.405405405405405',
       hobRate: '0',
     },
     {
@@ -46334,7 +46334,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '691',
-      bcRate: '4,341534008683069',
+      bcRate: '4.341534008683069',
       hobRate: '0',
     },
     {
@@ -46346,8 +46346,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '1175',
-      bcRate: '2,553191489361702',
-      hobRate: '0,851063829787234',
+      bcRate: '2.553191489361702',
+      hobRate: '0.851063829787234',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -46358,7 +46358,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '16',
       numberOfPatientDays: '829',
-      bcRate: '19,300361881785282',
+      bcRate: '19.300361881785282',
       hobRate: '0',
     },
     {
@@ -46370,7 +46370,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '891',
-      bcRate: '3,3670033670033668',
+      bcRate: '3.3670033670033668',
       hobRate: '0',
     },
     {
@@ -46382,8 +46382,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '405',
-      bcRate: '2,4691358024691357',
-      hobRate: '2,4691358024691357',
+      bcRate: '2.4691358024691357',
+      hobRate: '2.4691358024691357',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -46394,8 +46394,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '10',
       numberOfPatientDays: '1208',
-      bcRate: '8,27814569536424',
-      hobRate: '0,8278145695364238',
+      bcRate: '8.27814569536424',
+      hobRate: '0.8278145695364238',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -46406,8 +46406,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '10',
       numberOfPatientDays: '704',
-      bcRate: '14,204545454545453',
-      hobRate: '1,4204545454545454',
+      bcRate: '14.204545454545453',
+      hobRate: '1.4204545454545454',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -46418,8 +46418,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '639',
-      bcRate: '1,5649452269170578',
-      hobRate: '3,1298904538341157',
+      bcRate: '1.5649452269170578',
+      hobRate: '3.1298904538341157',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -46430,7 +46430,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '739',
-      bcRate: '6,7658998646820026',
+      bcRate: '6.7658998646820026',
       hobRate: '0',
     },
     {
@@ -46442,7 +46442,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '10',
       numberOfPatientDays: '756',
-      bcRate: '13,227513227513226',
+      bcRate: '13.227513227513226',
       hobRate: '0',
     },
     {
@@ -46454,8 +46454,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '174',
-      bcRate: '11,494252873563218',
-      hobRate: '5,747126436781609',
+      bcRate: '11.494252873563218',
+      hobRate: '5.747126436781609',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -46478,8 +46478,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '3',
       numberOfBloodCultureSamples: '35',
       numberOfPatientDays: '3744',
-      bcRate: '9,348290598290598',
-      hobRate: '0,8012820512820512',
+      bcRate: '9.348290598290598',
+      hobRate: '0.8012820512820512',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -46490,8 +46490,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '4',
       numberOfBloodCultureSamples: '29',
       numberOfPatientDays: '4467',
-      bcRate: '6,492052831878218',
-      hobRate: '0,8954555630176853',
+      bcRate: '6.492052831878218',
+      hobRate: '0.8954555630176853',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -46514,7 +46514,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '64',
       numberOfPatientDays: '8211',
-      bcRate: '7,794422116672756',
+      bcRate: '7.794422116672756',
       hobRate: '0',
     },
     {
@@ -46574,7 +46574,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '173',
-      bcRate: '5,780346820809248',
+      bcRate: '5.780346820809248',
       hobRate: '0',
     },
     {
@@ -46586,7 +46586,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '154',
-      bcRate: '6,493506493506494',
+      bcRate: '6.493506493506494',
       hobRate: '0',
     },
     {
@@ -46610,7 +46610,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '10',
       numberOfPatientDays: '446',
-      bcRate: '22,42152466367713',
+      bcRate: '22.42152466367713',
       hobRate: '0',
     },
     {
@@ -46622,7 +46622,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '147',
-      bcRate: '6,802721088435374',
+      bcRate: '6.802721088435374',
       hobRate: '0',
     },
     {
@@ -46634,7 +46634,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '82',
-      bcRate: '24,390243902439025',
+      bcRate: '24.390243902439025',
       hobRate: '0',
     },
     {
@@ -46646,7 +46646,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '214',
-      bcRate: '4,672897196261682',
+      bcRate: '4.672897196261682',
       hobRate: '0',
     },
     {
@@ -46670,7 +46670,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '197',
-      bcRate: '5,076142131979695',
+      bcRate: '5.076142131979695',
       hobRate: '0',
     },
     {
@@ -46694,7 +46694,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '141',
-      bcRate: '14,184397163120567',
+      bcRate: '14.184397163120567',
       hobRate: '0',
     },
     {
@@ -46718,7 +46718,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '133',
-      bcRate: '37,59398496240601',
+      bcRate: '37.59398496240601',
       hobRate: '0',
     },
     {
@@ -46730,7 +46730,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '98',
-      bcRate: '10,204081632653061',
+      bcRate: '10.204081632653061',
       hobRate: '0',
     },
     {
@@ -46754,7 +46754,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '56',
-      bcRate: '35,714285714285715',
+      bcRate: '35.714285714285715',
       hobRate: '0',
     },
     {
@@ -46766,7 +46766,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '79',
-      bcRate: '25,31645569620253',
+      bcRate: '25.31645569620253',
       hobRate: '0',
     },
     {
@@ -46790,7 +46790,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '245',
-      bcRate: '16,3265306122449',
+      bcRate: '16.3265306122449',
       hobRate: '0',
     },
     {
@@ -46814,7 +46814,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '79',
-      bcRate: '25,31645569620253',
+      bcRate: '25.31645569620253',
       hobRate: '0',
     },
     {
@@ -46898,7 +46898,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '116',
-      bcRate: '8,620689655172413',
+      bcRate: '8.620689655172413',
       hobRate: '0',
     },
     {
@@ -46910,7 +46910,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '97',
-      bcRate: '20,61855670103093',
+      bcRate: '20.61855670103093',
       hobRate: '0',
     },
     {
@@ -46922,7 +46922,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '187',
-      bcRate: '5,347593582887701',
+      bcRate: '5.347593582887701',
       hobRate: '0',
     },
     {
@@ -46946,7 +46946,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '72',
-      bcRate: '27,777777777777775',
+      bcRate: '27.777777777777775',
       hobRate: '0',
     },
     {
@@ -46994,7 +46994,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '185',
-      bcRate: '5,405405405405405',
+      bcRate: '5.405405405405405',
       hobRate: '0',
     },
     {
@@ -47210,7 +47210,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '691',
-      bcRate: '4,341534008683069',
+      bcRate: '4.341534008683069',
       hobRate: '0',
     },
     {
@@ -47222,7 +47222,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '1175',
-      bcRate: '2,553191489361702',
+      bcRate: '2.553191489361702',
       hobRate: '0',
     },
     {
@@ -47234,7 +47234,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '16',
       numberOfPatientDays: '829',
-      bcRate: '19,300361881785282',
+      bcRate: '19.300361881785282',
       hobRate: '0',
     },
     {
@@ -47246,7 +47246,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '891',
-      bcRate: '3,3670033670033668',
+      bcRate: '3.3670033670033668',
       hobRate: '0',
     },
     {
@@ -47258,7 +47258,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '405',
-      bcRate: '2,4691358024691357',
+      bcRate: '2.4691358024691357',
       hobRate: '0',
     },
     {
@@ -47270,7 +47270,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '10',
       numberOfPatientDays: '1208',
-      bcRate: '8,27814569536424',
+      bcRate: '8.27814569536424',
       hobRate: '0',
     },
     {
@@ -47282,7 +47282,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '10',
       numberOfPatientDays: '704',
-      bcRate: '14,204545454545453',
+      bcRate: '14.204545454545453',
       hobRate: '0',
     },
     {
@@ -47294,7 +47294,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '639',
-      bcRate: '1,5649452269170578',
+      bcRate: '1.5649452269170578',
       hobRate: '0',
     },
     {
@@ -47306,7 +47306,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '739',
-      bcRate: '6,7658998646820026',
+      bcRate: '6.7658998646820026',
       hobRate: '0',
     },
     {
@@ -47318,7 +47318,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '10',
       numberOfPatientDays: '756',
-      bcRate: '13,227513227513226',
+      bcRate: '13.227513227513226',
       hobRate: '0',
     },
     {
@@ -47330,7 +47330,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '174',
-      bcRate: '11,494252873563218',
+      bcRate: '11.494252873563218',
       hobRate: '0',
     },
     {
@@ -47354,7 +47354,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '35',
       numberOfPatientDays: '3744',
-      bcRate: '9,348290598290598',
+      bcRate: '9.348290598290598',
       hobRate: '0',
     },
     {
@@ -47366,7 +47366,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '29',
       numberOfPatientDays: '4467',
-      bcRate: '6,492052831878218',
+      bcRate: '6.492052831878218',
       hobRate: '0',
     },
     {
@@ -47390,8 +47390,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '10',
       numberOfBloodCultureSamples: '50',
       numberOfPatientDays: '7578',
-      bcRate: '6,598046978094484',
-      hobRate: '1,3196093956188968',
+      bcRate: '6.598046978094484',
+      hobRate: '1.3196093956188968',
     },
     {
       hobType: 'ALL',
@@ -47415,7 +47415,7 @@ export const hospitaldata1 = [
       numberOfBloodCultureSamples: '0',
       numberOfPatientDays: '201',
       bcRate: '0',
-      hobRate: '4,975124378109452',
+      hobRate: '4.975124378109452',
     },
     {
       hobType: 'ALL',
@@ -47450,7 +47450,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '198',
-      bcRate: '5,050505050505051',
+      bcRate: '5.050505050505051',
       hobRate: '0',
     },
     {
@@ -47462,7 +47462,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '164',
-      bcRate: '6,097560975609756',
+      bcRate: '6.097560975609756',
       hobRate: '0',
     },
     {
@@ -47486,8 +47486,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '370',
-      bcRate: '5,405405405405405',
-      hobRate: '2,7027027027027026',
+      bcRate: '5.405405405405405',
+      hobRate: '2.7027027027027026',
     },
     {
       hobType: 'ALL',
@@ -47510,7 +47510,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '6',
       numberOfPatientDays: '117',
-      bcRate: '51,28205128205128',
+      bcRate: '51.28205128205128',
       hobRate: '0',
     },
     {
@@ -47522,7 +47522,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '154',
-      bcRate: '6,493506493506494',
+      bcRate: '6.493506493506494',
       hobRate: '0',
     },
     {
@@ -47558,8 +47558,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '104',
-      bcRate: '38,46153846153847',
-      hobRate: '9,615384615384617',
+      bcRate: '38.46153846153847',
+      hobRate: '9.615384615384617',
     },
     {
       hobType: 'ALL',
@@ -47570,8 +47570,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '154',
-      bcRate: '32,467532467532465',
-      hobRate: '6,493506493506494',
+      bcRate: '32.467532467532465',
+      hobRate: '6.493506493506494',
     },
     {
       hobType: 'ALL',
@@ -47594,7 +47594,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '75',
-      bcRate: '13,333333333333334',
+      bcRate: '13.333333333333334',
       hobRate: '0',
     },
     {
@@ -47606,7 +47606,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '49',
-      bcRate: '20,408163265306122',
+      bcRate: '20.408163265306122',
       hobRate: '0',
     },
     {
@@ -47618,8 +47618,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '114',
-      bcRate: '17,543859649122805',
-      hobRate: '8,771929824561402',
+      bcRate: '17.543859649122805',
+      hobRate: '8.771929824561402',
     },
     {
       hobType: 'ALL',
@@ -47631,7 +47631,7 @@ export const hospitaldata1 = [
       numberOfBloodCultureSamples: '0',
       numberOfPatientDays: '115',
       bcRate: '0',
-      hobRate: '8,695652173913043',
+      hobRate: '8.695652173913043',
     },
     {
       hobType: 'ALL',
@@ -47666,8 +47666,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '133',
-      bcRate: '7,518796992481203',
-      hobRate: '7,518796992481203',
+      bcRate: '7.518796992481203',
+      hobRate: '7.518796992481203',
     },
     {
       hobType: 'ALL',
@@ -47678,8 +47678,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '122',
-      bcRate: '40,983606557377044',
-      hobRate: '8,196721311475411',
+      bcRate: '40.983606557377044',
+      hobRate: '8.196721311475411',
     },
     {
       hobType: 'ALL',
@@ -47738,7 +47738,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '91',
-      bcRate: '10,989010989010989',
+      bcRate: '10.989010989010989',
       hobRate: '0',
     },
     {
@@ -47762,8 +47762,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '102',
-      bcRate: '9,803921568627452',
-      hobRate: '9,803921568627452',
+      bcRate: '9.803921568627452',
+      hobRate: '9.803921568627452',
     },
     {
       hobType: 'ALL',
@@ -47822,7 +47822,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '113',
-      bcRate: '8,849557522123893',
+      bcRate: '8.849557522123893',
       hobRate: '0',
     },
     {
@@ -47894,7 +47894,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '188',
-      bcRate: '5,319148936170213',
+      bcRate: '5.319148936170213',
       hobRate: '0',
     },
     {
@@ -47931,7 +47931,7 @@ export const hospitaldata1 = [
       numberOfBloodCultureSamples: '0',
       numberOfPatientDays: '113',
       bcRate: '0',
-      hobRate: '8,849557522123893',
+      hobRate: '8.849557522123893',
     },
     {
       hobType: 'ALL',
@@ -47942,7 +47942,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '205',
-      bcRate: '4,878048780487805',
+      bcRate: '4.878048780487805',
       hobRate: '0',
     },
     {
@@ -47990,7 +47990,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '211',
-      bcRate: '4,739336492890995',
+      bcRate: '4.739336492890995',
       hobRate: '0',
     },
     {
@@ -48086,8 +48086,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '575',
-      bcRate: '6,9565217391304355',
-      hobRate: '1,7391304347826089',
+      bcRate: '6.9565217391304355',
+      hobRate: '1.7391304347826089',
     },
     {
       hobType: 'ALL',
@@ -48098,8 +48098,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '6',
       numberOfPatientDays: '933',
-      bcRate: '6,430868167202572',
-      hobRate: '2,1436227224008575',
+      bcRate: '6.430868167202572',
+      hobRate: '2.1436227224008575',
     },
     {
       hobType: 'ALL',
@@ -48110,8 +48110,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '15',
       numberOfPatientDays: '900',
-      bcRate: '16,666666666666668',
-      hobRate: '1,1111111111111112',
+      bcRate: '16.666666666666668',
+      hobRate: '1.1111111111111112',
     },
     {
       hobType: 'ALL',
@@ -48122,8 +48122,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '818',
-      bcRate: '1,2224938875305624',
-      hobRate: '2,444987775061125',
+      bcRate: '1.2224938875305624',
+      hobRate: '2.444987775061125',
     },
     {
       hobType: 'ALL',
@@ -48134,7 +48134,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '466',
-      bcRate: '4,291845493562231',
+      bcRate: '4.291845493562231',
       hobRate: '0',
     },
     {
@@ -48146,8 +48146,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '9',
       numberOfPatientDays: '1109',
-      bcRate: '8,115419296663662',
-      hobRate: '0,9017132551848511',
+      bcRate: '8.115419296663662',
+      hobRate: '0.9017132551848511',
     },
     {
       hobType: 'ALL',
@@ -48158,8 +48158,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '558',
-      bcRate: '5,376344086021506',
-      hobRate: '1,7921146953405018',
+      bcRate: '5.376344086021506',
+      hobRate: '1.7921146953405018',
     },
     {
       hobType: 'ALL',
@@ -48170,8 +48170,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '6',
       numberOfPatientDays: '526',
-      bcRate: '11,406844106463879',
-      hobRate: '1,9011406844106464',
+      bcRate: '11.406844106463879',
+      hobRate: '1.9011406844106464',
     },
     {
       hobType: 'ALL',
@@ -48182,8 +48182,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '681',
-      bcRate: '1,4684287812041115',
-      hobRate: '1,4684287812041115',
+      bcRate: '1.4684287812041115',
+      hobRate: '1.4684287812041115',
     },
     {
       hobType: 'ALL',
@@ -48194,7 +48194,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '703',
-      bcRate: '2,8449502133712663',
+      bcRate: '2.8449502133712663',
       hobRate: '0',
     },
     {
@@ -48206,7 +48206,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '309',
-      bcRate: '3,236245954692557',
+      bcRate: '3.236245954692557',
       hobRate: '0',
     },
     {
@@ -48230,8 +48230,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '3',
       numberOfBloodCultureSamples: '24',
       numberOfPatientDays: '3474',
-      bcRate: '6,90846286701209',
-      hobRate: '0,8635578583765112',
+      bcRate: '6.90846286701209',
+      hobRate: '0.8635578583765112',
     },
     {
       hobType: 'ALL',
@@ -48242,8 +48242,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '7',
       numberOfBloodCultureSamples: '26',
       numberOfPatientDays: '4104',
-      bcRate: '6,3352826510721245',
-      hobRate: '1,705653021442495',
+      bcRate: '6.3352826510721245',
+      hobRate: '1.705653021442495',
     },
     {
       hobType: 'ALL',
@@ -48266,8 +48266,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '9',
       numberOfBloodCultureSamples: '50',
       numberOfPatientDays: '7578',
-      bcRate: '6,598046978094484',
-      hobRate: '1,187648456057007',
+      bcRate: '6.598046978094484',
+      hobRate: '1.187648456057007',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -48291,7 +48291,7 @@ export const hospitaldata1 = [
       numberOfBloodCultureSamples: '0',
       numberOfPatientDays: '201',
       bcRate: '0',
-      hobRate: '4,975124378109452',
+      hobRate: '4.975124378109452',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -48326,7 +48326,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '198',
-      bcRate: '5,050505050505051',
+      bcRate: '5.050505050505051',
       hobRate: '0',
     },
     {
@@ -48338,7 +48338,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '164',
-      bcRate: '6,097560975609756',
+      bcRate: '6.097560975609756',
       hobRate: '0',
     },
     {
@@ -48362,7 +48362,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '370',
-      bcRate: '5,405405405405405',
+      bcRate: '5.405405405405405',
       hobRate: '0',
     },
     {
@@ -48386,7 +48386,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '6',
       numberOfPatientDays: '117',
-      bcRate: '51,28205128205128',
+      bcRate: '51.28205128205128',
       hobRate: '0',
     },
     {
@@ -48398,7 +48398,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '154',
-      bcRate: '6,493506493506494',
+      bcRate: '6.493506493506494',
       hobRate: '0',
     },
     {
@@ -48434,8 +48434,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '104',
-      bcRate: '38,46153846153847',
-      hobRate: '9,615384615384617',
+      bcRate: '38.46153846153847',
+      hobRate: '9.615384615384617',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -48446,8 +48446,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '154',
-      bcRate: '32,467532467532465',
-      hobRate: '6,493506493506494',
+      bcRate: '32.467532467532465',
+      hobRate: '6.493506493506494',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -48470,7 +48470,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '75',
-      bcRate: '13,333333333333334',
+      bcRate: '13.333333333333334',
       hobRate: '0',
     },
     {
@@ -48482,7 +48482,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '49',
-      bcRate: '20,408163265306122',
+      bcRate: '20.408163265306122',
       hobRate: '0',
     },
     {
@@ -48494,8 +48494,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '114',
-      bcRate: '17,543859649122805',
-      hobRate: '8,771929824561402',
+      bcRate: '17.543859649122805',
+      hobRate: '8.771929824561402',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -48507,7 +48507,7 @@ export const hospitaldata1 = [
       numberOfBloodCultureSamples: '0',
       numberOfPatientDays: '115',
       bcRate: '0',
-      hobRate: '8,695652173913043',
+      hobRate: '8.695652173913043',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -48542,8 +48542,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '133',
-      bcRate: '7,518796992481203',
-      hobRate: '7,518796992481203',
+      bcRate: '7.518796992481203',
+      hobRate: '7.518796992481203',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -48554,8 +48554,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '122',
-      bcRate: '40,983606557377044',
-      hobRate: '8,196721311475411',
+      bcRate: '40.983606557377044',
+      hobRate: '8.196721311475411',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -48614,7 +48614,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '91',
-      bcRate: '10,989010989010989',
+      bcRate: '10.989010989010989',
       hobRate: '0',
     },
     {
@@ -48638,8 +48638,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '102',
-      bcRate: '9,803921568627452',
-      hobRate: '9,803921568627452',
+      bcRate: '9.803921568627452',
+      hobRate: '9.803921568627452',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -48698,7 +48698,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '113',
-      bcRate: '8,849557522123893',
+      bcRate: '8.849557522123893',
       hobRate: '0',
     },
     {
@@ -48770,7 +48770,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '188',
-      bcRate: '5,319148936170213',
+      bcRate: '5.319148936170213',
       hobRate: '0',
     },
     {
@@ -48807,7 +48807,7 @@ export const hospitaldata1 = [
       numberOfBloodCultureSamples: '0',
       numberOfPatientDays: '113',
       bcRate: '0',
-      hobRate: '8,849557522123893',
+      hobRate: '8.849557522123893',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -48818,7 +48818,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '205',
-      bcRate: '4,878048780487805',
+      bcRate: '4.878048780487805',
       hobRate: '0',
     },
     {
@@ -48866,7 +48866,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '211',
-      bcRate: '4,739336492890995',
+      bcRate: '4.739336492890995',
       hobRate: '0',
     },
     {
@@ -48962,8 +48962,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '575',
-      bcRate: '6,9565217391304355',
-      hobRate: '1,7391304347826089',
+      bcRate: '6.9565217391304355',
+      hobRate: '1.7391304347826089',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -48974,8 +48974,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '6',
       numberOfPatientDays: '933',
-      bcRate: '6,430868167202572',
-      hobRate: '2,1436227224008575',
+      bcRate: '6.430868167202572',
+      hobRate: '2.1436227224008575',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -48986,8 +48986,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '15',
       numberOfPatientDays: '900',
-      bcRate: '16,666666666666668',
-      hobRate: '1,1111111111111112',
+      bcRate: '16.666666666666668',
+      hobRate: '1.1111111111111112',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -48998,8 +48998,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '818',
-      bcRate: '1,2224938875305624',
-      hobRate: '2,444987775061125',
+      bcRate: '1.2224938875305624',
+      hobRate: '2.444987775061125',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -49010,7 +49010,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '466',
-      bcRate: '4,291845493562231',
+      bcRate: '4.291845493562231',
       hobRate: '0',
     },
     {
@@ -49022,8 +49022,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '9',
       numberOfPatientDays: '1109',
-      bcRate: '8,115419296663662',
-      hobRate: '0,9017132551848511',
+      bcRate: '8.115419296663662',
+      hobRate: '0.9017132551848511',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -49034,7 +49034,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '558',
-      bcRate: '5,376344086021506',
+      bcRate: '5.376344086021506',
       hobRate: '0',
     },
     {
@@ -49046,8 +49046,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '6',
       numberOfPatientDays: '526',
-      bcRate: '11,406844106463879',
-      hobRate: '1,9011406844106464',
+      bcRate: '11.406844106463879',
+      hobRate: '1.9011406844106464',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -49058,8 +49058,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '681',
-      bcRate: '1,4684287812041115',
-      hobRate: '1,4684287812041115',
+      bcRate: '1.4684287812041115',
+      hobRate: '1.4684287812041115',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -49070,7 +49070,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '703',
-      bcRate: '2,8449502133712663',
+      bcRate: '2.8449502133712663',
       hobRate: '0',
     },
     {
@@ -49082,7 +49082,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '309',
-      bcRate: '3,236245954692557',
+      bcRate: '3.236245954692557',
       hobRate: '0',
     },
     {
@@ -49106,8 +49106,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '3',
       numberOfBloodCultureSamples: '24',
       numberOfPatientDays: '3474',
-      bcRate: '6,90846286701209',
-      hobRate: '0,8635578583765112',
+      bcRate: '6.90846286701209',
+      hobRate: '0.8635578583765112',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -49118,8 +49118,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '6',
       numberOfBloodCultureSamples: '26',
       numberOfPatientDays: '4104',
-      bcRate: '6,3352826510721245',
-      hobRate: '1,461988304093567',
+      bcRate: '6.3352826510721245',
+      hobRate: '1.461988304093567',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -49142,8 +49142,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '50',
       numberOfPatientDays: '7578',
-      bcRate: '6,598046978094484',
-      hobRate: '0,1319609395618897',
+      bcRate: '6.598046978094484',
+      hobRate: '0.1319609395618897',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -49202,7 +49202,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '198',
-      bcRate: '5,050505050505051',
+      bcRate: '5.050505050505051',
       hobRate: '0',
     },
     {
@@ -49214,7 +49214,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '164',
-      bcRate: '6,097560975609756',
+      bcRate: '6.097560975609756',
       hobRate: '0',
     },
     {
@@ -49238,8 +49238,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '370',
-      bcRate: '5,405405405405405',
-      hobRate: '2,7027027027027026',
+      bcRate: '5.405405405405405',
+      hobRate: '2.7027027027027026',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -49262,7 +49262,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '6',
       numberOfPatientDays: '117',
-      bcRate: '51,28205128205128',
+      bcRate: '51.28205128205128',
       hobRate: '0',
     },
     {
@@ -49274,7 +49274,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '154',
-      bcRate: '6,493506493506494',
+      bcRate: '6.493506493506494',
       hobRate: '0',
     },
     {
@@ -49310,7 +49310,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '104',
-      bcRate: '38,46153846153847',
+      bcRate: '38.46153846153847',
       hobRate: '0',
     },
     {
@@ -49322,7 +49322,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '154',
-      bcRate: '32,467532467532465',
+      bcRate: '32.467532467532465',
       hobRate: '0',
     },
     {
@@ -49346,7 +49346,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '75',
-      bcRate: '13,333333333333334',
+      bcRate: '13.333333333333334',
       hobRate: '0',
     },
     {
@@ -49358,7 +49358,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '49',
-      bcRate: '20,408163265306122',
+      bcRate: '20.408163265306122',
       hobRate: '0',
     },
     {
@@ -49370,7 +49370,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '114',
-      bcRate: '17,543859649122805',
+      bcRate: '17.543859649122805',
       hobRate: '0',
     },
     {
@@ -49418,7 +49418,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '133',
-      bcRate: '7,518796992481203',
+      bcRate: '7.518796992481203',
       hobRate: '0',
     },
     {
@@ -49430,7 +49430,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '122',
-      bcRate: '40,983606557377044',
+      bcRate: '40.983606557377044',
       hobRate: '0',
     },
     {
@@ -49490,7 +49490,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '91',
-      bcRate: '10,989010989010989',
+      bcRate: '10.989010989010989',
       hobRate: '0',
     },
     {
@@ -49514,7 +49514,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '102',
-      bcRate: '9,803921568627452',
+      bcRate: '9.803921568627452',
       hobRate: '0',
     },
     {
@@ -49574,7 +49574,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '113',
-      bcRate: '8,849557522123893',
+      bcRate: '8.849557522123893',
       hobRate: '0',
     },
     {
@@ -49646,7 +49646,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '188',
-      bcRate: '5,319148936170213',
+      bcRate: '5.319148936170213',
       hobRate: '0',
     },
     {
@@ -49694,7 +49694,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '205',
-      bcRate: '4,878048780487805',
+      bcRate: '4.878048780487805',
       hobRate: '0',
     },
     {
@@ -49742,7 +49742,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '211',
-      bcRate: '4,739336492890995',
+      bcRate: '4.739336492890995',
       hobRate: '0',
     },
     {
@@ -49838,7 +49838,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '575',
-      bcRate: '6,9565217391304355',
+      bcRate: '6.9565217391304355',
       hobRate: '0',
     },
     {
@@ -49850,7 +49850,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '6',
       numberOfPatientDays: '933',
-      bcRate: '6,430868167202572',
+      bcRate: '6.430868167202572',
       hobRate: '0',
     },
     {
@@ -49862,7 +49862,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '15',
       numberOfPatientDays: '900',
-      bcRate: '16,666666666666668',
+      bcRate: '16.666666666666668',
       hobRate: '0',
     },
     {
@@ -49874,7 +49874,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '818',
-      bcRate: '1,2224938875305624',
+      bcRate: '1.2224938875305624',
       hobRate: '0',
     },
     {
@@ -49886,7 +49886,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '466',
-      bcRate: '4,291845493562231',
+      bcRate: '4.291845493562231',
       hobRate: '0',
     },
     {
@@ -49898,7 +49898,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '9',
       numberOfPatientDays: '1109',
-      bcRate: '8,115419296663662',
+      bcRate: '8.115419296663662',
       hobRate: '0',
     },
     {
@@ -49910,8 +49910,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '558',
-      bcRate: '5,376344086021506',
-      hobRate: '1,7921146953405018',
+      bcRate: '5.376344086021506',
+      hobRate: '1.7921146953405018',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -49922,7 +49922,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '6',
       numberOfPatientDays: '526',
-      bcRate: '11,406844106463879',
+      bcRate: '11.406844106463879',
       hobRate: '0',
     },
     {
@@ -49934,7 +49934,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '681',
-      bcRate: '1,4684287812041115',
+      bcRate: '1.4684287812041115',
       hobRate: '0',
     },
     {
@@ -49946,7 +49946,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '703',
-      bcRate: '2,8449502133712663',
+      bcRate: '2.8449502133712663',
       hobRate: '0',
     },
     {
@@ -49958,7 +49958,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '309',
-      bcRate: '3,236245954692557',
+      bcRate: '3.236245954692557',
       hobRate: '0',
     },
     {
@@ -49982,7 +49982,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '24',
       numberOfPatientDays: '3474',
-      bcRate: '6,90846286701209',
+      bcRate: '6.90846286701209',
       hobRate: '0',
     },
     {
@@ -49994,8 +49994,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '26',
       numberOfPatientDays: '4104',
-      bcRate: '6,3352826510721245',
-      hobRate: '0,24366471734892786',
+      bcRate: '6.3352826510721245',
+      hobRate: '0.24366471734892786',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -50018,8 +50018,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '8',
       numberOfBloodCultureSamples: '64',
       numberOfPatientDays: '7331',
-      bcRate: '8,730050470604283',
-      hobRate: '1,0912563088255354',
+      bcRate: '8.730050470604283',
+      hobRate: '1.0912563088255354',
     },
     {
       hobType: 'ALL',
@@ -50043,7 +50043,7 @@ export const hospitaldata1 = [
       numberOfBloodCultureSamples: '0',
       numberOfPatientDays: '185',
       bcRate: '0',
-      hobRate: '5,405405405405405',
+      hobRate: '5.405405405405405',
     },
     {
       hobType: 'ALL',
@@ -50078,8 +50078,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '153',
-      bcRate: '45,7516339869281',
-      hobRate: '6,5359477124183005',
+      bcRate: '45.7516339869281',
+      hobRate: '6.5359477124183005',
     },
     {
       hobType: 'ALL',
@@ -50090,8 +50090,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '161',
-      bcRate: '31,055900621118013',
-      hobRate: '6,211180124223602',
+      bcRate: '31.055900621118013',
+      hobRate: '6.211180124223602',
     },
     {
       hobType: 'ALL',
@@ -50114,7 +50114,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '255',
-      bcRate: '27,45098039215686',
+      bcRate: '27.45098039215686',
       hobRate: '0',
     },
     {
@@ -50126,8 +50126,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '94',
-      bcRate: '10,638297872340425',
-      hobRate: '10,638297872340425',
+      bcRate: '10.638297872340425',
+      hobRate: '10.638297872340425',
     },
     {
       hobType: 'ALL',
@@ -50138,7 +50138,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '103',
-      bcRate: '19,41747572815534',
+      bcRate: '19.41747572815534',
       hobRate: '0',
     },
     {
@@ -50174,8 +50174,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '127',
-      bcRate: '7,874015748031496',
-      hobRate: '7,874015748031496',
+      bcRate: '7.874015748031496',
+      hobRate: '7.874015748031496',
     },
     {
       hobType: 'ALL',
@@ -50186,7 +50186,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '98',
-      bcRate: '10,204081632653061',
+      bcRate: '10.204081632653061',
       hobRate: '0',
     },
     {
@@ -50247,7 +50247,7 @@ export const hospitaldata1 = [
       numberOfBloodCultureSamples: '0',
       numberOfPatientDays: '141',
       bcRate: '0',
-      hobRate: '7,092198581560283',
+      hobRate: '7.092198581560283',
     },
     {
       hobType: 'ALL',
@@ -50270,7 +50270,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '92',
-      bcRate: '10,869565217391305',
+      bcRate: '10.869565217391305',
       hobRate: '0',
     },
     {
@@ -50294,8 +50294,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '191',
-      bcRate: '10,471204188481677',
-      hobRate: '5,235602094240838',
+      bcRate: '10.471204188481677',
+      hobRate: '5.235602094240838',
     },
     {
       hobType: 'ALL',
@@ -50318,7 +50318,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '133',
-      bcRate: '7,518796992481203',
+      bcRate: '7.518796992481203',
       hobRate: '0',
     },
     {
@@ -50378,8 +50378,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '158',
-      bcRate: '25,31645569620253',
-      hobRate: '6,329113924050633',
+      bcRate: '25.31645569620253',
+      hobRate: '6.329113924050633',
     },
     {
       hobType: 'ALL',
@@ -50414,7 +50414,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '136',
-      bcRate: '7,352941176470588',
+      bcRate: '7.352941176470588',
       hobRate: '0',
     },
     {
@@ -50450,7 +50450,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '159',
-      bcRate: '18,867924528301884',
+      bcRate: '18.867924528301884',
       hobRate: '0',
     },
     {
@@ -50582,7 +50582,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '105',
-      bcRate: '9,523809523809526',
+      bcRate: '9.523809523809526',
       hobRate: '0',
     },
     {
@@ -50714,8 +50714,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '713',
-      bcRate: '4,207573632538569',
-      hobRate: '1,402524544179523',
+      bcRate: '4.207573632538569',
+      hobRate: '1.402524544179523',
     },
     {
       hobType: 'ALL',
@@ -50726,8 +50726,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '819',
-      bcRate: '2,442002442002442',
-      hobRate: '1,221001221001221',
+      bcRate: '2.442002442002442',
+      hobRate: '1.221001221001221',
     },
     {
       hobType: 'ALL',
@@ -50738,8 +50738,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '23',
       numberOfPatientDays: '960',
-      bcRate: '23,958333333333336',
-      hobRate: '1,0416666666666667',
+      bcRate: '23.958333333333336',
+      hobRate: '1.0416666666666667',
     },
     {
       hobType: 'ALL',
@@ -50762,8 +50762,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '8',
       numberOfPatientDays: '351',
-      bcRate: '22,79202279202279',
-      hobRate: '2,849002849002849',
+      bcRate: '22.79202279202279',
+      hobRate: '2.849002849002849',
     },
     {
       hobType: 'ALL',
@@ -50774,8 +50774,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '3',
       numberOfBloodCultureSamples: '10',
       numberOfPatientDays: '1009',
-      bcRate: '9,910802775024777',
-      hobRate: '2,973240832507433',
+      bcRate: '9.910802775024777',
+      hobRate: '2.973240832507433',
     },
     {
       hobType: 'ALL',
@@ -50786,7 +50786,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '8',
       numberOfPatientDays: '431',
-      bcRate: '18,561484918793504',
+      bcRate: '18.561484918793504',
       hobRate: '0',
     },
     {
@@ -50798,7 +50798,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '575',
-      bcRate: '1,7391304347826089',
+      bcRate: '1.7391304347826089',
       hobRate: '0',
     },
     {
@@ -50810,8 +50810,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '527',
-      bcRate: '3,795066413662239',
-      hobRate: '1,8975332068311195',
+      bcRate: '3.795066413662239',
+      hobRate: '1.8975332068311195',
     },
     {
       hobType: 'ALL',
@@ -50822,7 +50822,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '807',
-      bcRate: '4,956629491945477',
+      bcRate: '4.956629491945477',
       hobRate: '0',
     },
     {
@@ -50834,7 +50834,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '306',
-      bcRate: '9,803921568627452',
+      bcRate: '9.803921568627452',
       hobRate: '0',
     },
     {
@@ -50858,8 +50858,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '3',
       numberOfBloodCultureSamples: '43',
       numberOfPatientDays: '3354',
-      bcRate: '12,82051282051282',
-      hobRate: '0,8944543828264758',
+      bcRate: '12.82051282051282',
+      hobRate: '0.8944543828264758',
     },
     {
       hobType: 'ALL',
@@ -50870,8 +50870,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '5',
       numberOfBloodCultureSamples: '21',
       numberOfPatientDays: '3977',
-      bcRate: '5,280362081971336',
-      hobRate: '1,257229067136032',
+      bcRate: '5.280362081971336',
+      hobRate: '1.257229067136032',
     },
     {
       hobType: 'ALL',
@@ -50894,8 +50894,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '6',
       numberOfBloodCultureSamples: '64',
       numberOfPatientDays: '7331',
-      bcRate: '8,730050470604283',
-      hobRate: '0,8184422316191515',
+      bcRate: '8.730050470604283',
+      hobRate: '0.8184422316191515',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -50919,7 +50919,7 @@ export const hospitaldata1 = [
       numberOfBloodCultureSamples: '0',
       numberOfPatientDays: '185',
       bcRate: '0',
-      hobRate: '5,405405405405405',
+      hobRate: '5.405405405405405',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -50954,8 +50954,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '153',
-      bcRate: '45,7516339869281',
-      hobRate: '6,5359477124183005',
+      bcRate: '45.7516339869281',
+      hobRate: '6.5359477124183005',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -50966,8 +50966,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '161',
-      bcRate: '31,055900621118013',
-      hobRate: '6,211180124223602',
+      bcRate: '31.055900621118013',
+      hobRate: '6.211180124223602',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -50990,7 +50990,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '255',
-      bcRate: '27,45098039215686',
+      bcRate: '27.45098039215686',
       hobRate: '0',
     },
     {
@@ -51002,8 +51002,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '94',
-      bcRate: '10,638297872340425',
-      hobRate: '10,638297872340425',
+      bcRate: '10.638297872340425',
+      hobRate: '10.638297872340425',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -51014,7 +51014,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '103',
-      bcRate: '19,41747572815534',
+      bcRate: '19.41747572815534',
       hobRate: '0',
     },
     {
@@ -51050,7 +51050,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '127',
-      bcRate: '7,874015748031496',
+      bcRate: '7.874015748031496',
       hobRate: '0',
     },
     {
@@ -51062,7 +51062,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '98',
-      bcRate: '10,204081632653061',
+      bcRate: '10.204081632653061',
       hobRate: '0',
     },
     {
@@ -51123,7 +51123,7 @@ export const hospitaldata1 = [
       numberOfBloodCultureSamples: '0',
       numberOfPatientDays: '141',
       bcRate: '0',
-      hobRate: '7,092198581560283',
+      hobRate: '7.092198581560283',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -51146,7 +51146,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '92',
-      bcRate: '10,869565217391305',
+      bcRate: '10.869565217391305',
       hobRate: '0',
     },
     {
@@ -51170,8 +51170,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '191',
-      bcRate: '10,471204188481677',
-      hobRate: '5,235602094240838',
+      bcRate: '10.471204188481677',
+      hobRate: '5.235602094240838',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -51194,7 +51194,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '133',
-      bcRate: '7,518796992481203',
+      bcRate: '7.518796992481203',
       hobRate: '0',
     },
     {
@@ -51254,7 +51254,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '158',
-      bcRate: '25,31645569620253',
+      bcRate: '25.31645569620253',
       hobRate: '0',
     },
     {
@@ -51290,7 +51290,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '136',
-      bcRate: '7,352941176470588',
+      bcRate: '7.352941176470588',
       hobRate: '0',
     },
     {
@@ -51326,7 +51326,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '159',
-      bcRate: '18,867924528301884',
+      bcRate: '18.867924528301884',
       hobRate: '0',
     },
     {
@@ -51458,7 +51458,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '105',
-      bcRate: '9,523809523809526',
+      bcRate: '9.523809523809526',
       hobRate: '0',
     },
     {
@@ -51590,8 +51590,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '713',
-      bcRate: '4,207573632538569',
-      hobRate: '1,402524544179523',
+      bcRate: '4.207573632538569',
+      hobRate: '1.402524544179523',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -51602,8 +51602,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '819',
-      bcRate: '2,442002442002442',
-      hobRate: '1,221001221001221',
+      bcRate: '2.442002442002442',
+      hobRate: '1.221001221001221',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -51614,7 +51614,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '23',
       numberOfPatientDays: '960',
-      bcRate: '23,958333333333336',
+      bcRate: '23.958333333333336',
       hobRate: '0',
     },
     {
@@ -51638,8 +51638,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '8',
       numberOfPatientDays: '351',
-      bcRate: '22,79202279202279',
-      hobRate: '2,849002849002849',
+      bcRate: '22.79202279202279',
+      hobRate: '2.849002849002849',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -51650,8 +51650,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '10',
       numberOfPatientDays: '1009',
-      bcRate: '9,910802775024777',
-      hobRate: '1,9821605550049552',
+      bcRate: '9.910802775024777',
+      hobRate: '1.9821605550049552',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -51662,7 +51662,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '8',
       numberOfPatientDays: '431',
-      bcRate: '18,561484918793504',
+      bcRate: '18.561484918793504',
       hobRate: '0',
     },
     {
@@ -51674,7 +51674,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '575',
-      bcRate: '1,7391304347826089',
+      bcRate: '1.7391304347826089',
       hobRate: '0',
     },
     {
@@ -51686,8 +51686,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '527',
-      bcRate: '3,795066413662239',
-      hobRate: '1,8975332068311195',
+      bcRate: '3.795066413662239',
+      hobRate: '1.8975332068311195',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -51698,7 +51698,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '807',
-      bcRate: '4,956629491945477',
+      bcRate: '4.956629491945477',
       hobRate: '0',
     },
     {
@@ -51710,7 +51710,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '306',
-      bcRate: '9,803921568627452',
+      bcRate: '9.803921568627452',
       hobRate: '0',
     },
     {
@@ -51734,8 +51734,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '43',
       numberOfPatientDays: '3354',
-      bcRate: '12,82051282051282',
-      hobRate: '0,2981514609421586',
+      bcRate: '12.82051282051282',
+      hobRate: '0.2981514609421586',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -51746,8 +51746,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '5',
       numberOfBloodCultureSamples: '21',
       numberOfPatientDays: '3977',
-      bcRate: '5,280362081971336',
-      hobRate: '1,257229067136032',
+      bcRate: '5.280362081971336',
+      hobRate: '1.257229067136032',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -51770,8 +51770,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '3',
       numberOfBloodCultureSamples: '64',
       numberOfPatientDays: '7331',
-      bcRate: '8,730050470604283',
-      hobRate: '0,40922111580957576',
+      bcRate: '8.730050470604283',
+      hobRate: '0.40922111580957576',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -51830,8 +51830,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '153',
-      bcRate: '45,7516339869281',
-      hobRate: '6,5359477124183005',
+      bcRate: '45.7516339869281',
+      hobRate: '6.5359477124183005',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -51842,7 +51842,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '161',
-      bcRate: '31,055900621118013',
+      bcRate: '31.055900621118013',
       hobRate: '0',
     },
     {
@@ -51866,7 +51866,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '255',
-      bcRate: '27,45098039215686',
+      bcRate: '27.45098039215686',
       hobRate: '0',
     },
     {
@@ -51878,7 +51878,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '94',
-      bcRate: '10,638297872340425',
+      bcRate: '10.638297872340425',
       hobRate: '0',
     },
     {
@@ -51890,7 +51890,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '103',
-      bcRate: '19,41747572815534',
+      bcRate: '19.41747572815534',
       hobRate: '0',
     },
     {
@@ -51926,8 +51926,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '127',
-      bcRate: '7,874015748031496',
-      hobRate: '7,874015748031496',
+      bcRate: '7.874015748031496',
+      hobRate: '7.874015748031496',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -51938,7 +51938,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '98',
-      bcRate: '10,204081632653061',
+      bcRate: '10.204081632653061',
       hobRate: '0',
     },
     {
@@ -52022,7 +52022,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '92',
-      bcRate: '10,869565217391305',
+      bcRate: '10.869565217391305',
       hobRate: '0',
     },
     {
@@ -52046,7 +52046,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '191',
-      bcRate: '10,471204188481677',
+      bcRate: '10.471204188481677',
       hobRate: '0',
     },
     {
@@ -52070,7 +52070,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '133',
-      bcRate: '7,518796992481203',
+      bcRate: '7.518796992481203',
       hobRate: '0',
     },
     {
@@ -52130,8 +52130,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '158',
-      bcRate: '25,31645569620253',
-      hobRate: '6,329113924050633',
+      bcRate: '25.31645569620253',
+      hobRate: '6.329113924050633',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -52166,7 +52166,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '136',
-      bcRate: '7,352941176470588',
+      bcRate: '7.352941176470588',
       hobRate: '0',
     },
     {
@@ -52202,7 +52202,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '159',
-      bcRate: '18,867924528301884',
+      bcRate: '18.867924528301884',
       hobRate: '0',
     },
     {
@@ -52334,7 +52334,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '105',
-      bcRate: '9,523809523809526',
+      bcRate: '9.523809523809526',
       hobRate: '0',
     },
     {
@@ -52466,7 +52466,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '713',
-      bcRate: '4,207573632538569',
+      bcRate: '4.207573632538569',
       hobRate: '0',
     },
     {
@@ -52478,7 +52478,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '819',
-      bcRate: '2,442002442002442',
+      bcRate: '2.442002442002442',
       hobRate: '0',
     },
     {
@@ -52490,8 +52490,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '23',
       numberOfPatientDays: '960',
-      bcRate: '23,958333333333336',
-      hobRate: '1,0416666666666667',
+      bcRate: '23.958333333333336',
+      hobRate: '1.0416666666666667',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -52514,8 +52514,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '8',
       numberOfPatientDays: '351',
-      bcRate: '22,79202279202279',
-      hobRate: '2,849002849002849',
+      bcRate: '22.79202279202279',
+      hobRate: '2.849002849002849',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -52526,8 +52526,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '10',
       numberOfPatientDays: '1009',
-      bcRate: '9,910802775024777',
-      hobRate: '0,9910802775024776',
+      bcRate: '9.910802775024777',
+      hobRate: '0.9910802775024776',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -52538,7 +52538,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '8',
       numberOfPatientDays: '431',
-      bcRate: '18,561484918793504',
+      bcRate: '18.561484918793504',
       hobRate: '0',
     },
     {
@@ -52550,7 +52550,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '575',
-      bcRate: '1,7391304347826089',
+      bcRate: '1.7391304347826089',
       hobRate: '0',
     },
     {
@@ -52562,7 +52562,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '527',
-      bcRate: '3,795066413662239',
+      bcRate: '3.795066413662239',
       hobRate: '0',
     },
     {
@@ -52574,7 +52574,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '807',
-      bcRate: '4,956629491945477',
+      bcRate: '4.956629491945477',
       hobRate: '0',
     },
     {
@@ -52586,7 +52586,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '306',
-      bcRate: '9,803921568627452',
+      bcRate: '9.803921568627452',
       hobRate: '0',
     },
     {
@@ -52610,8 +52610,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '3',
       numberOfBloodCultureSamples: '43',
       numberOfPatientDays: '3354',
-      bcRate: '12,82051282051282',
-      hobRate: '0,8944543828264758',
+      bcRate: '12.82051282051282',
+      hobRate: '0.8944543828264758',
     },
     {
       hobType: 'WITH_COMMENSAL',
@@ -52622,7 +52622,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '21',
       numberOfPatientDays: '3977',
-      bcRate: '5,280362081971336',
+      bcRate: '5.280362081971336',
       hobRate: '0',
     },
     {
@@ -52646,8 +52646,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '21',
       numberOfPatientDays: '4414',
-      bcRate: '4,75758948799275',
-      hobRate: '0,45310376076121434',
+      bcRate: '4.75758948799275',
+      hobRate: '0.45310376076121434',
     },
     {
       hobType: 'ALL',
@@ -52826,7 +52826,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '41',
-      bcRate: '97,5609756097561',
+      bcRate: '97.5609756097561',
       hobRate: '0',
     },
     {
@@ -52850,8 +52850,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '39',
-      bcRate: '102,56410256410255',
-      hobRate: '25,64102564102564',
+      bcRate: '102.56410256410255',
+      hobRate: '25.64102564102564',
     },
     {
       hobType: 'ALL',
@@ -52946,8 +52946,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '89',
-      bcRate: '11,235955056179774',
-      hobRate: '11,235955056179774',
+      bcRate: '11.235955056179774',
+      hobRate: '11.235955056179774',
     },
     {
       hobType: 'ALL',
@@ -52958,7 +52958,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '77',
-      bcRate: '12,987012987012989',
+      bcRate: '12.987012987012989',
       hobRate: '0',
     },
     {
@@ -53006,7 +53006,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '122',
-      bcRate: '16,393442622950822',
+      bcRate: '16.393442622950822',
       hobRate: '0',
     },
     {
@@ -53366,7 +53366,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '10',
       numberOfPatientDays: '531',
-      bcRate: '18,832391713747644',
+      bcRate: '18.832391713747644',
       hobRate: '0',
     },
     {
@@ -53402,7 +53402,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '663',
-      bcRate: '6,033182503770739',
+      bcRate: '6.033182503770739',
       hobRate: '0',
     },
     {
@@ -53414,7 +53414,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '165',
-      bcRate: '6,0606060606060606',
+      bcRate: '6.0606060606060606',
       hobRate: '0',
     },
     {
@@ -53450,8 +53450,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '6',
       numberOfPatientDays: '530',
-      bcRate: '11,320754716981131',
-      hobRate: '3,7735849056603774',
+      bcRate: '11.320754716981131',
+      hobRate: '3.7735849056603774',
     },
     {
       hobType: 'ALL',
@@ -53486,8 +53486,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '16',
       numberOfPatientDays: '2148',
-      bcRate: '7,4487895716946',
-      hobRate: '0,931098696461825',
+      bcRate: '7.4487895716946',
+      hobRate: '0.931098696461825',
     },
     {
       hobType: 'ALL',
@@ -53498,7 +53498,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '2266',
-      bcRate: '2,206531332744925',
+      bcRate: '2.206531332744925',
       hobRate: '0',
     },
     {
@@ -53522,8 +53522,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '21',
       numberOfPatientDays: '4414',
-      bcRate: '4,75758948799275',
-      hobRate: '0,45310376076121434',
+      bcRate: '4.75758948799275',
+      hobRate: '0.45310376076121434',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -53702,7 +53702,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '41',
-      bcRate: '97,5609756097561',
+      bcRate: '97.5609756097561',
       hobRate: '0',
     },
     {
@@ -53726,8 +53726,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '39',
-      bcRate: '102,56410256410255',
-      hobRate: '25,64102564102564',
+      bcRate: '102.56410256410255',
+      hobRate: '25.64102564102564',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -53822,8 +53822,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '89',
-      bcRate: '11,235955056179774',
-      hobRate: '11,235955056179774',
+      bcRate: '11.235955056179774',
+      hobRate: '11.235955056179774',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -53834,7 +53834,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '77',
-      bcRate: '12,987012987012989',
+      bcRate: '12.987012987012989',
       hobRate: '0',
     },
     {
@@ -53882,7 +53882,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '122',
-      bcRate: '16,393442622950822',
+      bcRate: '16.393442622950822',
       hobRate: '0',
     },
     {
@@ -54242,7 +54242,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '10',
       numberOfPatientDays: '531',
-      bcRate: '18,832391713747644',
+      bcRate: '18.832391713747644',
       hobRate: '0',
     },
     {
@@ -54278,7 +54278,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '663',
-      bcRate: '6,033182503770739',
+      bcRate: '6.033182503770739',
       hobRate: '0',
     },
     {
@@ -54290,7 +54290,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '165',
-      bcRate: '6,0606060606060606',
+      bcRate: '6.0606060606060606',
       hobRate: '0',
     },
     {
@@ -54326,8 +54326,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '6',
       numberOfPatientDays: '530',
-      bcRate: '11,320754716981131',
-      hobRate: '3,7735849056603774',
+      bcRate: '11.320754716981131',
+      hobRate: '3.7735849056603774',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -54362,8 +54362,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '2',
       numberOfBloodCultureSamples: '16',
       numberOfPatientDays: '2148',
-      bcRate: '7,4487895716946',
-      hobRate: '0,931098696461825',
+      bcRate: '7.4487895716946',
+      hobRate: '0.931098696461825',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -54374,7 +54374,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '2266',
-      bcRate: '2,206531332744925',
+      bcRate: '2.206531332744925',
       hobRate: '0',
     },
     {
@@ -54398,7 +54398,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '21',
       numberOfPatientDays: '4414',
-      bcRate: '4,75758948799275',
+      bcRate: '4.75758948799275',
       hobRate: '0',
     },
     {
@@ -54578,7 +54578,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '41',
-      bcRate: '97,5609756097561',
+      bcRate: '97.5609756097561',
       hobRate: '0',
     },
     {
@@ -54602,7 +54602,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '39',
-      bcRate: '102,56410256410255',
+      bcRate: '102.56410256410255',
       hobRate: '0',
     },
     {
@@ -54698,7 +54698,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '89',
-      bcRate: '11,235955056179774',
+      bcRate: '11.235955056179774',
       hobRate: '0',
     },
     {
@@ -54710,7 +54710,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '77',
-      bcRate: '12,987012987012989',
+      bcRate: '12.987012987012989',
       hobRate: '0',
     },
     {
@@ -54758,7 +54758,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '2',
       numberOfPatientDays: '122',
-      bcRate: '16,393442622950822',
+      bcRate: '16.393442622950822',
       hobRate: '0',
     },
     {
@@ -55118,7 +55118,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '10',
       numberOfPatientDays: '531',
-      bcRate: '18,832391713747644',
+      bcRate: '18.832391713747644',
       hobRate: '0',
     },
     {
@@ -55154,7 +55154,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '663',
-      bcRate: '6,033182503770739',
+      bcRate: '6.033182503770739',
       hobRate: '0',
     },
     {
@@ -55166,7 +55166,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '1',
       numberOfPatientDays: '165',
-      bcRate: '6,0606060606060606',
+      bcRate: '6.0606060606060606',
       hobRate: '0',
     },
     {
@@ -55202,7 +55202,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '6',
       numberOfPatientDays: '530',
-      bcRate: '11,320754716981131',
+      bcRate: '11.320754716981131',
       hobRate: '0',
     },
     {
@@ -55238,7 +55238,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '16',
       numberOfPatientDays: '2148',
-      bcRate: '7,4487895716946',
+      bcRate: '7.4487895716946',
       hobRate: '0',
     },
     {
@@ -55250,7 +55250,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '5',
       numberOfPatientDays: '2266',
-      bcRate: '2,206531332744925',
+      bcRate: '2.206531332744925',
       hobRate: '0',
     },
     {
@@ -55274,8 +55274,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '1378',
-      bcRate: '5,079825834542816',
-      hobRate: '0,7256894049346879',
+      bcRate: '5.079825834542816',
+      hobRate: '0.7256894049346879',
     },
     {
       hobType: 'ALL',
@@ -55322,7 +55322,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '66',
-      bcRate: '45,45454545454545',
+      bcRate: '45.45454545454545',
       hobRate: '0',
     },
     {
@@ -55359,7 +55359,7 @@ export const hospitaldata1 = [
       numberOfBloodCultureSamples: '0',
       numberOfPatientDays: '29',
       bcRate: '0',
-      hobRate: '34,48275862068965',
+      hobRate: '34.48275862068965',
     },
     {
       hobType: 'ALL',
@@ -55994,7 +55994,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '175',
-      bcRate: '22,857142857142858',
+      bcRate: '22.857142857142858',
       hobRate: '0',
     },
     {
@@ -56006,8 +56006,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '110',
-      bcRate: '27,27272727272727',
-      hobRate: '9,09090909090909',
+      bcRate: '27.27272727272727',
+      hobRate: '9.09090909090909',
     },
     {
       hobType: 'ALL',
@@ -56115,7 +56115,7 @@ export const hospitaldata1 = [
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '700',
       bcRate: '10',
-      hobRate: '1,4285714285714286',
+      hobRate: '1.4285714285714286',
     },
     {
       hobType: 'ALL',
@@ -56150,8 +56150,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '1378',
-      bcRate: '5,079825834542816',
-      hobRate: '0,7256894049346879',
+      bcRate: '5.079825834542816',
+      hobRate: '0.7256894049346879',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -56198,7 +56198,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '66',
-      bcRate: '45,45454545454545',
+      bcRate: '45.45454545454545',
       hobRate: '0',
     },
     {
@@ -56235,7 +56235,7 @@ export const hospitaldata1 = [
       numberOfBloodCultureSamples: '0',
       numberOfPatientDays: '29',
       bcRate: '0',
-      hobRate: '34,48275862068965',
+      hobRate: '34.48275862068965',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -56870,7 +56870,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '175',
-      bcRate: '22,857142857142858',
+      bcRate: '22.857142857142858',
       hobRate: '0',
     },
     {
@@ -56882,8 +56882,8 @@ export const hospitaldata1 = [
       numberOfHOBs: '1',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '110',
-      bcRate: '27,27272727272727',
-      hobRate: '9,09090909090909',
+      bcRate: '27.27272727272727',
+      hobRate: '9.09090909090909',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -56991,7 +56991,7 @@ export const hospitaldata1 = [
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '700',
       bcRate: '10',
-      hobRate: '1,4285714285714286',
+      hobRate: '1.4285714285714286',
     },
     {
       hobType: 'WITH_PATHOGEN',
@@ -57026,7 +57026,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '7',
       numberOfPatientDays: '1378',
-      bcRate: '5,079825834542816',
+      bcRate: '5.079825834542816',
       hobRate: '0',
     },
     {
@@ -57074,7 +57074,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '66',
-      bcRate: '45,45454545454545',
+      bcRate: '45.45454545454545',
       hobRate: '0',
     },
     {
@@ -57746,7 +57746,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '4',
       numberOfPatientDays: '175',
-      bcRate: '22,857142857142858',
+      bcRate: '22.857142857142858',
       hobRate: '0',
     },
     {
@@ -57758,7 +57758,7 @@ export const hospitaldata1 = [
       numberOfHOBs: '0',
       numberOfBloodCultureSamples: '3',
       numberOfPatientDays: '110',
-      bcRate: '27,27272727272727',
+      bcRate: '27.27272727272727',
       hobRate: '0',
     },
     {
@@ -71033,4 +71033,4 @@ export const hospitaldata1 = [
       bcRate: '0',
       hobRate: '0',
     },
-  ];
+  ]

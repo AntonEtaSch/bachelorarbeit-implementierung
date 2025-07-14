@@ -30,14 +30,22 @@ const KrankenhausSelect = ({
         label="Krankenhaus"
         onChange={(event) => {
           setHospital(event.target.value);
-          setWardGroupType('Alle');
-          setWardGroup('Alle');
+          if (event.target.value == 'Alle') {
+            setWardGroupType('');
+            setWardGroup('');
+          } else {
+            setWardGroupType('Alle');
+            setWardGroup('Alle');
+          }
         }}
       >
         <MenuItem value={'Alle'}>Alle</MenuItem>
         <MenuItem value={'1'}>Krankenhaus #1</MenuItem>
         <MenuItem value={'2'}>Krankenhaus #2</MenuItem>
         <MenuItem value={'3'}>Krankenhaus #3</MenuItem>
+        <MenuItem value={'4'}>Krankenhaus #4</MenuItem>
+        <MenuItem value={'5'}>Krankenhaus #5</MenuItem>
+        <MenuItem value={'6'}>Krankenhaus #6</MenuItem>
       </Select>
     </FormControl>
   );

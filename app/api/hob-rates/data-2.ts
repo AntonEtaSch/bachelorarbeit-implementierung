@@ -72,7 +72,7 @@ export const hospitalWards2 = [
 'KpGM8igX7htnlzy',
 'vj0ynVOWEcTX7LC',
 'HyJFjMeilHtQK8T',
-'0CxbLaOAoS1DXWq',
+'0CxbLaOAoS1DXWq'
 ]
 
 export const hospitaldata2 = [{hobType: "WITH_PATHOGEN", calendarDateStart: "01.10.2022", calendarDateEnd: "31.10.2022", wardGroupType: "WARD", wardGroupValue: "eg8MbetVxTZr6CA", numberOfPatientDays: "287", numberOfBloodCultureSamples: "0", numberOfHOBs: "0", bcRate: "0.0", hobRate: "0"}, 

@@ -5,17 +5,32 @@ import {
   hospitalWards1,
   ecdcWards1,
   localWards1,
-} from '@/app/api/hob-rates/data-1';
+} from '../api/hob-rates/data-1';
 import {
   hospitalWards2,
   ecdcWards2,
   localWards2,
-} from '@/app/api/hob-rates/data-2';
+} from '../api/hob-rates/data-2';
 import {
   hospitalWards3,
   ecdcWards3,
   localWards3,
-} from '@/app/api/hob-rates/data-3';
+} from '../api/hob-rates/data-3';
+import {
+  hospitalWards4,
+  ecdcWards4,
+  localWards4,
+} from '../api/hob-rates/data-4';
+import {
+  hospitalWards5,
+  ecdcWards5,
+  localWards5,
+} from '../api/hob-rates/data-5';
+import {
+  hospitalWards6,
+  ecdcWards6,
+  localWards6,
+} from '../api/hob-rates/data-6';
 
 interface Props {
   first: boolean;
@@ -47,6 +62,21 @@ const WardSelect = ({
       wards = hospitalWards3;
       ecdc = ecdcWards3;
       local = localWards3;
+      break;
+    case '4':
+      wards = hospitalWards4;
+      ecdc = ecdcWards4;
+      local = localWards4;
+      break;
+    case '5':
+      wards = hospitalWards5;
+      ecdc = ecdcWards5;
+      local = localWards5;
+      break;
+    case '6':
+      wards = hospitalWards6;
+      ecdc = ecdcWards6;
+      local = localWards6;
       break;
     default:
       wards = hospitalWards1;

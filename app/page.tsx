@@ -2,9 +2,9 @@
 
 import { useEffect, useState } from 'react';
 import Image from 'next/image';
-import CustomLineChart from '../components/CustomLineChart';
-import Auswahl from '../components/Auswahl';
-import RangeSlider from '../components/RangeSlider';
+import CustomLineChart from './components/CustomLineChart';
+import Auswahl from './components/Auswahl';
+import RangeSlider from './components/RangeSlider';
 
 export default function Home() {
   // Zeitraum
