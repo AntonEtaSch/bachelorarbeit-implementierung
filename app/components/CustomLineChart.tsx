@@ -13,6 +13,7 @@ import {
   ResponsiveContainer,
 } from 'recharts';
 import TotalHobsChart from './TotalHobsChart';
+import HobrateChart from './HobrateChart';
 
 interface MonthlyData {
   calendarDate: string;
@@ -197,7 +198,11 @@ const CustomLineChart = ({
           chartDataCompare={chartDataCompare}
         ></TotalHobsChart>
       ) : (
-        <p>rate chart</p>
+        <HobrateChart
+          compare={compare}
+          chartDataFirst={chartData}
+          chartDataCompare={chartDataCompare}
+        ></HobrateChart>
       )}
     </>
   );

@@ -12,14 +12,13 @@ export default function Home() {
   const [endMonth, setEndMonth] = useState<string>('122024');
   // Einrichtung
   const [hospital, setHospital] = useState<string>('Alle');
-  const [wardGroupType, setWardGroupType] = useState<string>('Alle');
-  const [wardGroup, setWardGroup] = useState<string>('Alle');
+  const [wardGroupType, setWardGroupType] = useState<string>('');
+  const [wardGroup, setWardGroup] = useState<string>('');
   // Vergleich
   const [compare, setCompare] = useState<boolean>(false);
   const [hospitalCompare, setHospitalCompare] = useState<string>('Alle');
-  const [wardGroupTypeCompare, setWardGroupTypeCompare] =
-    useState<string>('Alle');
-  const [wardGroupCompare, setWardGroupCompare] = useState<string>('Alle');
+  const [wardGroupTypeCompare, setWardGroupTypeCompare] = useState<string>('');
+  const [wardGroupCompare, setWardGroupCompare] = useState<string>('');
   // Ansicht
   const [hobType, setHobType] = useState<string>('ALL');
   const [rateSwitch, setRateSwitch] = useState<boolean>(false); // true => total, false => rate

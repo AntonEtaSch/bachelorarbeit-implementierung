@@ -26,11 +26,7 @@ interface Props {
   chartDataCompare: MonthlyData[];
 }
 
-const TotalHobsChart = ({
-  compare,
-  chartDataFirst,
-  chartDataCompare,
-}: Props) => {
+const HobrateChart = ({ compare, chartDataFirst, chartDataCompare }: Props) => {
   const [chartData, setChartData] = useState<MonthlyData[]>(chartDataFirst);
 
   useEffect(() => {
@@ -44,7 +40,7 @@ const TotalHobsChart = ({
           numberOfPatientDays: itemDataFirst.numberOfPatientDays,
           bcRate: itemDataFirst.bcRate,
           hobRate: itemDataFirst.hobRate,
-          numberOfHobsCompared: chartDataCompare[index]?.numberOfHOBs ?? null,
+          hobRateCompared: chartDataCompare[index]?.hobRate ?? null,
         }))
       );
     } else {
@@ -63,7 +59,7 @@ const TotalHobsChart = ({
         <Line
           isAnimationActive={false}
           type="monotone"
-          dataKey="numberOfHOBs"
+          dataKey="hobRate"
           stroke="#8884d8"
         />
       )}
@@ -71,7 +67,7 @@ const TotalHobsChart = ({
         <Line
           isAnimationActive={false}
           type="monotone"
-          dataKey="numberOfHobsCompared"
+          dataKey="hobRateCompared"
           stroke="#82ca9d"
         />
       )}
@@ -103,4 +99,4 @@ const TotalHobsChart = ({
   );
 };
 
-export default TotalHobsChart;
+export default HobrateChart;
