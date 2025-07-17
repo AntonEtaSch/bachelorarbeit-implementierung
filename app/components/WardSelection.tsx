@@ -1,6 +1,11 @@
+// Stationsauswahlkomponente bestehend aus zwei Dropdownmenüs
+// wird für primäres und vergleichskrankenhaus genutzt
+// wardgrouptype bestimmt sozusagen die vordefinierten gruppen an wards (oder einzelne)
+
 import React from 'react';
 import { FormControl, InputLabel, Select, MenuItem } from '@mui/material';
 import DropdownSubheader from './DropdownSubheader';
+// importiere alle namen der wards
 import {
   hospitalWards1,
   ecdcWards1,
@@ -31,27 +36,20 @@ import {
   ecdcWards6,
   localWards6,
 } from '../api/hob-rates/data-6';
-
-interface Props {
-  first: boolean;
-  hospital: string;
-  wardGroupType: string;
-  setWardGroupType: (s: string) => void;
-  wardGroup: string;
-  setWardGroup: (s: string) => void;
-}
+import { wardSelectionProps } from '../types/SelectionProps';
 
 const WardSelect = ({
-  first,
-  hospital,
-  wardGroupType,
-  setWardGroupType,
-  wardGroup,
-  setWardGroup,
-}: Props) => {
+  first, // primäres oder vergleichskrankenhaus
+  hospital, // gibt stationen vor
+  wardGroupType, // "
+  wardGroup, // aktueller stationswert
+  setWardGroupType, // setzt anzeige von wardgruppen
+  setWardGroup, // setzt neue wardgruppe (oder ward)
+}: wardSelectionProps) => {
   let wards: string[] = [];
   let ecdc: string[] = [];
   let local: string[] = [];
+  // je nach krankenhaus wardnamen übernehmen
   switch (hospital) {
     case '2':
       wards = hospitalWards2;
@@ -84,18 +82,19 @@ const WardSelect = ({
       local = localWards1;
   }
 
-  const selector = (
+  return (
     <>
       <FormControl sx={{ m: 1, minWidth: 180 }}>
         <InputLabel id={first ? 'wgt-select-label' : 'wgt-compare-label'}>
-          Ward Group Type
+          Ward Gruppen Typ
         </InputLabel>
         <Select
           labelId={first ? 'wgt-select-label' : 'wgt-compare-label'}
           id={first ? 'wgt-select' : 'wgt-compare'}
           value={wardGroupType}
-          label="Ward Group Type"
+          label="Ward Gruppen Typ"
           onChange={(event) => {
+            // Bei änderung des Types immer Gruppen/Wardauswahl auf alle
             setWardGroupType(event.target.value);
             setWardGroup('Alle');
           }}
@@ -108,14 +107,15 @@ const WardSelect = ({
       </FormControl>
       <FormControl sx={{ m: 1, minWidth: 180 }}>
         <InputLabel id={first ? 'wg-select-label' : 'wg-compare-label'}>
-          Ward Group
+          {wardGroupType == 'WARD' ? <>Ward</> : <>Ward Gruppe</>}
         </InputLabel>
         <Select
           labelId={first ? 'wg-select-label' : 'wg-compare-label'}
           id={first ? 'wg-select' : 'wg-compare'}
           value={wardGroup}
-          label="Ward Group"
+          label={wardGroupType == 'WARD' ? 'Ward' : 'Ward Gruppe'}
           onChange={(event) => {
+            // setzte passenden wardgruppentyp
             setWardGroup(event.target.value);
             if (wards.includes(event.target.value)) setWardGroupType('WARD');
             else if (ecdc.includes(event.target.value))
@@ -124,12 +124,14 @@ const WardSelect = ({
               setWardGroupType('LOCALWARD');
           }}
         >
+          {/* falls wardgrouptype nicht gesetzt -> zeigt alle ward groups + header*/}
           <MenuItem value={'Alle'}>Alle</MenuItem>
+
           {wardGroupType == 'Alle' && (
-            <DropdownSubheader>Wards</DropdownSubheader>
+            <DropdownSubheader>Local Wards</DropdownSubheader>
           )}
-          {(wardGroupType == 'Alle' || wardGroupType == 'WARD') &&
-            wards.map((w) => <MenuItem value={w}>{w}</MenuItem>)}
+          {(wardGroupType == 'Alle' || wardGroupType == 'LOCALWARD') &&
+            local.map((w) => <MenuItem value={w}>{w}</MenuItem>)}
 
           {wardGroupType == 'Alle' && (
             <DropdownSubheader>ECDC Wards</DropdownSubheader>
@@ -138,16 +140,14 @@ const WardSelect = ({
             ecdc.map((w) => <MenuItem value={w}>{w}</MenuItem>)}
 
           {wardGroupType == 'Alle' && (
-            <DropdownSubheader>Local Wards</DropdownSubheader>
+            <DropdownSubheader>Wards</DropdownSubheader>
           )}
-          {(wardGroupType == 'Alle' || wardGroupType == 'LOCALWARD') &&
-            local.map((w) => <MenuItem value={w}>{w}</MenuItem>)}
+          {(wardGroupType == 'Alle' || wardGroupType == 'WARD') &&
+            wards.map((w) => <MenuItem value={w}>{w}</MenuItem>)}
         </Select>
       </FormControl>
     </>
   );
-
-  return selector;
 };
 
 export default WardSelect;

@@ -1,26 +1,13 @@
+// Einrichtungsauswahlkomponente inklusive primärer Einrichtung und optionaler
+// Vergleichseinrichtung jeweils bestehend aus Krankenhaus und Stationsauswahl
+
 import React from 'react';
 import { Button } from '@mui/material';
-import KrankenhausSelect from './KrankenhausSelect';
-import WardSelect from './WardSelect';
+import HospitalSelection from './HospitalSelection';
+import WardSelection from './WardSelection';
+import { environmentSelectionProps } from '../types/SelectionProps';
 
-interface Props {
-  hospital: string;
-  wardGroupType: string;
-  wardGroup: string;
-  setHospital: (s: string) => void;
-  setWardGroupType: (s: string) => void;
-  setWardGroup: (s: string) => void;
-  compare: boolean;
-  setCompare: (b: boolean) => void;
-  hospitalCompare: string;
-  setHospitalCompare: (s: string) => void;
-  wardGroupTypeCompare: string;
-  setWardGroupTypeCompare: (s: string) => void;
-  wardGroupCompare: string;
-  setWardGroupCompare: (s: string) => void;
-}
-
-const Einrichtung = ({
+const EnvironmentSelection = ({
   hospital,
   wardGroupType,
   wardGroup,
@@ -35,15 +22,11 @@ const Einrichtung = ({
   setWardGroupTypeCompare,
   wardGroupCompare,
   setWardGroupCompare,
-}: Props) => {
+}: environmentSelectionProps) => {
+  // Vergleichsbutton
   const compareButton = (
-    <Button sx={{ m: 1, minWidth: 180 }} onClick={() => setCompare(true)}>
-      Vergleich Hinzufügen
-    </Button>
-  );
-  const removeCompareButton = (
-    <Button sx={{ m: 1, minWidth: 180 }} onClick={() => setCompare(false)}>
-      Vergleich Entfernen
+    <Button sx={{ m: 1, minWidth: 180 }} onClick={() => setCompare(!compare)}>
+      {compare ? <>Vergleich Entfernen</> : <>Vergleich Hinzufügen</>}
     </Button>
   );
 
@@ -52,49 +35,49 @@ const Einrichtung = ({
       <p>Einrichtung Auswählen</p>
       <div>
         <>
-          <KrankenhausSelect
+          <HospitalSelection
             first={true}
             hospital={hospital}
             setHospital={setHospital}
             setWardGroupType={setWardGroupType}
             setWardGroup={setWardGroup}
-          ></KrankenhausSelect>
+          ></HospitalSelection>
           {hospital != 'Alle' && (
-            <WardSelect
+            <WardSelection
               first={true}
               hospital={hospital}
               wardGroupType={wardGroupType}
               setWardGroupType={setWardGroupType}
               wardGroup={wardGroup}
               setWardGroup={setWardGroup}
-            ></WardSelect>
+            ></WardSelection>
           )}
-          {compare ? removeCompareButton : compareButton}
+          {compareButton}
         </>
       </div>
       <div>
         {compare && (
-          <KrankenhausSelect
+          <HospitalSelection
             first={false}
             hospital={hospitalCompare}
             setHospital={setHospitalCompare}
             setWardGroupType={setWardGroupTypeCompare}
             setWardGroup={setWardGroupCompare}
-          ></KrankenhausSelect>
+          ></HospitalSelection>
         )}
         {compare && hospitalCompare != 'Alle' && (
-          <WardSelect
+          <WardSelection
             first={false}
             hospital={hospitalCompare}
             wardGroupType={wardGroupTypeCompare}
             setWardGroupType={setWardGroupTypeCompare}
             wardGroup={wardGroupCompare}
             setWardGroup={setWardGroupCompare}
-          ></WardSelect>
+          ></WardSelection>
         )}
       </div>
     </div>
   );
 };
 
-export default Einrichtung;
+export default EnvironmentSelection;

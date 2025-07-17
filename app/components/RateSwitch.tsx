@@ -1,6 +1,7 @@
+// Komponente um von HOB-Raten auf die Anzahl an HOBs zu wechseln
+
 import React from 'react';
-import { FormGroup, Stack, Typography, Switch } from '@mui/material';
-import { SwitchProps } from '@mui/material/Switch';
+import { Stack, Typography, Switch } from '@mui/material';
 import { styled } from '@mui/material/styles';
 
 const handleSwitch = (
@@ -10,7 +11,7 @@ const handleSwitch = (
   setRateSwitch(!RateSwitch);
 };
 
-const CustomSwitch = styled(Switch)(({ theme }) => ({
+const CustomSwitch = styled(Switch)(() => ({
   '& .MuiSwitch-switchBase.Mui-checked + .MuiSwitch-track': {
     backgroundColor: '#666',
     opacity: 1,
@@ -21,7 +22,6 @@ const CustomSwitch = styled(Switch)(({ theme }) => ({
   },
   '& .MuiSwitch-thumb': {
     color: '#9CA3AF',
-    // border: '2px solid #9CA3AF',
   },
 }));
 

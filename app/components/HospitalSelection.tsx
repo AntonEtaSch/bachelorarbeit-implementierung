@@ -1,22 +1,19 @@
+// Krankenhausauswahlkomponente bestehend aus einem Dropdownmenüs
+// wird für primäres und vergleichskrankenhaus genutzt
+
 import React from 'react';
 import { FormControl, InputLabel, Select, MenuItem } from '@mui/material';
+import { hospitalSelectionProps } from '../types/SelectionProps';
+import { krankenhaeuser } from '../api/hob-rates/data-all';
 
-interface Props {
-  first: boolean;
-  hospital: string;
-  setHospital: (s: string) => void;
-  setWardGroupType: (s: string) => void;
-  setWardGroup: (s: string) => void;
-}
-
-const KrankenhausSelect = ({
-  first,
-  hospital,
-  setHospital,
-  setWardGroupType,
-  setWardGroup,
-}: Props) => {
-  const selector = (
+const HospitalSelection = ({
+  first, // primäres oder vergleichskrankenhaus
+  hospital, // aktueller wert des selector
+  setHospital, // setzen der neuen werte
+  setWardGroupType, // "
+  setWardGroup, // "
+}: hospitalSelectionProps) => {
+  return (
     <FormControl sx={{ my: 1, mr: 1, minWidth: 180 }}>
       <InputLabel
         id={first ? 'krankenhaus-label' : 'krankenhaus-compare-label'}
@@ -29,10 +26,13 @@ const KrankenhausSelect = ({
         value={hospital}
         label="Krankenhaus"
         onChange={(event) => {
+          // setzte hospital auf ausgewählten wert
           setHospital(event.target.value);
+          // falls alle gewählt -> werte für stationen raus nehmen (für api logik)
           if (event.target.value == 'Alle') {
             setWardGroupType('');
             setWardGroup('');
+            // sonst auf alle setzen
           } else {
             setWardGroupType('Alle');
             setWardGroup('Alle');
@@ -40,16 +40,12 @@ const KrankenhausSelect = ({
         }}
       >
         <MenuItem value={'Alle'}>Alle</MenuItem>
-        <MenuItem value={'1'}>Krankenhaus #1</MenuItem>
-        <MenuItem value={'2'}>Krankenhaus #2</MenuItem>
-        <MenuItem value={'3'}>Krankenhaus #3</MenuItem>
-        <MenuItem value={'4'}>Krankenhaus #4</MenuItem>
-        <MenuItem value={'5'}>Krankenhaus #5</MenuItem>
-        <MenuItem value={'6'}>Krankenhaus #6</MenuItem>
+        {krankenhaeuser.map((k) => (
+          <MenuItem value={k}>Krankenhaus {k}</MenuItem>
+        ))}
       </Select>
     </FormControl>
   );
-  return selector;
 };
 
-export default KrankenhausSelect;
+export default HospitalSelection;

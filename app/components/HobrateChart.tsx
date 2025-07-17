@@ -1,3 +1,5 @@
+// Komponente mit HOB-Rate Chart
+
 import React, { useEffect, useState } from 'react';
 import {
   LineChart,
@@ -9,16 +11,7 @@ import {
   Line,
   ResponsiveContainer,
 } from 'recharts';
-
-interface MonthlyData {
-  calendarDate: string;
-  numberOfHOBs: number;
-  numberOfBloodCultureSamples: number; // divided by 10 for reference to total hobs
-  numberOfPatientDays: number; // divided by 1000
-  bcRate: number;
-  hobRate: number;
-  numberOfHobsCompared?: number;
-}
+import { MonthlyData } from '../types/ChartData';
 
 interface Props {
   compare: boolean;
@@ -31,6 +24,7 @@ const HobrateChart = ({ compare, chartDataFirst, chartDataCompare }: Props) => {
 
   useEffect(() => {
     if (compare) {
+      // bei vergleich -> kombiniere in einen datensatz
       setChartData(
         chartDataFirst.map((itemDataFirst, index) => ({
           calendarDate: itemDataFirst.calendarDate,
@@ -63,7 +57,7 @@ const HobrateChart = ({ compare, chartDataFirst, chartDataCompare }: Props) => {
           stroke="#8884d8"
         />
       )}
-      {true && (
+      {compare && (
         <Line
           isAnimationActive={false}
           type="monotone"

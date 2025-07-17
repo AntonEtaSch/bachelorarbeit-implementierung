@@ -1,11 +1,4 @@
-export const krankenhaeuser = [
-  'Krankenhaus #1',
-  'Krankenhaus #2',
-  'Krankenhaus #3',
-  'Krankenhaus #4',
-  'Krankenhaus #5',
-  'Krankenhaus #6'
-  ];
+export const krankenhaeuser = ['1','2','3','4','5','6'];
 
 export const hospitalAll = [
   {"hobType": "WITH_PATHOGEN", "calendarDateStart": "01.10.2022", "calendarDateEnd": "31.10.2022", "wardGroupType": "ALL", "wardGroupValue": "ALL", "numberOfPatientDays": "40540", "numberOfBloodCultureSamples": "357", "numberOfHOBs": "95", "bcRate": "8.806117414898866", "hobRate": "2.3433645781943757"},

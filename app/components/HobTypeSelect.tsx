@@ -1,3 +1,5 @@
+// Komponente zur Auswahl von allen, pathogenen oder kommensalen HOBs
+
 import React from 'react';
 import { FormControl, InputLabel, Select, MenuItem } from '@mui/material';
 

@@ -1,3 +1,5 @@
+// Komponente mit Chart totaler Anzahl der HOBs
+
 import React, { useEffect, useState } from 'react';
 import {
   LineChart,
@@ -9,16 +11,7 @@ import {
   Line,
   ResponsiveContainer,
 } from 'recharts';
-
-interface MonthlyData {
-  calendarDate: string;
-  numberOfHOBs: number;
-  numberOfBloodCultureSamples: number; // divided by 10 for reference to total hobs
-  numberOfPatientDays: number; // divided by 1000
-  bcRate: number;
-  hobRate: number;
-  numberOfHobsCompared?: number;
-}
+import { MonthlyData } from '../types/ChartData';
 
 interface Props {
   compare: boolean;
@@ -27,14 +20,15 @@ interface Props {
 }
 
 const TotalHobsChart = ({
-  compare,
-  chartDataFirst,
-  chartDataCompare,
+  compare, // falls verglichen werden soll
+  chartDataFirst, // daten der primären Einrichtung
+  chartDataCompare, // vergleichsdaten
 }: Props) => {
   const [chartData, setChartData] = useState<MonthlyData[]>(chartDataFirst);
 
   useEffect(() => {
     if (compare) {
+      // bei vergleich -> kombiniere in einen datensatz
       setChartData(
         chartDataFirst.map((itemDataFirst, index) => ({
           calendarDate: itemDataFirst.calendarDate,
@@ -67,28 +61,12 @@ const TotalHobsChart = ({
           stroke="#8884d8"
         />
       )}
-      {true && (
+      {compare && (
         <Line
           isAnimationActive={false}
           type="monotone"
           dataKey="numberOfHobsCompared"
           stroke="#82ca9d"
-        />
-      )}
-      {false && (
-        <Line
-          isAnimationActive={false}
-          type="monotone"
-          dataKey="numberOfPatientDays"
-          stroke="#82ca9d"
-        />
-      )}
-      {false && (
-        <Line
-          isAnimationActive={false}
-          type="monotone"
-          dataKey="numberOfBloodCultureSamples"
-          stroke="#000000"
         />
       )}
     </LineChart>

@@ -1,36 +1,14 @@
+// Auswahlkomponente oberhalb des Charts inklusive Einrichtung, Zeitraum, Hobtype, Rateswitch
+
 import React from 'react';
-import Zeitraum from './Zeitraum';
-import Einrichtung from './Einrichtung';
+import TimerangeSelection from './TimerangeSelection';
+import EnvironmentSelection from './EnvironmentSelection';
 import HobTypeSelect from './HobTypeSelect';
 import RateSwitch from './RateSwitch';
 import { Stack } from '@mui/material';
+import { completeSelectionProps } from '../types/SelectionProps';
 
-interface Props {
-  startMonth: string;
-  endMonth: string;
-  setStartMonth: (date: string) => void;
-  setEndMonth: (date: string) => void;
-  hospital: string;
-  wardGroupType: string;
-  wardGroup: string;
-  setHospital: (s: string) => void;
-  setWardGroupType: (s: string) => void;
-  setWardGroup: (s: string) => void;
-  compare: boolean;
-  setCompare: (b: boolean) => void;
-  hospitalCompare: string;
-  setHospitalCompare: (s: string) => void;
-  wardGroupTypeCompare: string;
-  setWardGroupTypeCompare: (s: string) => void;
-  wardGroupCompare: string;
-  setWardGroupCompare: (s: string) => void;
-  hobType: string;
-  setHobType: (s: string) => void;
-  rateSwitch: boolean;
-  setRateSwitch: (b: boolean) => void;
-}
-
-const Auswahl = ({
+const Selection = ({
   startMonth,
   endMonth,
   setStartMonth,
@@ -53,10 +31,10 @@ const Auswahl = ({
   setHobType,
   rateSwitch,
   setRateSwitch,
-}: Props) => {
+}: completeSelectionProps) => {
   return (
     <div>
-      <Einrichtung
+      <EnvironmentSelection
         hospital={hospital}
         wardGroupType={wardGroupType}
         wardGroup={wardGroup}
@@ -71,13 +49,13 @@ const Auswahl = ({
         setWardGroupTypeCompare={setWardGroupTypeCompare}
         wardGroupCompare={wardGroupCompare}
         setWardGroupCompare={setWardGroupCompare}
-      ></Einrichtung>
-      <Zeitraum
+      ></EnvironmentSelection>
+      <TimerangeSelection
         startMonth={startMonth}
         endMonth={endMonth}
         setStartMonth={setStartMonth}
         setEndMonth={setEndMonth}
-      ></Zeitraum>
+      ></TimerangeSelection>
       <div className="my-3">
         Ansicht Auswählen
         <Stack direction="row" spacing={1} sx={{ alignItems: 'center' }}>
@@ -97,4 +75,4 @@ const Auswahl = ({
   );
 };
 
-export default Auswahl;
+export default Selection;
