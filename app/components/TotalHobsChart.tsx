@@ -13,35 +13,6 @@ import {
 } from 'recharts';
 import { MonthlyData } from '../types/ChartData';
 
-const CustomTooltip = ({ active, payload, label }: any) => {
-  if (!active || !payload || !payload.length) return null;
-
-  const fullData = payload[0]?.payload;
-
-  return (
-    <div
-      style={{
-        background: '#333',
-        color: '#fff',
-        padding: '10px',
-        borderRadius: '8px',
-      }}
-    >
-      <div>
-        <strong>{label}</strong>
-      </div>
-      {payload.map((entry: any, index: number) => (
-        <div key={index}>
-          📈 {entry.name}: {entry.value}
-        </div>
-      ))}
-      <div style={{ marginTop: 8 }}>
-        🛈 Info: <em>{fullData.info}</em>
-      </div>
-    </div>
-  );
-};
-
 interface Props {
   compare: boolean;
   chartDataFirst: MonthlyData[];
@@ -54,6 +25,42 @@ const TotalHobsChart = ({
   chartDataCompare, // vergleichsdaten
 }: Props) => {
   const [chartData, setChartData] = useState<MonthlyData[]>(chartDataFirst);
+
+  // angepasster tooltip
+  const CustomTooltip = ({ active, payload, label }: any) => {
+    if (!active || !payload || !payload.length) return null;
+
+    const fullData = payload[0]?.payload;
+    return (
+      <div
+        style={{
+          background: '#333',
+          color: '#fff',
+          padding: '10px',
+          borderRadius: '8px',
+        }}
+      >
+        <div>
+          {' '}
+          <strong>{label}</strong>{' '}
+        </div>
+        <div>HOBs: {fullData.numberOfHOBs}</div>
+        <div>Blutkulturabnahmen: {fullData.numberOfBloodCultureSamples}</div>
+        <div>Patiententage: {fullData.numberOfPatientDays}</div>
+        {/* Falls verglichen wird tooltip erweitern */}
+        {compare && (
+          <>
+            <strong>Vergleich</strong>
+            <div>HOBs: {fullData.numberOfHobsCompared}</div>
+            <div>
+              Blutkulturabnahmen: {fullData.numberOfBloodCultureSamplesCompared}
+            </div>
+            <div>Patiententage: {fullData.numberOfPatientDaysCompared}</div>
+          </>
+        )}
+      </div>
+    );
+  };
 
   useEffect(() => {
     if (compare) {
@@ -68,6 +75,10 @@ const TotalHobsChart = ({
           bcRate: itemDataFirst.bcRate,
           hobRate: itemDataFirst.hobRate,
           numberOfHobsCompared: chartDataCompare[index]?.numberOfHOBs ?? null,
+          numberOfPatientDaysCompared:
+            chartDataCompare[index]?.numberOfPatientDays ?? null,
+          numberOfBloodCultureSamplesCompared:
+            chartDataCompare[index]?.numberOfBloodCultureSamples ?? null,
         }))
       );
     } else {

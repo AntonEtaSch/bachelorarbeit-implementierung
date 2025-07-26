@@ -106,9 +106,10 @@ const Chart = ({
             rows.map((raw) => ({
               calendarDate: raw.calendarDateStart.slice(3),
               numberOfHOBs: parseInt(raw.numberOfHOBs),
-              numberOfBloodCultureSamples:
-                parseInt(raw.numberOfBloodCultureSamples) / 10,
-              numberOfPatientDays: parseInt(raw.numberOfPatientDays) / 1000,
+              numberOfBloodCultureSamples: parseInt(
+                raw.numberOfBloodCultureSamples
+              ),
+              numberOfPatientDays: parseInt(raw.numberOfPatientDays),
               bcRate: raw.bcRate
                 ? Math.round(parseFloat(raw.bcRate) * 100) / 100
                 : 0,

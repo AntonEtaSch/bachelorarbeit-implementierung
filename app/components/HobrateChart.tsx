@@ -46,6 +46,40 @@ const HobrateChart = ({
 }: Props) => {
   const [chartData, setChartData] = useState<MonthlyData[]>(chartDataFirst);
 
+  // angepasster tooltip
+  const CustomTooltip = ({ active, payload, label }: any) => {
+    if (!active || !payload || !payload.length) return null;
+
+    const fullData = payload[0]?.payload;
+    return (
+      <div
+        style={{
+          background: '#333',
+          color: '#fff',
+          padding: '10px',
+          borderRadius: '8px',
+        }}
+      >
+        <div>
+          {' '}
+          <strong>{label}</strong>{' '}
+        </div>
+        <div>HOB-Rate: {fullData.hobRate}</div>
+        <div>Blutkulturabnahme-Rate: {fullData.bcRate}</div>
+        <div>HOBs: {fullData.numberOfHOBs}</div>
+        {/* Falls verglichen wird tooltip erweitern */}
+        {compare && (
+          <>
+            <strong>Vergleich</strong>
+            <div>HOB-Rate: {fullData.hobRateCompared}</div>
+            <div>Blutkulturabnahme-Rate: {fullData.bcRateCompared}</div>
+            <div>HOBs: {fullData.numberOfHobsCompared}</div>
+          </>
+        )}
+      </div>
+    );
+  };
+
   useEffect(() => {
     if (compare) {
       // bei vergleich -> kombiniere in einen datensatz
@@ -59,6 +93,8 @@ const HobrateChart = ({
           bcRate: itemDataFirst.bcRate,
           hobRate: itemDataFirst.hobRate,
           hobRateCompared: chartDataCompare[index]?.hobRate ?? null,
+          bcRateCompared: chartDataCompare[index]?.bcRate ?? null,
+          numberOfHobsCompared: chartDataCompare[index]?.numberOfHOBs ?? null,
         }))
       );
     } else {
@@ -78,7 +114,7 @@ const HobrateChart = ({
       <CartesianGrid strokeDasharray="3 3" />
       <XAxis dataKey="calendarDate" />
       <YAxis />
-      <Tooltip />
+      <Tooltip content={CustomTooltip} />
       <Legend />
 
       {compare && (
@@ -94,6 +130,7 @@ const HobrateChart = ({
       {showP75 && (
         <Line
           isAnimationActive={false}
+          activeDot={false}
           type="monotone"
           dataKey="p75Value"
           stroke="#FF5733D9"
@@ -105,6 +142,7 @@ const HobrateChart = ({
       {showP85 && (
         <Line
           isAnimationActive={false}
+          activeDot={false}
           type="monotone"
           dataKey="p85Value"
           stroke="#C70039D9"
@@ -116,6 +154,7 @@ const HobrateChart = ({
       {showP95 && (
         <Line
           isAnimationActive={false}
+          activeDot={false}
           type="monotone"
           dataKey="p95Value"
           stroke="#800020D9"
