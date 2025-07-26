@@ -5,7 +5,7 @@ import TimerangeSelection from './TimerangeSelection';
 import EnvironmentSelection from './EnvironmentSelection';
 import HobTypeSelect from './HobTypeSelect';
 import RateSwitch from './RateSwitch';
-import { Stack, Box } from '@mui/material';
+import { Stack } from '@mui/material';
 import { completeSelectionProps } from '../types/SelectionProps';
 import CheckPercentile from './CheckPercentile';
 

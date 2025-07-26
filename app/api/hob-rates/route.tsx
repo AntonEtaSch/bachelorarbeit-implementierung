@@ -6,6 +6,7 @@ import { hospitaldata4, percentile4 } from './data-4';
 import { hospitaldata5, percentile5 } from './data-5';
 import { hospitaldata6, percentile6 } from './data-6';
 import { hospitalAll } from './data-all';
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import { error } from 'console';
 
 export function GET(request: NextRequest) {

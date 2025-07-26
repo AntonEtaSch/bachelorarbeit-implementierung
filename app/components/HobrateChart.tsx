@@ -46,7 +46,8 @@ const HobrateChart = ({
 }: Props) => {
   const [chartData, setChartData] = useState<MonthlyData[]>(chartDataFirst);
 
-  // angepasster tooltip
+  // angepasster tooltip / datenpunkte sind hier nicht einheitlich
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const CustomTooltip = ({ active, payload, label }: any) => {
     if (!active || !payload || !payload.length) return null;
 
@@ -107,7 +108,7 @@ const HobrateChart = ({
         }))
       );
     }
-  }, [chartDataFirst, chartDataCompare, p75, p85, p95]);
+  }, [chartDataFirst, chartDataCompare, p75, p85, p95, compare]);
 
   const totalHobsChart = (
     <LineChart data={chartData}>

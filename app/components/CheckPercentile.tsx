@@ -1,3 +1,6 @@
+// Komponente für das Steuern der Anzeige der Perzentile
+// Wird nur bei HOB-Rate und ohne Vergleich angezeigt
+
 import React from 'react';
 import { FormControlLabel, Checkbox, Stack } from '@mui/material';
 

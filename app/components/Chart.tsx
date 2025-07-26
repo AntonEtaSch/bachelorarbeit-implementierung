@@ -10,7 +10,6 @@ import HobrateChart from './HobrateChart';
 import { RawData, MonthlyData } from '../types/ChartData';
 import { RawPercentileData, MonthlyPercentileData } from '../types/ChartData';
 import { ChartProps } from '../types/ChartProps';
-import RateSwitch from './RateSwitch';
 
 const Chart = ({
   startDate, // relevante für selektieren der Daten
@@ -188,6 +187,7 @@ const Chart = ({
       hospitalCompare,
       wardGroupTypeCompare,
       wardGroupValueCompare,
+      percentileSelect,
     ]
   );
 

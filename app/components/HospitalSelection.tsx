@@ -55,7 +55,9 @@ const HospitalSelection = ({
       >
         <MenuItem value={'Alle'}>Alle</MenuItem>
         {krankenhaeuser.map((k) => (
-          <MenuItem value={k}>Krankenhaus {k}</MenuItem>
+          <MenuItem key={'K' + k} value={k}>
+            Krankenhaus {k}
+          </MenuItem>
         ))}
       </Select>
     </FormControl>

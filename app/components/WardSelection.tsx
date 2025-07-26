@@ -159,19 +159,31 @@ const WardSelect = ({
             <DropdownSubheader>Local Wards</DropdownSubheader>
           )}
           {(wardGroupType == 'Alle' || wardGroupType == 'LOCALWARD') &&
-            local.map((w) => <MenuItem value={w}>{w}</MenuItem>)}
+            local.map((w) => (
+              <MenuItem key={'L' + w} value={w}>
+                {w}
+              </MenuItem>
+            ))}
 
           {wardGroupType == 'Alle' && (
             <DropdownSubheader>ECDC Wards</DropdownSubheader>
           )}
           {(wardGroupType == 'Alle' || wardGroupType == 'ECDCWARD') &&
-            ecdc.map((w) => <MenuItem value={w}>{w}</MenuItem>)}
+            ecdc.map((w) => (
+              <MenuItem key={'E' + w} value={w}>
+                {w}
+              </MenuItem>
+            ))}
 
           {wardGroupType == 'Alle' && (
             <DropdownSubheader>Wards</DropdownSubheader>
           )}
           {(wardGroupType == 'Alle' || wardGroupType == 'WARD') &&
-            wards.map((w) => <MenuItem value={w}>{w}</MenuItem>)}
+            wards.map((w) => (
+              <MenuItem key={'W' + w} value={w}>
+                {w}
+              </MenuItem>
+            ))}
         </Select>
       </FormControl>
     </>
