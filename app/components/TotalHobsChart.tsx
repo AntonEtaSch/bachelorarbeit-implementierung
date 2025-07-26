@@ -93,16 +93,6 @@ const TotalHobsChart = ({
       <YAxis />
       <Tooltip content={CustomTooltip} />
       <Legend />
-      {true && (
-        <Line
-          isAnimationActive={false}
-          type="monotone"
-          dataKey="numberOfHOBs"
-          stroke="#6A5ACD"
-          strokeWidth={2.4}
-          dot={{ fill: '#6A5ACD', r: 2.6 }}
-        />
-      )}
       {compare && (
         <Line
           isAnimationActive={false}
@@ -110,7 +100,19 @@ const TotalHobsChart = ({
           dataKey="numberOfHobsCompared"
           stroke="#A31545"
           strokeWidth={2.4}
+          name="VergleichsHOBs"
           dot={{ fill: '#A31545', r: 2.6 }}
+        />
+      )}
+      {true && (
+        <Line
+          isAnimationActive={false}
+          type="monotone"
+          dataKey="numberOfHOBs"
+          stroke="#6A5ACD"
+          strokeWidth={2.4}
+          name="HOBs"
+          dot={{ fill: '#6A5ACD', r: 2.6 }}
         />
       )}
     </LineChart>

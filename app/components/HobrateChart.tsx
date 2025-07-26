@@ -123,6 +123,7 @@ const HobrateChart = ({
           type="monotone"
           dataKey="hobRateCompared"
           stroke="#A31545"
+          name="VergleichsHOB-Rate"
           strokeWidth={2.4}
           dot={{ fill: '#A31545', r: 2.6 }}
         />
@@ -136,6 +137,7 @@ const HobrateChart = ({
           stroke="#FF5733D9"
           strokeWidth={2}
           strokeDasharray="5 5"
+          name="75. Perzentil"
           dot={{ r: 0 }}
         />
       )}
@@ -148,6 +150,7 @@ const HobrateChart = ({
           stroke="#C70039D9"
           strokeWidth={2}
           strokeDasharray="5 5"
+          name="85. Perzentil"
           dot={{ r: 0 }}
         />
       )}
@@ -160,6 +163,7 @@ const HobrateChart = ({
           stroke="#800020D9"
           strokeWidth={2}
           strokeDasharray="5 5"
+          name="95. Perzentil"
           dot={{ r: 0 }}
         />
       )}
@@ -170,6 +174,7 @@ const HobrateChart = ({
           dataKey="hobRate"
           stroke="#6A5ACD"
           strokeWidth={2.4}
+          name="HOB-Rate"
           dot={{ fill: '#6A5ACD', r: 2.6 }}
         />
       )}
