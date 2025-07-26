@@ -33,7 +33,7 @@ interface Props {
 const RateSwitch = ({ rateSwitch, setRateSwitch }: Props) => {
   return (
     <div className="border border-gray-400 hover:border-gray-700 rounded-lg px-3 py-2">
-      <Stack direction="row" spacing={1} sx={{ alignItems: 'center' }}>
+      <Stack direction="row" spacing={1} sx={{ alignItems: 'center', flex: 1 }}>
         <Typography variant="body1">HOB-Rate</Typography>
         <CustomSwitch
           onChange={() => handleSwitch(rateSwitch, setRateSwitch)}

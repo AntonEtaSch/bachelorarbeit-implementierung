@@ -89,6 +89,20 @@ const WardSelect = ({
           Ward Gruppen Typ
         </InputLabel>
         <Select
+          // in farbe des charts
+          sx={
+            first
+              ? {
+                  '& .MuiOutlinedInput-notchedOutline': {
+                    borderColor: '#6A5ACD',
+                  },
+                }
+              : {
+                  '& .MuiOutlinedInput-notchedOutline': {
+                    borderColor: '#A31545',
+                  },
+                }
+          }
           labelId={first ? 'wgt-select-label' : 'wgt-compare-label'}
           id={first ? 'wgt-select' : 'wgt-compare'}
           value={wardGroupType}
@@ -110,6 +124,20 @@ const WardSelect = ({
           {wardGroupType == 'WARD' ? <>Ward</> : <>Ward Gruppe</>}
         </InputLabel>
         <Select
+          // in farbe des charts
+          sx={
+            first
+              ? {
+                  '& .MuiOutlinedInput-notchedOutline': {
+                    borderColor: '#6A5ACD',
+                  },
+                }
+              : {
+                  '& .MuiOutlinedInput-notchedOutline': {
+                    borderColor: '#A31545',
+                  },
+                }
+          }
           labelId={first ? 'wg-select-label' : 'wg-compare-label'}
           id={first ? 'wg-select' : 'wg-compare'}
           value={wardGroup}

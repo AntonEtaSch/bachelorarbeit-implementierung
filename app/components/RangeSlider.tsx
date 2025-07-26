@@ -63,6 +63,18 @@ const RangeSlider = ({
         }}
         valueLabelDisplay="auto"
         disableSwap
+        sx={{
+          color: '#181818',
+          '& .MuiSlider-thumb': {
+            width: 8,
+            height: 24,
+            borderRadius: 0.6,
+            color: '#505050',
+            '&:hover, &.Mui-active': {
+              boxShadow: '0 0 0 3px ',
+            },
+          },
+        }}
       />
       <div className="text-center text-lg">Zeitraum Anpassen</div>
     </div>

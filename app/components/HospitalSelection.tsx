@@ -21,6 +21,20 @@ const HospitalSelection = ({
         Krankenhaus
       </InputLabel>
       <Select
+        // in farbe des charts
+        sx={
+          first
+            ? {
+                '& .MuiOutlinedInput-notchedOutline': {
+                  borderColor: '#6A5ACD',
+                },
+              }
+            : {
+                '& .MuiOutlinedInput-notchedOutline': {
+                  borderColor: '#A31545',
+                },
+              }
+        }
         labelId={first ? 'krankenhaus-label' : 'krankenhaus-compare-label'}
         id={first ? 'krankenhaus' : 'krankenhaus-compare'}
         value={hospital}

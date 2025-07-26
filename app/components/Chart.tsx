@@ -109,8 +109,12 @@ const Chart = ({
               numberOfBloodCultureSamples:
                 parseInt(raw.numberOfBloodCultureSamples) / 10,
               numberOfPatientDays: parseInt(raw.numberOfPatientDays) / 1000,
-              bcRate: raw.bcRate ? parseFloat(raw.bcRate) : 0,
-              hobRate: raw.hobRate ? parseFloat(raw.hobRate) : 0,
+              bcRate: raw.bcRate
+                ? Math.round(parseFloat(raw.bcRate) * 100) / 100
+                : 0,
+              hobRate: raw.hobRate
+                ? Math.round(parseFloat(raw.hobRate) * 100) / 100
+                : 0,
             }))
           );
         } catch (err) {
@@ -136,21 +140,27 @@ const Chart = ({
             setP75Line(
               rows.map((raw) => ({
                 calendarDate: raw.calendarDateStart.slice(3),
-                hobRate: raw.hobRate ? parseFloat(raw.hobRate) : 0,
+                hobRate: raw.hobRate
+                  ? Math.round(parseFloat(raw.hobRate) * 100) / 100
+                  : 0,
               }))
             );
           } else if (p == 'p85') {
             setP85Line(
               rows.map((raw) => ({
                 calendarDate: raw.calendarDateStart.slice(3),
-                hobRate: raw.hobRate ? parseFloat(raw.hobRate) : 0,
+                hobRate: raw.hobRate
+                  ? Math.round(parseFloat(raw.hobRate) * 100) / 100
+                  : 0,
               }))
             );
           } else if (p == 'p95') {
             setP95Line(
               rows.map((raw) => ({
                 calendarDate: raw.calendarDateStart.slice(3),
-                hobRate: raw.hobRate ? parseFloat(raw.hobRate) : 0,
+                hobRate: raw.hobRate
+                  ? Math.round(parseFloat(raw.hobRate) * 100) / 100
+                  : 0,
               }))
             );
           }
@@ -161,10 +171,10 @@ const Chart = ({
       loadData();
       if (compare) loadDataCompare();
       // gewünschte perzentile laden falls passend
-      const necessary = !compare && !rateSwitch && hospital != 'Alle';
-      if (percentileSelect[0] && necessary) loadPercentile('p75');
-      if (percentileSelect[1] && necessary) loadPercentile('p85');
-      if (percentileSelect[2] && necessary) loadPercentile('p95');
+      const possible = hospital != 'Alle';
+      if (percentileSelect[0] && possible) loadPercentile('p75');
+      if (percentileSelect[1] && possible) loadPercentile('p85');
+      if (percentileSelect[2] && possible) loadPercentile('p95');
     }, //  falls sich etwas ändert, neu abrufen
     [
       startDate,

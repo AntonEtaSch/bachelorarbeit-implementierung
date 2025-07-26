@@ -5,7 +5,7 @@ import TimerangeSelection from './TimerangeSelection';
 import EnvironmentSelection from './EnvironmentSelection';
 import HobTypeSelect from './HobTypeSelect';
 import RateSwitch from './RateSwitch';
-import { Stack } from '@mui/material';
+import { Stack, Box } from '@mui/material';
 import { completeSelectionProps } from '../types/SelectionProps';
 import CheckPercentile from './CheckPercentile';
 
@@ -61,19 +61,27 @@ const Selection = ({
       ></TimerangeSelection>
       <div className="my-3">
         Ansicht Auswählen
-        <Stack direction="row" spacing={1} sx={{ alignItems: 'center' }}>
-          <div className="mr-5">
+        <div className="mt-2">
+          <Stack direction="row" spacing={3} sx={{ alignItems: 'center' }}>
             <HobTypeSelect
               hobType={hobType}
               setHobType={setHobType}
             ></HobTypeSelect>
-          </div>
-          <RateSwitch
-            rateSwitch={rateSwitch}
-            setRateSwitch={setRateSwitch}
-          ></RateSwitch>
-          {/* <CheckPercentile></CheckPercentile> */}
-        </Stack>
+
+            <RateSwitch
+              rateSwitch={rateSwitch}
+              setRateSwitch={setRateSwitch}
+            ></RateSwitch>
+
+            {/* <Box sx={{ flexGrow: 1 }} /> */}
+            {!compare && !rateSwitch && hospital != 'Alle' && (
+              <CheckPercentile
+                percentileSelect={percentileSelect}
+                setPercentileSelect={setPercentileSelect}
+              ></CheckPercentile>
+            )}
+          </Stack>
+        </div>
       </div>
     </div>
   );

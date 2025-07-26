@@ -71,15 +71,6 @@ const HobrateChart = ({
         }))
       );
     }
-    // perzentile in daten einbinden
-    // setChartData(
-    //   chartData.map((Month) => ({
-    //     ...Month,
-    //     p75Value: getP(Month, p75),
-    //     p85Value: getP(Month, p85),
-    //     p95Value: getP(Month, p95),
-    //   }))
-    // );
   }, [chartDataFirst, chartDataCompare, p75, p85, p95]);
 
   const totalHobsChart = (
@@ -95,7 +86,9 @@ const HobrateChart = ({
           isAnimationActive={false}
           type="monotone"
           dataKey="hobRateCompared"
-          stroke="#82ca9d"
+          stroke="#A31545"
+          strokeWidth={2.4}
+          dot={{ fill: '#A31545', r: 2.6 }}
         />
       )}
       {showP75 && (
@@ -106,6 +99,7 @@ const HobrateChart = ({
           stroke="#FF5733D9"
           strokeWidth={2}
           strokeDasharray="5 5"
+          dot={{ r: 0 }}
         />
       )}
       {showP85 && (
@@ -116,6 +110,7 @@ const HobrateChart = ({
           stroke="#C70039D9"
           strokeWidth={2}
           strokeDasharray="5 5"
+          dot={{ r: 0 }}
         />
       )}
       {showP95 && (
@@ -126,6 +121,7 @@ const HobrateChart = ({
           stroke="#800020D9"
           strokeWidth={2}
           strokeDasharray="5 5"
+          dot={{ r: 0 }}
         />
       )}
       {true && (

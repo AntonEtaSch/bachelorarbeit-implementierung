@@ -13,6 +13,35 @@ import {
 } from 'recharts';
 import { MonthlyData } from '../types/ChartData';
 
+const CustomTooltip = ({ active, payload, label }: any) => {
+  if (!active || !payload || !payload.length) return null;
+
+  const fullData = payload[0]?.payload;
+
+  return (
+    <div
+      style={{
+        background: '#333',
+        color: '#fff',
+        padding: '10px',
+        borderRadius: '8px',
+      }}
+    >
+      <div>
+        <strong>{label}</strong>
+      </div>
+      {payload.map((entry: any, index: number) => (
+        <div key={index}>
+          📈 {entry.name}: {entry.value}
+        </div>
+      ))}
+      <div style={{ marginTop: 8 }}>
+        🛈 Info: <em>{fullData.info}</em>
+      </div>
+    </div>
+  );
+};
+
 interface Props {
   compare: boolean;
   chartDataFirst: MonthlyData[];
@@ -51,14 +80,16 @@ const TotalHobsChart = ({
       <CartesianGrid strokeDasharray="3 3" />
       <XAxis dataKey="calendarDate" />
       <YAxis />
-      <Tooltip />
+      <Tooltip content={CustomTooltip} />
       <Legend />
       {true && (
         <Line
           isAnimationActive={false}
           type="monotone"
           dataKey="numberOfHOBs"
-          stroke="#8884d8"
+          stroke="#6A5ACD"
+          strokeWidth={2.4}
+          dot={{ fill: '#6A5ACD', r: 2.6 }}
         />
       )}
       {compare && (
@@ -66,7 +97,9 @@ const TotalHobsChart = ({
           isAnimationActive={false}
           type="monotone"
           dataKey="numberOfHobsCompared"
-          stroke="#82ca9d"
+          stroke="#A31545"
+          strokeWidth={2.4}
+          dot={{ fill: '#A31545', r: 2.6 }}
         />
       )}
     </LineChart>
