@@ -7,6 +7,7 @@ import HobTypeSelect from './HobTypeSelect';
 import RateSwitch from './RateSwitch';
 import { Stack } from '@mui/material';
 import { completeSelectionProps } from '../types/SelectionProps';
+import CheckPercentile from './CheckPercentile';
 
 const Selection = ({
   startMonth,
@@ -31,6 +32,8 @@ const Selection = ({
   setHobType,
   rateSwitch,
   setRateSwitch,
+  percentileSelect,
+  setPercentileSelect,
 }: completeSelectionProps) => {
   return (
     <div>
@@ -69,6 +72,7 @@ const Selection = ({
             rateSwitch={rateSwitch}
             setRateSwitch={setRateSwitch}
           ></RateSwitch>
+          {/* <CheckPercentile></CheckPercentile> */}
         </Stack>
       </div>
     </div>

@@ -11,15 +11,39 @@ import {
   Line,
   ResponsiveContainer,
 } from 'recharts';
-import { MonthlyData } from '../types/ChartData';
+import { MonthlyData, MonthlyPercentileData } from '../types/ChartData';
 
 interface Props {
   compare: boolean;
   chartDataFirst: MonthlyData[];
   chartDataCompare: MonthlyData[];
+  p75: MonthlyPercentileData[];
+  p85: MonthlyPercentileData[];
+  p95: MonthlyPercentileData[];
+  showP75: boolean;
+  showP85: boolean;
+  showP95: boolean;
 }
 
-const HobrateChart = ({ compare, chartDataFirst, chartDataCompare }: Props) => {
+const getP = (Month: MonthlyData, P: MonthlyPercentileData[]) => {
+  const lookForMonth = Month.calendarDate;
+  for (let i = 0; i < P.length; i++) {
+    if (P[i].calendarDate == lookForMonth) return P[i].hobRate;
+  }
+  return 0;
+};
+
+const HobrateChart = ({
+  compare,
+  chartDataFirst,
+  chartDataCompare,
+  p75,
+  p85,
+  p95,
+  showP75,
+  showP85,
+  showP95,
+}: Props) => {
   const [chartData, setChartData] = useState<MonthlyData[]>(chartDataFirst);
 
   useEffect(() => {
@@ -38,9 +62,25 @@ const HobrateChart = ({ compare, chartDataFirst, chartDataCompare }: Props) => {
         }))
       );
     } else {
-      setChartData(chartDataFirst);
+      setChartData(
+        chartDataFirst.map((Month) => ({
+          ...Month,
+          p75Value: getP(Month, p75),
+          p85Value: getP(Month, p85),
+          p95Value: getP(Month, p95),
+        }))
+      );
     }
-  }, [chartDataFirst, chartDataCompare]);
+    // perzentile in daten einbinden
+    // setChartData(
+    //   chartData.map((Month) => ({
+    //     ...Month,
+    //     p75Value: getP(Month, p75),
+    //     p85Value: getP(Month, p85),
+    //     p95Value: getP(Month, p95),
+    //   }))
+    // );
+  }, [chartDataFirst, chartDataCompare, p75, p85, p95]);
 
   const totalHobsChart = (
     <LineChart data={chartData}>
@@ -49,14 +89,7 @@ const HobrateChart = ({ compare, chartDataFirst, chartDataCompare }: Props) => {
       <YAxis />
       <Tooltip />
       <Legend />
-      {true && (
-        <Line
-          isAnimationActive={false}
-          type="monotone"
-          dataKey="hobRate"
-          stroke="#8884d8"
-        />
-      )}
+
       {compare && (
         <Line
           isAnimationActive={false}
@@ -65,20 +98,44 @@ const HobrateChart = ({ compare, chartDataFirst, chartDataCompare }: Props) => {
           stroke="#82ca9d"
         />
       )}
-      {false && (
+      {showP75 && (
         <Line
           isAnimationActive={false}
           type="monotone"
-          dataKey="numberOfPatientDays"
-          stroke="#82ca9d"
+          dataKey="p75Value"
+          stroke="#FF5733D9"
+          strokeWidth={2}
+          strokeDasharray="5 5"
         />
       )}
-      {false && (
+      {showP85 && (
         <Line
           isAnimationActive={false}
           type="monotone"
-          dataKey="numberOfBloodCultureSamples"
-          stroke="#000000"
+          dataKey="p85Value"
+          stroke="#C70039D9"
+          strokeWidth={2}
+          strokeDasharray="5 5"
+        />
+      )}
+      {showP95 && (
+        <Line
+          isAnimationActive={false}
+          type="monotone"
+          dataKey="p95Value"
+          stroke="#800020D9"
+          strokeWidth={2}
+          strokeDasharray="5 5"
+        />
+      )}
+      {true && (
+        <Line
+          isAnimationActive={false}
+          type="monotone"
+          dataKey="hobRate"
+          stroke="#6A5ACD"
+          strokeWidth={2.4}
+          dot={{ fill: '#6A5ACD', r: 2.6 }}
         />
       )}
     </LineChart>

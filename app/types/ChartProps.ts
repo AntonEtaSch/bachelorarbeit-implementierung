@@ -10,4 +10,5 @@ export interface ChartProps {
   wardGroupValueCompare: string;
   hobType: string;
   rateSwitch: boolean;
+  percentileSelect: boolean[];
 }

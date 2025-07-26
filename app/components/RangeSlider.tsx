@@ -64,6 +64,7 @@ const RangeSlider = ({
         valueLabelDisplay="auto"
         disableSwap
       />
+      <div className="text-center text-lg">Zeitraum Anpassen</div>
     </div>
   );
 };

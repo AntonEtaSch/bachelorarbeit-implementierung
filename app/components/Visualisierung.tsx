@@ -23,6 +23,11 @@ const Visualisierung = () => {
   // Auswahl von hobType und Ansicht rate/totate Anzahl speichern
   const [hobType, setHobType] = useState<string>('ALL');
   const [rateSwitch, setRateSwitch] = useState<boolean>(false); // true => total, false => rate
+  const [percentileSelect, setPercentileSelect] = useState<boolean[]>([
+    true,
+    true,
+    true,
+  ]);
 
   // Besteht Grundsätzlich aus Selection, Chart und Slider für dynamischen Zeitraum
   return (
@@ -51,6 +56,8 @@ const Visualisierung = () => {
           setHobType={setHobType}
           rateSwitch={rateSwitch}
           setRateSwitch={setRateSwitch}
+          percentileSelect={percentileSelect}
+          setPercentileSelect={setPercentileSelect}
         ></Selection>
       </div>
       <Chart
@@ -65,6 +72,7 @@ const Visualisierung = () => {
         wardGroupValueCompare={wardGroupCompare}
         hobType={hobType}
         rateSwitch={rateSwitch}
+        percentileSelect={percentileSelect}
       ></Chart>
       <div className="ml-10">
         <RangeSlider

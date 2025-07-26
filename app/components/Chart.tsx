@@ -7,9 +7,10 @@ import React, { useEffect } from 'react';
 import { useState } from 'react';
 import TotalHobsChart from './TotalHobsChart';
 import HobrateChart from './HobrateChart';
-import { RawData } from '../types/ChartData';
-import { MonthlyData } from '../types/ChartData';
+import { RawData, MonthlyData } from '../types/ChartData';
+import { RawPercentileData, MonthlyPercentileData } from '../types/ChartData';
 import { ChartProps } from '../types/ChartProps';
+import RateSwitch from './RateSwitch';
 
 const Chart = ({
   startDate, // relevante für selektieren der Daten
@@ -23,9 +24,14 @@ const Chart = ({
   wardGroupValueCompare, // "
   hobType, // filern der daten
   rateSwitch, // entscheidet welcher chart
+  percentileSelect,
 }: ChartProps) => {
   const [chartData, setChartData] = useState<MonthlyData[]>([]);
   const [chartDataCompare, setChartDataCompare] = useState<MonthlyData[]>([]);
+
+  const [p75Line, setP75Line] = useState<MonthlyPercentileData[]>([]);
+  const [p85Line, setP85Line] = useState<MonthlyPercentileData[]>([]);
+  const [p95Line, setP95Line] = useState<MonthlyPercentileData[]>([]);
 
   useEffect(
     () => {
@@ -75,7 +81,6 @@ const Chart = ({
 
       // selbes für vergleichsdaten
       const loadDataCompare = async () => {
-        // only load comparison data if needed
         try {
           let queryParams = `?hospital=${hospitalCompare}`;
           queryParams += `&hobType=${hobType}`;
@@ -112,8 +117,54 @@ const Chart = ({
           console.log('Fehler beim Lesen der Daten:', err);
         }
       };
+
+      // selbes für perzentile
+      const loadPercentile = async (p: string) => {
+        try {
+          let queryParams = `?hospital=${hospital}`;
+          queryParams += `&hobType=${hobType}`;
+          queryParams += `&calendarDateStart=${startDate}`;
+          queryParams += `&calendarDateEnd=${endDate}`;
+          queryParams += `&percentile=${p}`;
+          const res = await fetch(
+            `http://localhost:3000/api/hob-rates` + queryParams
+          );
+          if (!res.ok) throw new Error(`HTTP Fehler! Status ${res.status}`);
+          const rows: RawPercentileData[] = await res.json();
+
+          if (p == 'p75') {
+            setP75Line(
+              rows.map((raw) => ({
+                calendarDate: raw.calendarDateStart.slice(3),
+                hobRate: raw.hobRate ? parseFloat(raw.hobRate) : 0,
+              }))
+            );
+          } else if (p == 'p85') {
+            setP85Line(
+              rows.map((raw) => ({
+                calendarDate: raw.calendarDateStart.slice(3),
+                hobRate: raw.hobRate ? parseFloat(raw.hobRate) : 0,
+              }))
+            );
+          } else if (p == 'p95') {
+            setP95Line(
+              rows.map((raw) => ({
+                calendarDate: raw.calendarDateStart.slice(3),
+                hobRate: raw.hobRate ? parseFloat(raw.hobRate) : 0,
+              }))
+            );
+          }
+        } catch (err) {
+          console.log('Fehler beim Lesen der Perzentile:', err);
+        }
+      };
       loadData();
       if (compare) loadDataCompare();
+      // gewünschte perzentile laden falls passend
+      const necessary = !compare && !rateSwitch && hospital != 'Alle';
+      if (percentileSelect[0] && necessary) loadPercentile('p75');
+      if (percentileSelect[1] && necessary) loadPercentile('p85');
+      if (percentileSelect[2] && necessary) loadPercentile('p95');
     }, //  falls sich etwas ändert, neu abrufen
     [
       startDate,
@@ -131,7 +182,6 @@ const Chart = ({
 
   return (
     <>
-      {/* je nach switch passenden chart */}
       {rateSwitch ? (
         <TotalHobsChart
           compare={compare}
@@ -143,6 +193,12 @@ const Chart = ({
           compare={compare}
           chartDataFirst={chartData}
           chartDataCompare={chartDataCompare}
+          p75={p75Line}
+          p85={p85Line}
+          p95={p95Line}
+          showP75={percentileSelect[0] && !compare && hospital != 'Alle'}
+          showP85={percentileSelect[1] && !compare && hospital != 'Alle'}
+          showP95={percentileSelect[2] && !compare && hospital != 'Alle'}
         ></HobrateChart>
       )}
     </>

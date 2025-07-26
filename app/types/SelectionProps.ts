@@ -55,6 +55,8 @@ export interface completeSelectionProps {
   setHobType: (s: string) => void;
   rateSwitch: boolean;
   setRateSwitch: (b: boolean) => void;
+  percentileSelect: boolean[];
+  setPercentileSelect: (b: boolean[]) => void;
 }
 
 
