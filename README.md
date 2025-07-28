@@ -17,7 +17,7 @@ Voraussetzungen
 Lokale Installation
 
 1. Repository klonen
-git clone https://github.com/dein-nutzername/hob-visualisierung.git
+git clone https://github.com/AntonEtaSch/bachelorarbeit-implementierung.git
 cd hob-visualisierung
 
 2. Abhängigkeiten installieren
