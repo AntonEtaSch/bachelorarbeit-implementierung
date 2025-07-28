@@ -1,9 +1,9 @@
-import Visualisierung from './components/Visualisierung';
+import Visualisation from './components/Visualisation';
 
 export default function Home() {
   return (
     <div>
-      <Visualisierung></Visualisierung>
+      <Visualisation></Visualisation>
     </div>
   );
 }

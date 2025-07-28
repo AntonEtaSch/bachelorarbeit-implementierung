@@ -7,7 +7,7 @@ import Selection from './Selection';
 import RangeSlider from './RangeSlider';
 import Chart from './Chart';
 
-const Visualisierung = () => {
+const Visualisation = () => {
   // Auswahl des Zeitraums speichern
   const [startMonth, setStartMonth] = useState<string>('102022');
   const [endMonth, setEndMonth] = useState<string>('122024');
@@ -86,4 +86,4 @@ const Visualisierung = () => {
   );
 };
 
-export default Visualisierung;
+export default Visualisation;
