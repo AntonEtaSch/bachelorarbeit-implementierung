@@ -16,11 +16,11 @@ Voraussetzungen
 
 Lokale Installation
 
-1. Repository klonen
+Repository klonen
 git clone https://github.com/AntonEtaSch/bachelorarbeit-implementierung.git
 cd bachelorarbeit-implementierung
 
-3. Abhängigkeiten installieren
+Abhängigkeiten installieren
 npm install
 oder
 yarn install
