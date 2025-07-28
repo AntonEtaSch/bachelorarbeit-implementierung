@@ -18,8 +18,7 @@ Lokale Installation
 
 1. Repository klonen
 git clone https://github.com/AntonEtaSch/bachelorarbeit-implementierung.git
-
-cd hob-visualisierung
+cd bachelorarbeit-implementierung
 
 3. Abhängigkeiten installieren
 npm install
